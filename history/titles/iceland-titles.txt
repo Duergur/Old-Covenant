@@ -1,0 +1,22 @@
+﻿d_sturlungar = { # Wallada bint al-Mustakfi
+	1178.1.1 = {
+		liege = 0
+		holder = andalusian_0003 # Wallada bint al-Mustakfi
+		government = landless_adventurer_government
+		succession_laws = {
+			landless_adventurer_succession_law
+			equal_law
+		}
+		effect = {
+			create_landless_adventurer_title_history_effect = yes
+			set_variable = { name = adventurer_creation_reason value = flag:historical }
+			# let the title keep the equal law on inheritance
+			set_variable = { name = can_keep_realm_law value = flag:equal_law }
+		}
+	}
+	1178.09.15 = {
+		effect = {
+			destroy_landless_title_no_dlc_effect = { DATE = 1066.9.15 }
+		}
+	}
+}

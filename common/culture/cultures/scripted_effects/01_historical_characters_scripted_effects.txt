@@ -1,0 +1,46 @@
+﻿spawn_historical_characters_effect = {
+	
+
+	if = { # Snorri Sturluson
+		limit = {
+			current_year >= 1199
+			current_year <= 1205
+			NOT = { exists = global_var:hchar_snorri_sturluson }
+		}
+		set_global_variable = { name = hchar_snorri_sturluson value = yes }
+		title:b_reykjavik = {
+			save_scope_as = birth_location
+			create_character = {
+				age = 20
+				name = "Snorri"
+				dynasty_house = house:house_sturluson
+				gender_female_chance = 0
+				random_traits = no
+				location = scope:birth_location.title_province
+				faith = scope:birth_location.title_province.faith
+				culture = scope:birth_location.title_province.culture
+				trait = education_learning_3
+				trait = ambitious
+				trait = diligent
+				trait = gregarious
+				trait = poet
+				diplomacy = { min_template_high_skill max_template_high_skill }
+				martial = { min_template_low_skill max_template_low_skill }
+				stewardship = { min_template_high_skill max_template_high_skill }
+				intrigue = { min_template_high_skill max_template_high_skill }
+				learning = { min_template_high_skill max_template_high_skill }
+				prowess = { min_template_low_skill max_template_low_skill }
+				save_scope_as = historical_character
+			}
+			scope:historical_character ?= {
+				historical_character_finalization_effect = yes
+				set_variable = snorri_sturluson
+				save_scope_as = major
+				create_inspiration = book_inspiration
+			}
+			if = { limit = { has_variable = snorri_sturluson } } # Error suppression
+			spawn_historical_characters_boilerplate_effect = yes
+		}
+	}
+}
+	
