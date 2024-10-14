@@ -5,7 +5,7 @@
 
 d_laamp_sturlungar = { # Wallada bint al-Mustakfi
 	color = { 100 100 100 }
-	capital = c_sudurland # Cordoba
+	capital = c_vestisland # Cordoba
 
 	definite_form = yes
 	landless = yes

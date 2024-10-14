@@ -1,5 +1,5 @@
 ﻿1703992859 = {
-	name = "Snorri2"
+	name = "Snorri"
 	dynasty = sturluson
 	martial = 6
 	diplomacy = 5
