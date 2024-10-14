@@ -1,16 +1,90 @@
 ﻿1703992859 = {
 	name = "Sturla"
 	dynasty = sturluson
-	martial = 6
-	diplomacy = 5
-	intrigue = 6
-	stewardship = 6
+    
+	martial = 17
+	diplomacy = 2
+	intrigue = 10
+	stewardship = 8
+    learning = 6
 	religion = "catholic"
 	culture = "icelander"
-	trait = wroth
+	trait = arrogant
+    trait = wrathful
 	trait = education_stewardship_2
 	1115.3.17 = {
 		birth = "1115.3.17"
+	}
+	1229.1.1 = {
+		death = "1229.1.1"
+	}
+    1160.1.1 = {
+		add_spouse = 2703992859 #Guðný
+	}
+}
+
+2703992859 = {
+	name = "Guðný Böðvarsdóttir"
+	dynasty = skallagrimsson
+    female = yes
+	martial = 6
+	diplomacy = 12
+	intrigue = 12
+	stewardship = 20
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+	trait = lustful
+	trait = education_stewardship_2
+	1147.3.27 = {
+		birth = "1147.3.27"
+	}
+	1229.1.1 = {
+		death = "1229.1.1"
+	}
+}
+
+3703992859 = { #Þórður, fyrsti sonur Guðnýar
+	name = "Þórður"
+	dynasty = sturluson
+    
+	martial = 17
+	diplomacy = 2
+	intrigue = 10
+	stewardship = 8
+    learning = 6
+	religion = "catholic"
+	culture = "icelander"
+	trait = arrogant
+    trait = wrathful
+	trait = education_stewardship_2
+    father = 1703992859
+	mother = 2703992859
+	1165.3.17 = {
+		birth = "1165.3.17"
+	}
+	1229.1.1 = {
+		death = "1229.1.1"
+	}
+}
+4703992859 = { #Sighvatur, annar sonur Guðnýar
+	name = "Sighvatur"
+	dynasty = sturluson
+    
+	martial = 17
+	diplomacy = 2
+	intrigue = 10
+	stewardship = 8
+    learning = 6
+	religion = "catholic"
+	culture = "icelander"
+	trait = arrogant
+    trait = wrathful
+	trait = education_stewardship_2
+    father = 1703992859
+	mother = 2703992859
+	1170.3.17 = {
+		birth = "1170.3.17"
 	}
 	1229.1.1 = {
 		death = "1229.1.1"
