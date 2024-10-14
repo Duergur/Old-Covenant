@@ -1,0 +1,7 @@
+﻿my_new_trait = {
+	category = fame
+	diplomacy = 2
+	learning = 2
+	enemy_hostile_scheme_success_chance_growth_add = -1
+	health = 0.25
+	

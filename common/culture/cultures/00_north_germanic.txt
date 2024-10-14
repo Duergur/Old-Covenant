@@ -160,7 +160,7 @@ danish = {
 icelander = {
 	color = { 2 82 156 }
 	created = 930.1.1
-	parents = { norse }
+	parents = { norse gaelic }
 	
 	ethos = ethos_stoic
 	heritage = heritage_north_germanic
@@ -170,6 +170,7 @@ icelander = {
 		tradition_things
 		tradition_seafaring
 		tradition_legalistic
+		tradition_concubines
 	}
 	dlc_tradition = {
 		trait = tradition_fp2_ritualised_friendship
@@ -190,6 +191,7 @@ icelander = {
 	
 	ethnicities = {
 		70 = caucasian_northern_blond
+		30 = caucasian_ginger
 		15 = caucasian_northern_ginger
 		10 = caucasian_northern_brown_hair
 		5 = caucasian_northern_dark_hair
