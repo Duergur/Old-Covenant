@@ -3,14 +3,15 @@
 	dynasty = sturluson
     
 	martial = 17
-	diplomacy = 2
+	diplomacy = 6
 	intrigue = 10
-	stewardship = 8
+	stewardship = 4
     learning = 6
 	religion = "catholic"
 	culture = "icelander"
 	trait = arrogant
     trait = wrathful
+    trait = vengeful
 	trait = education_stewardship_2
 	1115.3.17 = {
 		birth = "1115.3.17"
@@ -27,11 +28,11 @@
 	name = "Guðný Böðvarsdóttir"
 	dynasty = skallagrimsson
     female = yes
-	martial = 6
+	martial = 4
 	diplomacy = 12
 	intrigue = 12
 	stewardship = 20
-    learning = 10
+    learning = 6
 	religion = "catholic"
 	culture = "icelander"
 	trait = education_stewardship_2
@@ -50,16 +51,17 @@
 	name = "Þórður"
 	dynasty = sturluson
     
-	martial = 17
-	diplomacy = 2
-	intrigue = 10
-	stewardship = 8
-    learning = 6
+	martial = 5
+	diplomacy = 20
+	intrigue = 12   
+	stewardship = 10
+    learning = 4
 	religion = "catholic"
 	culture = "icelander"
-	trait = arrogant
-    trait = wrathful
-	trait = education_stewardship_2
+	trait = forgiving
+    trait = humble
+    trait = content
+    disallow_random_traits = yes
     father = 1703992859
 	mother = 2703992859
 	1165.3.17 = {
@@ -73,16 +75,18 @@
 	name = "Sighvatur"
 	dynasty = sturluson
     
-	martial = 17
-	diplomacy = 2
-	intrigue = 10
-	stewardship = 8
-    learning = 6
+	martial = 18
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+    learning = 8
 	religion = "catholic"
 	culture = "icelander"
-	trait = arrogant
-    trait = wrathful
-	trait = education_stewardship_2
+	trait = poet
+    trait = strong
+    trait = vengeful
+    trait = ambitious
+    disallow_random_traits = yes
     father = 1703992859
 	mother = 2703992859
 	1170.3.17 = {
@@ -95,28 +99,31 @@
 5703992859 = { #Snorri, þriðji sonur Guðnýar
 	name = "Snorri"
 	dynasty_house = house:house_sturluson
-	martial = 17
-	diplomacy = 2
-	intrigue = 10
+	martial = 12
+	diplomacy = 10
+	intrigue = 6
 	stewardship = 8
-    learning = 6
+    learning = 30
 	religion = "catholic"
 	culture = "icelander"
 		trait = ambitious
 		trait = diligent
 		trait = gregarious
 		trait = poet
-	trait = education_stewardship_2
+        trait = historical_character
+        disallow_random_traits = yes
     father = 1703992859
 	mother = 2703992859
 	1178.10.1 = {
 		birth = "1178.10.1"
         effect = {
 			set_variable = snorri_sturluson
+            set_variable = childhood_trait_type = flag:pensive
+		    set_variable = childhood_trait_type = flag:curious
 			set_global_variable = { name = hchar_snorri_sturluson value = yes }
 			create_inspiration = book_inspiration
-            historical_character_finalization_effect = yes
-            spawn_historical_characters_boilerplate_effect = yes
+#            historical_character_finalization_effect = yes
+#            spawn_historical_characters_boilerplate_effect = yes
 		}	
 	}
 	1229.1.1 = {
