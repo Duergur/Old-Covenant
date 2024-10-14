@@ -13,7 +13,7 @@
 		dynasty = sturluson
 		dynasty_splendor_level = 1
 		type = male
-		birth = 1165.1.1
+		birth = 1115.3.17
 		title = d_laamp_sturlungar
 		government = landless_adventurer_government
 		culture = icelander

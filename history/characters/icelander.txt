@@ -1,5 +1,5 @@
 ﻿1703992859 = {
-	name = "Snorri"
+	name = "Sturla"
 	dynasty = sturluson
 	martial = 6
 	diplomacy = 5
@@ -7,10 +7,10 @@
 	stewardship = 6
 	religion = "catholic"
 	culture = "icelander"
-	trait = diligent
+	trait = wroth
 	trait = education_stewardship_2
-	1165.1.1 = {
-		birth = "1165.1.1"
+	1115.3.17 = {
+		birth = "1115.3.17"
 	}
 	1229.1.1 = {
 		death = "1229.1.1"
