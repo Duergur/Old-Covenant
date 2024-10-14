@@ -1168,7 +1168,7 @@
 	intrigue = 5
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = deceitful
 	trait = education_diplomacy_2
 	father = 144633
@@ -1188,7 +1188,7 @@
 	intrigue = 6
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = generous
 	trait = calm
 	trait = education_learning_2
@@ -1228,7 +1228,7 @@
 	intrigue = 6
 	stewardship = 6
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = diligent
 	trait = education_stewardship_2
 	1179.1.1 = {
@@ -1266,7 +1266,7 @@
 	intrigue = 9
 	stewardship = 7
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = chaste
 	trait = arrogant
 	trait = zealous
@@ -1288,7 +1288,7 @@
 	intrigue = 6
 	stewardship = 5
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = lustful
 	trait = gluttonous
 	trait = education_diplomacy_3
@@ -1376,7 +1376,7 @@
 	intrigue = 7
 	stewardship = 8
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = education_intrigue_1
 	father = 202024
 	mother = 202025
@@ -1388,7 +1388,7 @@
 	}
 }
 
-202024 = { #Icelandic
+202024 = { #icelander
 	name = "JO_n"
 	# AKA: Jon
 	dynasty = 101892
@@ -1397,7 +1397,7 @@
 	intrigue = 7
 	stewardship = 8
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = calm
 	trait = just
 	trait = education_learning_2
@@ -1425,7 +1425,7 @@
 	intrigue = 7
 	stewardship = 8
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = education_intrigue_1
 	1130.1.1 = {
 		birth = "1130.1.1"
@@ -1487,7 +1487,7 @@
 	intrigue = 5
 	stewardship = 6
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = humble
 	trait = honest
 	trait = calm
@@ -1511,7 +1511,7 @@
 	intrigue = 6
 	stewardship = 4
 	religion = "catholic"
-	culture = "icelandic"
+	culture = "icelander"
 	trait = bastard
 	trait = honest
 	trait = chaste

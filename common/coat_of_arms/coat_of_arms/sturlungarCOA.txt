@@ -1,1 +1,1 @@
-﻿d_sturlungar = 597 # Umayyad
+﻿d_laamp_sturlungar = 597 # Umayyad

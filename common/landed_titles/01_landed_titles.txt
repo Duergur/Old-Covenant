@@ -3,9 +3,9 @@
 @always_primary_score = 1000
 @never_primary_score = -1000
 
-d_sturlungar = { # Wallada bint al-Mustakfi
+d_laamp_sturlungar = { # Wallada bint al-Mustakfi
 	color = { 100 100 100 }
-	capital = c_cordoba # Cordoba
+	capital = c_sudurland # Cordoba
 
 	definite_form = yes
 	landless = yes

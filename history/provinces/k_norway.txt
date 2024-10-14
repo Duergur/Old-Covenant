@@ -452,7 +452,7 @@
 		religion = catholic
 	}
 	1178.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 }
 1 = {	#VESTFIRDIR
@@ -474,7 +474,7 @@
 		religion = catholic
 	}
 	1178.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 }
 8773 = {	#VOPNAFJORDUR
@@ -493,7 +493,7 @@
 		religion = catholic
 	}
 	1178.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 }
 8772 = {	#HOFN
@@ -509,7 +509,7 @@
 		religion = catholic
 	}
 	1178.1.1 = {
-		culture = icelandic
+		culture = icelander
 	}
 }
 8774 = {	#KLAUSTUR

@@ -1,7 +1,7 @@
-﻿d_sturlungar = { # Wallada bint al-Mustakfi
+﻿d_laamp_sturlungar = { # Wallada bint al-Mustakfi
 	1178.1.1 = {
 		liege = 0
-		holder = andalusian_0003 # Wallada bint al-Mustakfi
+		holder = 1703992859 # Wallada bint al-Mustakfi
 		government = landless_adventurer_government
 		succession_laws = {
 			landless_adventurer_succession_law

@@ -7,5 +7,21 @@
 		value = 100
 	}
 
-
+    # Wallada bint al-Mustakfi ID: andalusian_0003
+	character = {
+		name = "bookmark_sturla_snorri"
+		dynasty = sturluson
+		dynasty_splendor_level = 1
+		type = male
+		birth = 1165.1.1
+		title = d_laamp_sturlungar
+		government = landless_adventurer_government
+		culture = icelander
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 1703992859
+		position = { 300 700 }
+		
+		animation = writing
+	}
 }
