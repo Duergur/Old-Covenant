@@ -3,16 +3,17 @@
 
 	if = { # Snorri Sturluson
 		limit = {
-			current_year >= 1199
-			current_year <= 1205
+			current_year >= 1178
+			current_year <= 1179
 			NOT = { exists = global_var:hchar_snorri_sturluson }
 		}
 		set_global_variable = { name = hchar_snorri_sturluson value = yes }
 		title:b_reykjavik = {
 			save_scope_as = birth_location
 			create_character = {
-				age = 20
+				age = 0
 				name = "Snorri"
+				father = 1703992859
 				dynasty_house = house:house_sturluson
 				gender_female_chance = 0
 				random_traits = no

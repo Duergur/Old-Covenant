@@ -35,6 +35,11 @@
 	religion = "catholic"
 	culture = "icelander"
 	trait = lustful
+    trait = pregnant
+    				add_character_flag = {
+					flag = birth_will_go_smoothly
+					days = 270
+				}
 	trait = education_stewardship_2
 	1147.3.27 = {
 		birth = "1147.3.27"
@@ -89,4 +94,46 @@
 	1229.1.1 = {
 		death = "1229.1.1"
 	}
+}
+5703992859 = { #Snorri, þriðji sonur Guðnýar
+	name = "Snorri"
+	dynasty = sturluson
+	martial = 17
+	diplomacy = 2
+	intrigue = 10
+	stewardship = 8
+    learning = 6
+	religion = "catholic"
+	culture = "icelander"
+		trait = ambitious
+		trait = diligent
+		trait = gregarious
+		trait = poet
+	trait = education_stewardship_2
+    father = 1703992859
+	mother = 2703992859
+	1178.10.1 = {
+		birth = "1178.10.1"
+        effect = {
+			set_variable = snorri_sturluson
+			set_global_variable = { name = hchar_snorri_sturluson value = yes }
+			create_inspiration = book_inspiration
+            historical_character_finalization_effect = yes
+            spawn_historical_characters_boilerplate_effect = yes
+		}	
+	}
+	1229.1.1 = {
+		death = "1229.1.1"
+	}
+
+            save_scope_as = historical_character
+                scope:historical_character ?= {
+				historical_character_finalization_effect = yes
+				set_variable = snorri_sturluson
+                set_global_variable = { name = hchar_snorri_sturluson value = yes }
+				save_scope_as = major
+				create_inspiration = book_inspiration
+			}
+            if = { limit = { has_variable = snorri_sturluson } } # Error suppression
+			spawn_historical_characters_boilerplate_effect = yes
 }
