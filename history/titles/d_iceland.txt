@@ -269,18 +269,18 @@ b_vestfirdir = {
 }
 
 #Nordurland
-b_vopnafjordur = { #kirkja
-	1178.10.1 = {
-	holder = svinfelling_1 #Ormur Jónsson, faðir Svínfellinga, verður prestur 1179
-	}
-}
+#b_vopnafjordur = { #kirkja
+#	1178.10.1 = {
+#	holder = svinfelling_1 #Ormur Jónsson, faðir Svínfellinga, verður prestur 1179
+#	}
+#}
 
 #Sudurland
-b_stokkseyri = {
-	1150.1.1 = {
-		holder = 202018 #Thorlákur Skálholt
-	}
-}
+#b_stokkseyri = {
+#	1150.1.1 = {
+#		holder = 202018 #Thorlákur Skálholt
+#	}
+#}
 #Austurland
 b_hofn = {
 	1150.1.1 = {
