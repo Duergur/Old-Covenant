@@ -2271,6 +2271,9 @@ c_nordrland = {
 	1150.1.1 = {
 		holder = 202011
 	}
+	1170.1.1 = {
+		holder = asbirning_1
+	}
 	1206.6.27 = {
 		holder = 202012
 	}
@@ -2280,6 +2283,7 @@ c_nordrland = {
 	1268.1.12 = {
 		holder = 6905
 	}
+	
 	1280.5.9 = {
 		holder = 6906
 	}
