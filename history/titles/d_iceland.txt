@@ -230,7 +230,7 @@ c_nordrland = {
 		holder = 202011
 	}
 	1170.1.1 = {
-		holder = asbirning_1
+		holder = arnor_2_asbirning
 	}
 	1206.6.27 = {
 		holder = 202012

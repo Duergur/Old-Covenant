@@ -1414,7 +1414,7 @@
 		add_spouse = 202025
 	}
 	1171.1.1 = {
-		add_spouse = 202019
+		add_concubine = 202019
 	}
 	1197.1.1 = {
 		death = "1197.1.1"
@@ -1516,7 +1516,7 @@
 	stewardship = 4
 	religion = "catholic"
 	culture = "icelander"
-	trait = bastard
+	trait = child_of_concubine_female
 	trait = honest
 	trait = chaste
 	trait = education_learning_4

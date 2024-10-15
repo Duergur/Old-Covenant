@@ -155,7 +155,7 @@ svinfelling_1 = { #Ormur Jónsson, langa afi Orm Jónssonar Svínfelling, prestu
 		birth = "1115.3.17"
 	}
     1178.10.1 = {
-        employer = asbirning_1
+        employer = arnor_2_asbirning
 		give_council_position = councillor_court_chaplain
 	}
 	1291.1.1 = {
@@ -248,7 +248,8 @@ svinfelling_3 = { #Sigurður Ormsson, stjórnar Höfn
 	}
 }
 ###########################################################################################################################################
-asbirning_1 = { #
+
+asbirning_1 = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Arnórsson, Arnór Kolbeinsson 2
 	name = "Ásbjörn"
 	dynasty = asbirning
     
@@ -266,18 +267,289 @@ asbirning_1 = { #
     disallow_random_traits = yes
     #father = 
 	#mother = 2703992859
-	1150.3.17 = {
-		birth = "1150.3.17"
+	1020.3.17 = {
+		birth = "1020.3.17"
 	}
-	1229.1.1 = {
-		death = "1229.1.1"
+    1036.3.17 = {
+		add_spouse = asbjorn_wife_asbirning
+	}
+    
+	1100.1.1 = {
+		death = "1100.1.1"
+	}
+}
+arnor_1_asbirning = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Arnórsson, Arnór Kolbeinsson 2
+	name = "Arnór"
+	dynasty = asbirning
+    
+	martial = 10
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+    learning = 18
+	religion = "catholic"
+	culture = "icelander"
+    father = asbirning_1
+	mother = asbjorn_wife_asbirning
+	1060.3.17 = {
+		birth = "1060.3.17"
+	}
+    1080.3.17 = {
+		add_spouse = arnor_1_wife_asbirning
+	}
+	1129.1.1 = {
+		death = "1129.1.1"
+	}
+}
+kolbeinn_asbirning = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Arnórsson, Arnór Kolbeinsson 2, Kolbeinn 2, 
+	name = "Kolbeinn"
+	dynasty = asbirning
+    
+	martial = 10
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+    learning = 18
+	religion = "catholic"
+	culture = "icelander"
+    father = arnor_1_asbirning
+	mother = arnor_1_wife_asbirning
+	1090.3.17 = {
+		birth = "1090.3.17"
+	}
+    1115.3.17 = {
+		add_spouse = kolbeinn_1_wife_asbirning
+	}
+	1166.1.1 = {
+		death = "1166.1.1"
+	}
+}
+
+arnor_2_asbirning = { #
+	name = "Arnór"
+	dynasty = asbirning
+    
+	martial = 10
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+    learning = 18
+	religion = "catholic"
+	culture = "icelander"
+	trait = poet
+    trait = strong
+    trait = vengeful
+    trait = ambitious
+    disallow_random_traits = yes
+    father = kolbeinn_asbirning
+	mother = kolbeinn_1_wife_asbirning
+	1135.3.17 = {
+		birth = "1135.3.17"
+	}
+    1150.3.17 = {
+		add_spouse = arnor_2_wife_asbirning
+	}
+	1180.1.1 = {
+		death = "1180.1.1"
+	}
+}
+kolbeinn_2_asbirning = { #
+	name = "Kolbeinn Kaldaljós"
+	dynasty = asbirning
+    
+	martial = 10
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+    learning = 18
+	religion = "catholic"
+	culture = "icelander"
+    father = arnor_2_asbirning
+	mother = arnor_2_wife_asbirning
+	1176.3.17 = {
+		birth = "1176.3.17"
+	}
+	1246.1.1 = {
+		death = "1246.1.1"
+	}
+}
+halldora_asbirning = { #
+	name = "Halldóra"
+	dynasty = asbirning
+    female = yes
+	martial = 10
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+    learning = 18
+	religion = "catholic"
+	culture = "icelander"
+    father = arnor_2_asbirning
+	mother = arnor_2_wife_asbirning
+	1175.3.17 = {
+		birth = "1175.3.17"
+	}
+	1246.1.1 = {
+		death = "1246.1.1"
+	}
+}
+############################ Asbirning Wives
+#Asborn 
+#Arnór Ásbjarnarson 
+#Kolbeinn Arnórsson 
+#Arnór Kolbeinsson 
+
+asbjorn_wife_asbirning = { # Ingunn Þorsteinsdóttir, kona Ásbjörns, ættföður Ásbirninga
+	name = "Ingunn"
+	dynasty = random
+    female = yes
+	martial = 10
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 10
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+    #father = 
+	#mother = 
+	1025.3.17 = {
+		birth = "1025.3.17"
+	}
+	1089.1.1 = {
+		death = "1089.1.1"
+	}
+}
+arnor_1_wife_asbirning = { # Guðrún Daðadóttir, kona Arnórs Ásbjarnasonar
+	name = "Guðrún"
+	dynasty = random
+    female = yes
+	martial = 10
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 10
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+    #father = 
+	#mother = 
+	1060.3.17 = {
+		birth = "1060.3.17"
+	}
+	1120.1.1 = {
+		death = "1120.1.1"
+	}
+}
+kolbeinn_1_wife_asbirning = { # Herdís Þorkelsdóttir, kona Kolbeins Arnórssonar
+	name = "Herdís"
+	dynasty = random
+    female = yes
+	martial = 10
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 10
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+    #father = 
+	#mother = 
+	1095.3.17 = {
+		birth = "1095.3.17"
+	}
+	1166.1.1 = {
+		death = "1166.1.1"
+	}
+}
+arnor_2_wife_asbirning = { # Guðrún Brandsdóttir
+	name = "Guðrún"
+	dynasty = random
+    female = yes
+	martial = 10
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 10
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+    #father = 
+	#mother = 
+	1145.3.17 = {
+		birth = "1145.3.17"
+	}
+	1200.1.1 = {
+		death = "1200.1.1"
+	}
+}
+tumi_wife_asbirning = { # Þuríður Gissurardóttir
+	name = "Þuríður"
+	dynasty = random
+    female = yes
+	martial = 10
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 10
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+    #father = 
+	#mother = 
+	1154.3.17 = {
+		birth = "1154.3.17"
+	}
+	1235.1.1 = {
+		death = "1235.1.1"
+	}
+}
+
+######### Asbirning Adventurer
+tumi_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adventurer
+	name = "Tumi"
+	dynasty = asbirning
+    
+	martial = 10
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 10
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+    father = kolbeinn_asbirning
+    add_trait = child_of_concubine_female
+	#mother = kolbeinn_1_wife_asbirning 
+	1125.3.17 = {
+		birth = "1125.3.17"
+	}
+    1168.3.17 = {
+		add_spouse = tumi_wife_asbirning
+	}
+	1184.1.1 = {
+		death = "11.1.1"
+	}
+}
+kolbeinn_3_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adventurer
+	name = "Kolbeinn"
+	dynasty = asbirning
+    
+	martial = 10
+	diplomacy = 10
+	intrigue = 10
+	stewardship = 10
+    learning = 10
+	religion = "catholic"
+	culture = "icelander"
+    father = tumi_asbirning
+	mother = tumi_wife_asbirning
+	1171.3.17 = {
+		birth = "1171.3.17"
+	}
+	1208.1.1 = {
+		death = "1208.1.1"
 	}
 }
 
 ###############################################################################################################################################
 pall_reykholt = { #
 	name = "Páll Sölvason"
-    dynasty = skallagrimsson #Reykholt
+    dynasty = random
 	
 	martial = 4
 	diplomacy = 10
@@ -303,7 +575,8 @@ pall_reykholt = { #
 }
 torbjorg_reykholt = { # wife of Pall Solvason, attacked Sturla with a knife
 	name = "Þórbjörg Bjarnardóttir"
-    dynasty = skallagrimsson #Reykholt
+    dynasty = random #Reykholt
+    female = yes
 	martial = 14
 	diplomacy = 2
 	intrigue = 2
@@ -324,9 +597,9 @@ torbjorg_reykholt = { # wife of Pall Solvason, attacked Sturla with a knife
 		death = "1229.1.1"
 	}
 }
-magnus_reykholt = { # wife of Pall Solvason, attacked Sturla with a knife
+magnus_reykholt = { # son of Pall Solvason
 	name = "Magnús"
-    dynasty = skallagrimsson #Reykholt
+    dynasty = random #Reykholt
 	female = yes
 	martial = 4
 	diplomacy = 8
