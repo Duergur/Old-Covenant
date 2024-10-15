@@ -1275,6 +1275,10 @@
 	1133.1.1 = {
 		birth = "1133.1.1"
 	}
+	1178.10.1 = {
+		employer = 202011
+		give_council_position = councillor_court_chaplain
+	}
 	1183.1.1 = {
 		death = "1183.1.1"
 	}

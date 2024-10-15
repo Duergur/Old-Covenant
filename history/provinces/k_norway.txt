@@ -515,6 +515,8 @@
 }
 8774 = {	#KLAUSTUR
 	holding = tribal_holding
+	culture = icelander
+	religion = catholic
 }
 
 ##d_northern_isles ###################################
