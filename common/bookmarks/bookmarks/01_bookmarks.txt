@@ -7,19 +7,38 @@
 		value = 100
 	}
 
-    # Wallada bint al-Mustakfi ID: andalusian_0003
+    # Hvamm-Sturla ID: 1703992859
 	character = {
 		name = "bookmark_sturla_snorri"
 		dynasty = sturluson
 		dynasty_splendor_level = 1
 		type = male
 		birth = 1115.3.17
+		title = b_vestfirdir
+		government = tribal_government
+		culture = icelander
+		religion = catholic
+		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
+		history_id = 1703992859
+		position = { 300 700 }
+		
+		animation = writing
+	}
+
+
+    # Gudny ID: 2703992859
+	character = {
+		name = "bookmark_sturla_gudny"
+		dynasty = skallagrimsson
+		dynasty_splendor_level = 1
+		type = female
+		birth = 1147.3.27
 		title = d_laamp_sturlungar
 		government = landless_adventurer_government
 		culture = icelander
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
-		history_id = 1703992859
+		history_id = 2703992859
 		position = { 300 700 }
 		
 		animation = writing

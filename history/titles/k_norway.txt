@@ -2133,7 +2133,11 @@ c_vestisland = {
 		holder = 450500
 	}
 }
-
+b_vestfirdir = {
+	1150.1.1 = {
+	holder = 1703992859
+	}
+}
 c_sudurland = {
 	767.1.1 = {
 		holder = 194044
