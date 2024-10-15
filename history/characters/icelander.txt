@@ -21,6 +21,7 @@
 	}
     1160.1.1 = {
 		add_spouse = 2703992859 #Guðný
+        set_relation_rival = { target = character:pall_solvason reason = rival_historical }
 	}
 }
 
@@ -234,6 +235,33 @@ asbirning_1 = { #
 	#mother = 2703992859
 	1150.3.17 = {
 		birth = "1150.3.17"
+	}
+	1229.1.1 = {
+		death = "1229.1.1"
+	}
+}
+
+###############################################################################################################################################
+pall_solvason = { #
+	name = "Páll Sölvason"
+    dynasty = skallagrimsson
+	
+	martial = 10
+	diplomacy = 8
+	intrigue = 4
+	stewardship = 5
+    learning = 18
+	religion = "catholic"
+	culture = "icelander"
+    #father = 
+	#mother = 2703992859
+	1150.3.17 = {
+		birth = "1150.3.17"
+	}
+    1178.10.1 = {
+        employer = 202024
+		give_council_position = councillor_court_chaplain
+        set_relation_rival = { target = character:1703992859 reason = rival_historical }
 	}
 	1229.1.1 = {
 		death = "1229.1.1"
