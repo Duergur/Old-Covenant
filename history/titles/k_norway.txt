@@ -2191,7 +2191,11 @@ c_sudurland = {
 		holder = 450500
 	}
 }
-
+b_hofn = {
+	1150.1.1 = {
+	holder = svinfelling_1
+	}
+}
 
 c_austisland = {
 	768.1.1 = {

@@ -20,7 +20,7 @@
 		religion = catholic
 		difficulty = "BOOKMARK_CHARACTER_DIFFICULTY_EASY"
 		history_id = 1703992859
-		position = { 300 700 }
+		position = { 300 500 }
 		
 		animation = writing
 	}

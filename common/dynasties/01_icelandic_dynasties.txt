@@ -1,0 +1,4 @@
+﻿svinfelling = {
+	name = "dynn_Svinfelling"
+	culture = "norse"
+}
