@@ -1,4 +1,4 @@
-﻿d_laamp_sturlungar = { # Wallada bint al-Mustakfi
+﻿d_laamp_sturlungar = { # Guðny Böðvarsdóttir, pæling að breyta í frilluson Hvamm-Sturlu sem er 16 í byrjun leiks
 	1178.1.1 = {
 		liege = 0
 		#holder = 1703992859 # HVAMM-STURLA
@@ -21,7 +21,7 @@
 		}
 	}
 }
-d_laamp_asbirning = { # Wallada bint al-Mustakfi
+d_laamp_asbirning = { # Tumi Kolbeinsson
 	1178.1.1 = {
 		liege = 0
 		
