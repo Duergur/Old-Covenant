@@ -17839,17 +17839,17 @@ e_scandinavia = {
 			}
 			c_austisland = {
 				color = { 250 215 215 }
-
-				b_reydarfjall = {	#=Seydisfjordur
-					province = 4
-
-					color = { 250 215 215 }
-				}
 				b_hofn = {
 					province = 8772
 
 					color = { 250 215 215 }
 				}
+				b_reydarfjall = {	#=Seydisfjordur
+					province = 4
+
+					color = { 250 215 215 }
+				}
+				
 			}
 			c_sudurland = {
 				color = { 220 220 220 }

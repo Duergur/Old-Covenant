@@ -498,6 +498,13 @@
 }
 8772 = {	#HOFN
 	holding = tribal_holding
+	culture = norse
+	religion = norse_pagan
+	1000.1.1 = {
+		religion = catholic
+	}
+	1178.1.1 = {
+		culture = icelander
 }
 
 ###c_sudurland
