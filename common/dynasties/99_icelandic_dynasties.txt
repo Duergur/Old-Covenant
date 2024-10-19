@@ -1,0 +1,16 @@
+﻿svinfelling = {
+	name = "dynn_Svinfelling"
+	culture = "norse"
+}
+asbirning = {
+	name = "dynn_Asbirning"
+	culture = "norse"
+}
+101892 = {
+	name = "dynn_Oddi"
+	culture = "norwegian"
+}
+101891 = {
+	name = "dynn_Haukadalur"
+	culture = "norwegian"
+}

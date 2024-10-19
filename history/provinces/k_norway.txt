@@ -498,8 +498,15 @@
 }
 8772 = {	#HOFN
 	holding = tribal_holding
+	culture = norse
+	religion = norse_pagan
+	1000.1.1 = {
+		religion = catholic
+	}
+	1178.1.1 = {
+		culture = icelander
+	}
 }
-
 ###c_sudurland
 3 = {	#STOKKSEYRI
 	culture = norse
@@ -515,6 +522,8 @@
 }
 8774 = {	#KLAUSTUR
 	holding = tribal_holding
+	culture = icelander
+	religion = catholic
 }
 
 ##d_northern_isles ###################################
