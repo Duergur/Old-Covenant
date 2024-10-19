@@ -180,7 +180,7 @@ c_austisland = {
 	}
 	1150.1.1 = {
 		#holder = 202011
-		holder = svinfelling_3
+		holder = svinfelling_2
 	}
 	1206.6.27 = {
 		holder = 202012
@@ -282,13 +282,13 @@ b_vestfirdir = {
 #	}
 #}
 #Austurland
-b_hofn = {
-	1150.1.1 = {
-	holder = svinfelling_2 #Sigurður, pabbi hans er prestur í Vopnafirði
-	}
-}
-#b_reydarfjall = {
+#b_hofn = {
 #	1150.1.1 = {
-#	holder = svinfelling_3 #Sigmundur, Svínfellingur
+#	holder = svinfelling_2 #Sigurður, pabbi hans er prestur í Vopnafirði. Hann eignast engin börn og verður munkur árið 1202.
 #	}
 #}
+b_reydarfjall = {
+	1150.1.1 = {
+	holder = svinfelling_2 #Sigmundur, Svínfellingur, sonur hans erfir Svínfell
+	}
+}
