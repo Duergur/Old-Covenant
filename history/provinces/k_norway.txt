@@ -495,7 +495,6 @@
 	1178.1.1 = {
 		culture = icelander
 	}
-}
 8772 = {	#HOFN
 	holding = tribal_holding
 	culture = norse
@@ -505,8 +504,8 @@
 	}
 	1178.1.1 = {
 		culture = icelander
+	}
 }
-
 ###c_sudurland
 3 = {	#STOKKSEYRI
 	culture = norse
