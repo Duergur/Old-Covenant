@@ -17849,7 +17849,6 @@ e_scandinavia = {
 
 					color = { 250 215 215 }
 				}
-				
 			}
 			c_sudurland = {
 				color = { 220 220 220 }
