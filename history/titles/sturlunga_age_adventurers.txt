@@ -41,7 +41,7 @@ d_laamp_asbirning = { # Tumi Kolbeinsson
 		}
 	}
 }
-d_laamp_svinfelling = { # Wallada bint al-Mustakfi
+d_laamp_svinfelling = { # Jón Sigmundsson
 	1178.1.1 = {
 		liege = 0
 		

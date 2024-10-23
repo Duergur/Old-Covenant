@@ -271,7 +271,7 @@ b_vestfirdir = {
 #Nordurland
 #b_vopnafjordur = { #kirkja
 #	1178.10.1 = {
-#	holder = svinfelling_1 #Ormur Jónsson, faðir Svínfellinga, verður prestur 1179
+#	holder = svinfelling_1 #Ormur Jónsson, faðir Svínfellinga, verður prestur 1179, nota Court Chaplain on action dæmi til að landa hann hér 
 #	}
 #}
 
