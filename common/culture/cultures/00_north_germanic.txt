@@ -197,3 +197,94 @@ icelander = {
 		5 = caucasian_northern_dark_hair
 		}
 	}
+
+	scanian = {
+	color = { 0 0 102 }
+	created = 1000.1.1
+	parents = { danish swedish }
+	
+	ethos = ethos_bellicose
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_legalistic
+		tradition_fishermen
+	}
+
+	name_list = name_list_norse
+	
+	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		30 = caucasian_ginger
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
+		}
+	}
+	gutnish = {
+	color = { 250 11 11 }
+	created = 1000.1.1
+	parents = { norse }
+	
+	ethos = ethos_egalitarian
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_maritime_mercantilism
+		tradition_seafaring
+		tradition_city_keepers
+	}
+
+	name_list = name_list_norse
+	
+	coa_gfx = { swedish_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		30 = caucasian_ginger
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
+		}
+	}
+	ovdalsk = {
+	color = { 0 204 0 }
+	created = 1000.1.1
+	parents = { norse }
+	
+	ethos = ethos_communal
+	heritage = heritage_north_germanic
+	language = language_norse
+	martial_custom = martial_custom_male_only
+	traditions = {
+		tradition_hird
+		tradition_forest_folk
+		tradition_isolationist
+		tradition_hard_working
+	}
+
+	name_list = name_list_norse
+	
+	coa_gfx = { norwegian_coa_gfx western_coa_gfx }
+	building_gfx = { western_building_gfx }
+	clothing_gfx = { northern_clothing_gfx }
+	unit_gfx = { northern_unit_gfx }
+	
+	ethnicities = {
+		70 = caucasian_northern_blond
+		15 = caucasian_northern_ginger
+		10 = caucasian_northern_brown_hair
+		5 = caucasian_northern_dark_hair
+		}
+	}

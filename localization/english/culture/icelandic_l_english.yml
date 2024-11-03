@@ -3,6 +3,18 @@
 icelander:0 "Icelander"
 icelander_prefix:0 "icelander"
 icelander_collective_noun:1 "Icelanders"
+#Scanian Culture
+scanian:0 "Scanian"
+scanian_prefix:0 "Scanian"
+scanian_collective_noun:1 "Scanians"
+#Gutnish Culture
+gutnish:0 "Gotlander"
+gutnish_prefix:0 "Gotlandic"
+gutnish_collective_noun:1 "Gotlanders"
+#Alfdalen Culture
+ovdalsk:0 "Övdalian"
+ovdalsk_prefix:0 "Övdalic"
+ovdalsk_collective_noun:1 "Övdalians"
 #Bookmarks
 bm_1178_sturla: "Íslendingasaga"
 bm_1178_sturla_desc: "hér skal koma texti"
