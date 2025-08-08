@@ -17878,7 +17878,7 @@ e_scandinavia = {
 			}
 		}
 
-		d_iceland = {
+		d_iceland = { # MOD - Copy this duchy when updating mod START COPY HERE 
 			color = { 255 245 245 }
 
 			capital = c_vestisland # Reykjavik
@@ -17953,7 +17953,7 @@ e_scandinavia = {
 				}
 				
 			}
-		}
+		} # MOD - END COPY HERE
 
 		d_northern_isles = {
 			color = { 195 75 75 }
