@@ -442,7 +442,7 @@
 	holding = none
 }
 
-##d_iceland ###################################
+##d_iceland ################################### MOD allt duchy of Iceland er modded, 
 ###c_vestisland
 2 = {	#REYKJAVIK
 	culture = norse
@@ -462,13 +462,21 @@
 	}
 }
 ###c_vestfirdir
-69691703 = {	#Vatnfirdir
-	holding = tribal_holding
-}
 1 = {	#VESTFIRDIR
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = catholic
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+9662 = {	#Vatnfirdir
 	holding = tribal_holding
 }
-69691704 = {	#myrum
+9663 = {	#myrum
 	holding = tribal_holding
 }
 ###c_nordrland

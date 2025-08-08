@@ -253,6 +253,28 @@ c_nordrland = {
 	}
 }
 
+# New Counties
+c_vestfirdir = {
+	767.1.1 = {
+		holder = 194044
+		government = tribal_government
+	}
+	867.1.1 = {
+		holder = 168609 #Aud the Deep-minded, early Icelandic settler and credited as the one who brought Christianity to Iceland
+	}
+	#935.1.1 = {
+	#	government = feudal_government	#Ahistorical, just for ease of bookmarks.
+	#}
+	1066.1.1 = {
+		liege = "d_iceland"
+	}
+	1066.1.1 = {
+		holder = 20580
+	}
+	1150.1.1 = {
+	holder = 1703992859 #Hvamm-Sturla
+	}
+}
 
 
 
@@ -262,11 +284,11 @@ c_nordrland = {
 # Baronies
 
 #Vesturland
-b_vestfirdir = {
-	1150.1.1 = {
-	holder = 1703992859 #Hvamm-Sturla
-	}
-}
+#b_vestfirdir = {
+#	1150.1.1 = {
+#	holder = 1703992859 #Hvamm-Sturla
+#	}
+#}
 
 #Nordurland
 #b_vopnafjordur = { #kirkja
