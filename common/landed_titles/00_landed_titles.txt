@@ -17875,8 +17875,7 @@ e_scandinavia = {
 					province = 3
 
 					color = { 220 220 220 }
-				}
-				
+				}	
 			}
 		}
 
