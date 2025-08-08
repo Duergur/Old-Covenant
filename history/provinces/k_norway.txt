@@ -451,7 +451,7 @@
 	1000.1.1 = {
 		religion = catholic
 	}
-	1178.1.1 = {
+	930.1.1 = {
 		culture = icelander
 	}
 }
@@ -479,7 +479,7 @@
 	1000.1.1 = {
 		religion = catholic
 	}
-	1178.1.1 = {
+	930.1.1 = {
 		culture = icelander
 	}
 }
@@ -498,7 +498,7 @@
 	1000.1.1 = {
 		religion = catholic
 	}
-	1178.1.1 = {
+	930.1.1 = {
 		culture = icelander
 	}
 }
@@ -509,7 +509,7 @@
 	1000.1.1 = {
 		religion = catholic
 	}
-	1178.1.1 = {
+	930.1.1 = {
 		culture = icelander
 	}
 }
@@ -522,7 +522,7 @@
 		religion = catholic
 		holding = church_holding
 	}
-	1178.1.1 = {
+	930.1.1 = {
 		culture = icelander
 	}
 }
