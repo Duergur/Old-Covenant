@@ -17937,7 +17937,11 @@ e_scandinavia = {
 					province = 8773
 
 					color = { 240 230 230 }
+				}
+				b_vidimyri = {
+					province = 9664
 
+					color = { 240 230 230 }
 				}
 			}
 			c_austisland = {
@@ -17965,6 +17969,11 @@ e_scandinavia = {
 
 					color = { 220 220 220 }
 				}	
+				b_haukadalur = {
+					province = 9665
+
+					color = { 220 220 220 }
+				}
 			}
 		}
 

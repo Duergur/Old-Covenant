@@ -497,6 +497,10 @@
 		holding = church_holding
 	}
 }
+9665 = {	#Vidimyri
+	holding = tribal_holding
+}
+
 
 ###c_austisland
 4 = {	#REYDARFJALL
@@ -538,6 +542,9 @@
 	holding = tribal_holding
 	culture = icelander
 	religion = catholic
+}
+9666 = {	#Haukdalur
+	holding = tribal_holding
 }
 
 ##d_northern_isles ###################################
