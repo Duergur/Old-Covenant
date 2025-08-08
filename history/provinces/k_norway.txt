@@ -455,16 +455,22 @@
 		culture = icelander
 	}
 }
-1 = {	#VESTFIRDIR
-	holding = tribal_holding
-}
 8771 = {	#OLAFSVIK
 	holding = none
 	1066.1.1 = {
 		holding = church_holding
 	}
 }
-
+###c_vestfirdir
+69691703 = {	#Vatnfirdir
+	holding = tribal_holding
+}
+1 = {	#VESTFIRDIR
+	holding = tribal_holding
+}
+69691704 = {	#myrum
+	holding = tribal_holding
+}
 ###c_nordrland
 5 = {	#HUSAVIK
 	culture = norse

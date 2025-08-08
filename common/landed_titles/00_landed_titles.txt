@@ -17807,13 +17807,27 @@ e_scandinavia = {
 
 					color = { 255 245 245 }
 				}
+				b_olafsvik = {
+					province = 8771
+
+					color = { 255 245 245 }
+				}
+			}
+			c_vestfirdir = {
+				color = { 255 245 245 }
+				
 				b_vestfirdir = {	#=Isalfjordur
 					province = 1
 
 					color = { 255 245 245 }
 				}
-				b_olafsvik = {
-					province = 8771
+				b_vatnfirdir = {
+					province = 9662
+
+					color = { 255 245 245 }
+				}
+				b_myreyri = {
+					province = 9663
 
 					color = { 255 245 245 }
 				}
