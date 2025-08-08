@@ -461,6 +461,9 @@
 		holding = church_holding
 	}
 }
+9666 = {	#Staðarstaður
+	holding = tribal_holding
+}
 ###c_vestfirdir
 1 = {	#VESTFIRDIR
 	culture = norse

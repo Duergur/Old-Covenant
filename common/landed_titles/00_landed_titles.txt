@@ -17901,7 +17901,13 @@ e_scandinavia = {
 
 					color = { 255 245 245 }
 				}
+				b_stadarstadur = {
+					province = 9666
+
+					color = { 255 245 245 }
+				}
 			}
+
 			c_vestfirdir = {
 				color = { 255 245 245 }
 				
