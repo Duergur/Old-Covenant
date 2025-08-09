@@ -443,8 +443,8 @@
 }
 
 ##d_iceland ################################### MOD allt duchy of Iceland er modded, 
-###c_vestisland
-2 = {	#REYKJAVIK
+###c_vestisland #Reykholt
+9668 = { #Reykholt
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -455,14 +455,27 @@
 		culture = icelander
 	}
 }
+2 = {	#REYKJAVIK #Bessastaðir
+	culture = norse
+	religion = norse_pagan
+	holding = none
+	1000.1.1 = {
+		religion = catholic
+		holding = church_holding
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+###c_stadarstadur
+9666 = {	#Staðarstaður
+	holding = tribal_holding
+}
 8771 = {	#OLAFSVIK
 	holding = none
 	1066.1.1 = {
 		holding = church_holding
 	}
-}
-9666 = {	#Staðarstaður
-	holding = tribal_holding
 }
 ###c_vestfirdir
 1 = {	#VESTFIRDIR
