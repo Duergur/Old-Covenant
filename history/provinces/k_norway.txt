@@ -563,7 +563,7 @@
 	}
 }
 ###c_sudurland
-3 = {	#STOKKSEYRI
+8774 = {	#Oddastaðir
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -575,13 +575,22 @@
 		culture = icelander
 	}
 }
-8774 = {	#KLAUSTUR
+###c_arnessysla
+9666 = {	#Haukadalur
+	culture = norse
+	religion = norse_pagan
 	holding = tribal_holding
-	culture = icelander
-	religion = catholic
+	1000.1.1 = {
+		religion = catholic
+	}
+	930.1.1 = {
+		culture = icelander
+	}
 }
-9666 = {	#Haukdalur
-	holding = tribal_holding
+3 = {	#Skálholt
+		1000.1.1 = {
+		holding = church_holding
+	}
 }
 
 ##d_northern_isles ###################################

@@ -17990,6 +17990,10 @@ e_scandinavia = {
 
 					color = { 220 220 220 }
 				}
+			}
+			c_arnessysla = {
+				color = { 220 220 220 }
+
 				b_stokkseyri = {
 					province = 3
 
