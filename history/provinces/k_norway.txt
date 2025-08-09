@@ -469,7 +469,15 @@
 }
 ###c_stadarstadur
 9666 = {	#Staðarstaður
+	culture = norse
+	religion = norse_pagan
 	holding = tribal_holding
+	1000.1.1 = {
+		religion = catholic
+	}
+	930.1.1 = {
+		culture = icelander
+	}
 }
 8771 = {	#OLAFSVIK
 	holding = none
@@ -514,7 +522,7 @@
 	}
 }
 ###c_skagafjordur
-9665 = {	#Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
+9664 = {	#Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
