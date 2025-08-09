@@ -17950,11 +17950,6 @@ e_scandinavia = {
 						name_list_norse = cn_husavik
 					}
 				}
-				b_vopnafjordur = {
-					province = 8773
-
-					color = { 240 230 230 }
-				}
 			}
 			c_skagafjordur = {
 				color = { 240 230 230 }
@@ -17972,19 +17967,32 @@ e_scandinavia = {
 			}
 			c_austisland = {
 				color = { 250 215 215 }
-				b_hofn = {
-					province = 8772
-
-					color = { 250 215 215 }
-				}
 				b_reydarfjall = {	#=Seydisfjordur
 					province = 4
 
 					color = { 250 215 215 }
 				}
+				b_vopnafjordur = {
+					province = 8773
+
+					color = { 240 230 230 }
+				}
 			}
 			c_sudurland = {
 				color = { 220 220 220 }
+				b_oddastadir = {
+					province = 9669
+
+					color = { 220 220 220 }
+				}
+			}
+			c_svinfell = {
+				color = { 220 220 220 }
+				b_hofn = {
+					province = 8772
+
+					color = { 250 215 215 }
+				}
 				b_klaustur = {
 					province = 8774
 

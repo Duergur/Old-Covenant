@@ -515,12 +515,6 @@
 		culture = icelander
 	}
 }
-8773 = {	#VOPNAFJORDUR #Hof, biskupstaður, Hofverjar voru hér t.d. 
-	holding = none
-	1066.1.1 = {
-		holding = church_holding
-	}
-}
 ###c_skagafjordur
 9664 = {	#Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
 	culture = norse
@@ -551,6 +545,25 @@
 		culture = icelander
 	}
 }
+8773 = {	#VOPNAFJORDUR #Hof, biskupstaður, Hofverjar voru hér t.d. 
+	holding = none
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+###c_sudurland
+9669 = {	# oddastaðir
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = catholic
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+###c_svinfell
 8772 = {	#HOFN
 	holding = tribal_holding
 	culture = norse
@@ -562,8 +575,7 @@
 		culture = icelander
 	}
 }
-###c_sudurland
-8774 = {	#Oddastaðir
+8774 = {	#Klaustr var oddastaðir
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
