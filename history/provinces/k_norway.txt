@@ -503,6 +503,9 @@
 9665 = {	#Vidimyri
 	holding = tribal_holding
 }
+9667 = {	#Flugumyri
+	holding = tribal_holding
+}
 
 
 ###c_austisland

@@ -17949,6 +17949,11 @@ e_scandinavia = {
 
 					color = { 240 230 230 }
 				}
+				b_flugumyri = {
+					province = 9667
+
+					color = { 240 230 230 }
+				}
 			}
 			c_austisland = {
 				color = { 250 215 215 }
