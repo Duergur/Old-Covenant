@@ -17944,6 +17944,10 @@ e_scandinavia = {
 
 					color = { 240 230 230 }
 				}
+			}
+			c_skagafjordur = {
+				color = { 240 230 230 }
+
 				b_vidimyri = {
 					province = 9664
 

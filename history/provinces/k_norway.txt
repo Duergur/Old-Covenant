@@ -483,7 +483,7 @@
 	holding = tribal_holding
 }
 ###c_nordrland
-5 = {	#HUSAVIK
+5 = {	#HUSAVIK #Mun gera að Grund
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -494,14 +494,24 @@
 		culture = icelander
 	}
 }
-8773 = {	#VOPNAFJORDUR
+8773 = {	#VOPNAFJORDUR #Hof, biskupstaður, Hofverjar voru hér t.d. 
 	holding = none
 	1066.1.1 = {
 		holding = church_holding
 	}
 }
-9665 = {	#Vidimyri
+###c_skagafjordur
+9665 = {	#Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
+	culture = norse
+	religion = norse_pagan
 	holding = tribal_holding
+	1000.1.1 = {
+		religion = catholic
+		holding = church_holding
+	}
+	930.1.1 = {
+		culture = icelander
+	}
 }
 9667 = {	#Flugumyri
 	holding = tribal_holding
