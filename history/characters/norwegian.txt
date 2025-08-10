@@ -1167,7 +1167,7 @@
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = deceitful
 	trait = education_diplomacy_2
@@ -1187,7 +1187,7 @@
 	diplomacy = 8
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = generous
 	trait = calm
@@ -1227,7 +1227,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 6
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = diligent
 	trait = education_stewardship_2
@@ -1265,7 +1265,7 @@
 	diplomacy = 6
 	intrigue = 9
 	stewardship = 7
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = chaste
 	trait = arrogant
@@ -1291,7 +1291,7 @@
 	diplomacy = 5
 	intrigue = 6
 	stewardship = 5
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = lustful
 	trait = gluttonous
@@ -1379,7 +1379,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = education_intrigue_1
 	father = 202024
@@ -1400,7 +1400,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = calm
 	trait = just
@@ -1428,7 +1428,7 @@
 	diplomacy = 8
 	intrigue = 7
 	stewardship = 8
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = education_intrigue_1
 	1130.1.1 = {
@@ -1446,7 +1446,7 @@
 	diplomacy = 5
 	intrigue = 7
 	stewardship = 6
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "norwegian"
 	trait = education_learning_3
 	father = 20581
@@ -1490,7 +1490,7 @@
 	diplomacy = 7
 	intrigue = 5
 	stewardship = 6
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = humble
 	trait = honest
@@ -1514,7 +1514,7 @@
 	diplomacy = 7
 	intrigue = 6
 	stewardship = 4
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = child_of_concubine_female
 	trait = honest

@@ -449,7 +449,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	1178.1.1 = {
 		culture = icelander
@@ -471,7 +471,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	1178.1.1 = {
 		culture = icelander
@@ -490,7 +490,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	1178.1.1 = {
 		culture = icelander
@@ -501,7 +501,7 @@
 	culture = norse
 	religion = norse_pagan
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	1178.1.1 = {
 		culture = icelander
@@ -513,7 +513,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 		holding = church_holding
 	}
 	1178.1.1 = {
@@ -523,7 +523,7 @@
 8774 = {	#KLAUSTUR
 	holding = tribal_holding
 	culture = icelander
-	religion = catholic
+	religion = insular_norse
 }
 
 ##d_northern_isles ###################################
