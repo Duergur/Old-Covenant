@@ -17946,9 +17946,9 @@ e_scandinavia = {
 
 					color = { 240 230 230 }
 
-					cultural_names =  {
-						name_list_norse = cn_husavik
-					}
+					#cultural_names =  {
+					#	name_list_norse = cn_husavik
+					#}
 				}
 			}
 			c_skagafjordur = {
