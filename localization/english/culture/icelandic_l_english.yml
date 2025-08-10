@@ -19,3 +19,11 @@ dynn_Asbirning: "Ásbirningar"
 d_laamp_sturlungar: "Sturlungar"
 d_laamp_asbirning: "Ásbirningar"
 d_laamp_svinfelling: "Svínfellingar"
+
+#Religion
+insular_norse:0 "Kristintrú"
+insular_norse_adj:0 "Kristni"
+insular_norse_adherent:0 "Kristin2"
+insular_norse_adherent_plural:0 "Kristnir"
+insular_norse_desc:0 "Focused on the life and teachings of Jesus of Nazareth, Christianity revolves around the concept of salvation, in which adherents are forgiven for their sins and welcomed by God into the afterlife."
+insular_norse_high_god_name:0 "God"
