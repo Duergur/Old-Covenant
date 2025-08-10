@@ -51461,50 +51461,58 @@
 			rotation={ 0.000000 0.584710 0.000000 0.811242 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
-		{ #MOD MOD byrjar hér
-			id=9662 #b_Vatnfirdir Ísafjörður KOMIÐ
+		#b_Vatnfirdir Ísafjörður KOMIÐ 
+		{
+			id=9662
 			position={ 284.719177 0.000000 3956.811279 }
 			rotation={ -0.000000 -0.320455 -0.000000 -0.947264 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
+		#b_myreyri Mýrdalur KOMIÐ
 		{
-			id=9663 #b_myreyri Mýrdalur KOMIÐ
+			id=9663
 			position={ 228.038803 0.000000 3959.822266 }
 			rotation={ -0.000000 -0.320455 -0.000000 -0.947264 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
+		#b_vidimyri Hólar KOMIÐ
 		{
-			id=9664 #b_vidimyri Hólar
-			position={ 343.000000 0.000000 3934.000000 }
+			id=9664
+			position={ 353.913696 0.000000 3930.371338 }
 			rotation={ 0.000000 0.998758 0.000000 -0.049814 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
+		#b_Haukadalur Haukadalur  KOMIÐ
 		{
-			id=9665 #b_Haukadalur Haukadalur 
-			position={ 343.000000 0.000000 3934.000000 }
+			id=9665
+			position={ 328.282959 0.000000 3827.887695 }
 			rotation={ -0.000000 -0.640747 -0.000000 0.767752 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
+		#b_Stadarstadur Staðarstaður
 		{
-			id=9666 #b_Stadarstadur Staðarstaður
+			id=9666
 			position={ 5765.000000 0.000000 1302.000000 }
 			rotation={ 0.000000 0.707107 0.000000 0.707107 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
+		#b_flugumyri Víðimýri 
 		{
-			id=9667 #b_flugumyri Víðimýri 
+			id=9667
 			position={ 5886.000000 0.000000 1356.000000 }
 			rotation={ 0.000000 0.952296 0.000000 0.305177 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
+		#b_reykholt Reykholt
 		{
-			id=9668 #b_reykholt Reykholt
+			id=9668
 			position={ 5278.000000 0.000000 1043.000000 }
 			rotation={ 0.000000 0.584710 0.000000 0.811242 }
 			scale={ 1.000000 1.000000 1.000000 }
 		}
+		#b_oddastaðir Oddastaðir KOMIÐ
 		{
-			id=9669 #b_oddastaðir Oddastaðir
+			id=9669
 			position={ 284.719177 0.000000 3956.811279 }
 			rotation={ -0.000000 -0.320455 -0.000000 -0.947264 }
 			scale={ 1.000000 1.000000 1.000000 }
