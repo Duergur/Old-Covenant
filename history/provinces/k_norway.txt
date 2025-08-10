@@ -516,20 +516,22 @@
 	}
 }
 ###c_skagafjordur
-9664 = {	#Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
+9667 = {	#Flugumyri, nú kallað Víðimýri
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
 		religion = catholic
-		holding = church_holding
 	}
 	930.1.1 = {
 		culture = icelander
 	}
 }
-9667 = {	#Flugumyri, nú kallað Víðimýri 
-	holding = tribal_holding
+9664 = {	 #Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
+	holding = none
+	1000.1.1 = {
+		holding = church_holding
+	}
 }
 
 
@@ -564,7 +566,7 @@
 	}
 }
 ###c_svinfell
-8772 = {	#HOFN
+8772 = {	#HOFN Svínfell
 	holding = tribal_holding
 	culture = norse
 	religion = norse_pagan
