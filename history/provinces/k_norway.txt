@@ -528,7 +528,7 @@
 		culture = icelander
 	}
 }
-9667 = {	#Flugumyri
+9667 = {	#Flugumyri, nú kallað Víðimýri 
 	holding = tribal_holding
 }
 
@@ -547,7 +547,7 @@
 }
 8773 = {	#VOPNAFJORDUR #Hof, biskupstaður, Hofverjar voru hér t.d. 
 	holding = none
-	1066.1.1 = {
+	1000.1.1 = {
 		holding = church_holding
 	}
 }
@@ -588,7 +588,7 @@
 	}
 }
 ###c_arnessysla
-9666 = {	#Haukadalur
+9665 = {	#Haukadalur
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -600,7 +600,8 @@
 	}
 }
 3 = {	#Skálholt
-		1000.1.1 = {
+	holding = none
+	1000.1.1 = {
 		holding = church_holding
 	}
 }

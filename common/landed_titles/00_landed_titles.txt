@@ -17954,13 +17954,14 @@ e_scandinavia = {
 			c_skagafjordur = {
 				color = { 240 230 230 }
 
-				b_vidimyri = {
-					province = 9664
+
+				b_flugumyri = {
+					province = 9667
 
 					color = { 240 230 230 }
 				}
-				b_flugumyri = {
-					province = 9667
+				b_vidimyri = {
+					province = 9664
 
 					color = { 240 230 230 }
 				}
@@ -18002,16 +18003,16 @@ e_scandinavia = {
 			c_arnessysla = {
 				color = { 220 220 220 }
 
-				b_stokkseyri = {
-					province = 3
-
-					color = { 220 220 220 }
-				}	
 				b_haukadalur = {
 					province = 9665
 
 					color = { 220 220 220 }
 				}
+				b_stokkseyri = {
+					province = 3
+
+					color = { 220 220 220 }
+				}	
 			}
 		}
 
