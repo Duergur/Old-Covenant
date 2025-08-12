@@ -1,0 +1,236 @@
+﻿name_list_icelander = {
+
+	cadet_dynasty_names = {
+		"dynn_StO_rr"
+		"dynn_Borg"
+		"dynn_KrA_ka"
+		"dynn_Mikli"
+		"dynn_SmiD_r"
+		"dynn_MO_ring"
+		"dynn_GA_rdske2"
+		"dynn_Trolli"
+		"dynn_Kven"
+		"dynn_Toki"
+		"dynn_HA_rde"
+		"dynn_Eyjing"
+		"dynn_Orming"
+		"dynn_GoD_i"
+		"dynn_AustmaD_r"
+		"dynn_HA_vi"
+		"dynn_Rakki"
+		"dynn_Skrauti"
+		"dynn_Snarfari"
+		"dynn_Strangi"
+		"dynn_Snjalli"
+		"dynn_SU_rr"
+		"dynn_SkA_ld"
+		"dynn_Viss"
+		"dynn_T_rymr"
+		"dynn_T_vari"
+		"dynn_O_lfU_ss"
+		"dynn_O_rn"
+		"dynn_HvI_ti"
+		"dynn_Sterki"
+		"dynn_AuD_gi"
+		"dynn_RauD_i"
+		"dynn_Spaki"
+		"dynn_Svarti"
+		"dynn_Rammi"
+		"dynn_MjO_vi"
+		"dynn_RI_ki"
+		"dynn_Lambi"
+		"dynn_Skarfr"
+		"dynn_SkA_l"
+		"dynn_Sleggja"
+		"dynn_SmjO_r"
+		"dynn_Stjarna"
+		"dynn_StrU_gr"
+		"dynn_SA_lendingr"
+		"dynn_SU_rr"
+		"dynn_SA_lingr"
+		"dynn_Trausti"
+		"dynn_VeD_r"
+		"dynn_VA_mU_li"
+		"dynn_VA_ni"
+		"dynn_T_istill"
+		"dynn_T_jO_fi"
+		"dynn_T_ynning"
+		{ "dynnp_of" "dynn_Bebbanburg" }
+		"dynn_Byrrnesson"
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Dovre" }
+		{ "dynnp_af" "dynn_Dovre" }
+		"dynn_VeO_y"
+		{ "dynnp_af" "dynn_Raumsdalr" }
+		"dynn_Eirikson"
+		"dynn_Sognsdal"
+		"dynn_Gunarrson"
+		"dynn_Firdi"
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Skagen" }
+		{ "dynnp_af" "dynn_Skagen" }
+	}
+
+	dynasty_names = {
+		"dynn_StO_rr"
+		"dynn_Borg"
+		"dynn_KrA_ka"
+		"dynn_Mikli"
+		"dynn_SmiD_r"
+		"dynn_MO_ring"
+		"dynn_GA_rdske2"
+		"dynn_Trolli"
+		"dynn_Kven"
+		"dynn_Toki"
+		"dynn_HA_rde"
+		"dynn_Eyjing"
+		"dynn_Orming"
+		"dynn_GoD_i"
+		"dynn_AustmaD_r"
+		"dynn_HA_vi"
+		"dynn_Rakki"
+		"dynn_Skrauti"
+		"dynn_Snarfari"
+		"dynn_Strangi"
+		"dynn_Snjalli"
+		"dynn_SU_rr"
+		"dynn_SkA_ld"
+		"dynn_Viss"
+		"dynn_T_rymr"
+		"dynn_T_vari"
+		"dynn_O_lfU_ss"
+		"dynn_O_rn"
+		"dynn_HvI_ti"
+		"dynn_Sterki"
+		"dynn_AuD_gi"
+		"dynn_RauD_i"
+		"dynn_Spaki"
+		"dynn_Svarti"
+		"dynn_Rammi"
+		"dynn_MjO_vi"
+		"dynn_RI_ki"
+		"dynn_Lambi"
+		"dynn_Skarfr"
+		"dynn_SkA_l"
+		"dynn_Sleggja"
+		"dynn_SmjO_r"
+		"dynn_Stjarna"
+		"dynn_StrU_gr"
+		"dynn_SA_lendingr"
+		"dynn_SU_rr"
+		"dynn_SA_lingr"
+		"dynn_Trausti"
+		"dynn_VeD_r"
+		"dynn_VA_mU_li"
+		"dynn_VA_ni"
+		"dynn_T_istill"
+		"dynn_T_jO_fi"
+		"dynn_T_ynning"
+		{ "dynnp_of" "dynn_Bebbanburg" }
+		"dynn_Byrrnesson"
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Raumariki" }
+		{ "dynnp_af" "dynn_Dovre" }
+		{ "dynnp_af" "dynn_Dovre" }
+		"dynn_VeO_y"
+		{ "dynnp_af" "dynn_Raumsdalr" }
+		"dynn_Eirikson"
+		"dynn_Sognsdal"
+		"dynn_Gunarrson"
+		"dynn_Firdi"
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aarhus" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Aalborg" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Varde" }
+		{ "dynnp_af" "dynn_Skagen" }
+		{ "dynnp_af" "dynn_Skagen" }
+	}
+	
+	male_names = {
+	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
+	'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
+	Baldur-ICE Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnh'e-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi-ICE
+	Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri Drengur 
+	Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn-ICE Eyvindur Ey-P'or Eil'ifur
+	Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr-ICE Fylkir Fr'o-di 
+	Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir-ICE G'isli Gissur-ICE Gl'umur Gn'upur Grettir-ICE Gr'imur Gunnar-ICE Guttormur Gylfi
+	Hlynur Hilmar Haengur Hafberg Hafgr'imur Hafli-di Hafsteinn Haf-P'or H'akon H'alfd'an Hallbj-Orn Hjalti Hr'olfur Halld'or Hallgeir Hallgr'imur Hannes Hans-ICE Haraldur Hauksteinn Haukur H'avar-dur H'e-dinn Hei-dar Heimir Helgi-ICE Herj'olfur Hermann-ICE Hersteinn Hinrik-ICE Hj'almt'yr Hj'almur Hj'alm-P'or Hj-Orleifur Hj-Ortur Hj-Orvar Hnikar H'olmbert H'olmgeir Hrafn-ICE Hrafnbergur Hrafnkell Hreggvi-dur Hrei-dar Hringur Hr'oar Hr'oaldur Hr'objartur Hr'oi Hugi Huginn 
+	Indri-di Ingibergur Ingibjartur Ingimar-ICE Ingimundur Ingmar Ing'olfur Ingvaldur Ingvar-ICE Ingvi-ICE  
+	'isak 'imi 'isid'or 'isleifur 'ivar 
+	J'on J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens-ICE J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
+	Kolbeinn-ICE K'ari Karl-ICE Ketilbj-Orn Ketill-ICE Kjartan-ICE Kjarval Kjalar Klaengur Klemens Kn'utur Kn-Orr Ko-dr'an Kolbj-Orn Kolfinnur Kolgr'imur Kolmar Kolur Konr'a-d Korm'akur Kristberg Kristbj-Orn Kristfinnur Kristinn Kristj'an Kristleifur Krist'ofer Krummi Kveld'ulfur 
+	L'aki L'arus Laugi-ICE Leifur-ICE Logi-ICE Le'o Lj'otur Lj'ufur Lo-dmundur Loftur-ICE Loki-ICE L'u-dv'ik L'ukas 
+	Magn'us Magn-P'or Mark'us Matt'ias Mikael-ICE J'on_M'uli Margeir-ICE Melk'olmur M'imir Moli M-Or-dur Mosi-ICE M'uli Muninn-ICE Myrkt'yr M'yrkjartan  
+	Narfi-ICE Natan-ICE N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
+	Oddi-ICE Oddgeir-ICE Oddfreyr-ICE Oddbj-Orn Oddbergur-ICE Oddleifur-ICE Oddsteinn-ICE Odd-P'or Orri-ICE Ormur-ICE Ott'o Oddur-ICE
+	'ofeigur 'olafur 'o-dinn 'ol'iver 'omar 'oskar 'osv'ifur 'ottar 'oraekja
+	P'all Patrekur P'etur 
+	R'a-dvar-dur Reynir-ICE Refur-ICE Rafn-ICE Rafnkell Ragnar-ICE R'ikar-dur R'ikhar-dur R'obert R-Ognvaldur R-Ognvar R-Okkvi R'osinkrans R-Oskvi R'ud'olf R'unar Ran'ur Run'olfur R'urik 
+	Snorri-ICE Sturla-ICE Stef'an Sigur-dur Sighvatur-ICE S'imon Svarth-Of-di Sindri-ICE Saemundur Steinr'ikur Saeberg Saebj-Orn Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur-ICE Sigf'us Siggeir-ICE Sigmar-ICE Sigmundur-ICE Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarph'e-dinn Skeggi-ICE Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur-ICE Styrbj-Orn Styrk'ar Styrmir-ICE Sumarli-di Svalur-ICE Svanur-ICE Svan-P'or Svavar-ICE Sveinbj-Orn Sveinn-ICE Sverrir-ICE  
+	Tumi-ICE Tj-Orvi Tj-Orfi T'omas Tristan-ICE Tryggvi-ICE Torfi-ICE Tarfur-ICE Teitur-ICE T'imon T'yr 
+	Unnar-ICE Ubb-ICE Unnsteinn-ICE 
+	'ulfh'e-dinn 'ulfgr'imur 'ulflj'otur 'ulfur 'ulrik 
+	Valdimar-ICE V'egestur Vestgeir-ICE  Valt'yr V'ebj-Orn V'esteinn Veturli-di Vi-dar V'i-dir V'iglundur V'igmundur V-Olundur  Valmundur-ICE Vigf'us Vignir-ICE Viktor-ICE V-Or-dur 
+	Ylur-ICE Ymir-ICE Yngvar-ICE Yngvi-ICE Yrkill-ICE 
+	_'ymir 
+	Th'or Th'orkell Th'or-dur Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-Orn Th'orbj-Orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-Ostur Thyrnir 
+	Aegir Aevar
+	}
+	female_names = {
+	Au-dur-ICE A-dalbj-Org-ICE A-dald'is-ICE A-dalfr'i-dur-ICE A-dalhei-dur-ICE A-dalveig-ICE Agla-ICE Agnes-ICE Alba-ICE Alda-ICE Ald'is-ICE Alfa-ICE Alma-ICE Alva-ICE Amal'ia-ICE Amanda-ICE Amel'ia-ICE Amil'ia-ICE Andrea-ICE An'ita-ICE Anna-ICE Ard'is-ICE Arey-ICE Arinbj-Org-ICE Arnbj-Org-ICE Arnborg-ICE Arnd'is-ICE Arney-ICE Arnfinna-ICE Arnfr'i-dur-ICE Arnhildur-ICE Arnhei-dur-ICE Arnlaug-ICE Arn-P'ora-ICE Arn-Pr'u-dur-ICE Au-dbj-Org-ICE Au-dbj-Ort-ICE Au-dd'is-ICE Au-dl'in-ICE Au-dn'y-ICE Au-dr'un-ICE 
+	'ag'usta-ICE 'alfd'is-ICE 'alfey-ICE 'alfger-dur-ICE 'alfhei-dur-ICE 'alfhildur-ICE 'alfr'un-ICE 'alfs'ol-ICE 'arbj-Org-ICE 'arbj-Ort-ICE 'ard'is-ICE 'arlaug-ICE 'arna-ICE 'arnd'is-ICE 'arney-ICE 'arnhei-dur-ICE 'arn'ina-ICE 'arn'y-ICE 'arsael-ICE 'ars'ol-ICE 'arveig-ICE 'ar-P'ora-ICE 'asa-ICE 'asbj-Org-ICE 'asd'is-ICE 'asfr'i-dur-ICE 'asger-dur-ICE 'ashildur-ICE 'aslaug-ICE 'asleif-ICE 'asr'os-ICE 'asr'un-ICE 'asta-ICE 'astbj-Org-ICE 'astd'is-ICE 'astfr'i-dur-ICE 'astger-dur-ICE 'asthildur-ICE 'astr'i-dur-ICE 'astr'os-ICE 'astr'un-ICE 'astveig-ICE 'ast-Pr'u-dur-ICE 'asv-Or-ICE 
+	Baldey-ICE Baldr'un-ICE B'ara-ICE Bergd'is-ICE Bergey-ICE Bergfr'i-dur-ICE Berghildur-ICE Berglaug-ICE Berglj'ot-ICE Berglind-ICE Bergr'os-ICE Bergr'un-ICE Birgitta-ICE Birna-ICE Birta-ICE Bjargey-ICE Bjarghei-dur-ICE Bjarghildur-ICE Bjarkey-ICE Bjarnd'is-ICE Bjarney-ICE Bjarnfr'i-dur-ICE Bjarnhei-dur-ICE Bjarnhildur-ICE Bjarn-P'ora-ICE Bjarn-Pr'u-dur-ICE Bjartey-ICE Bj-Org-ICE Bj-Orghei-dur-ICE Bj-Orghildur-ICE Bj-Ork-ICE Bj-Ort-ICE Boghildur-ICE Borg-ICE Borghildur-ICE Braghildur-ICE Braga-ICE Br'iet-ICE Brynd'is-ICE Brynhildur-ICE Brynja-ICE 
+	Da-dey-ICE Dagbj-Org-ICE Dagbj-Ort-ICE Dagfr'i-dur-ICE Daghei-dur-ICE Dagmar-ICE Dagmey-ICE Dagn'y-ICE Dagr'un-ICE Dald'is-ICE Dalr'os-ICE Daney-ICE Danfr'i-dur-ICE Danhei-dur-ICE Danhildur-ICE Dilj'a-ICE Dimma-ICE D'is-ICE Dimmey-ICE D'isa-ICE D-Ogg-ICE D'oa-ICE D'omhildur-ICE Dr'ifa-ICE Dr-Ofn-ICE D'ufa-ICE D'una-ICE D'yrborg-ICE D'yrfinna-ICE D'yrleif-ICE 
+	Edda-ICE Ei-dn'y-ICE Ei-dunn-ICE Eik-ICE Eil'if-ICE Einr'un-ICE Eir-ICE Eirn'y-ICE Eird'is-ICE Eir'un-ICE Eiv-Or-ICE Eldey-ICE Eldbj-Org-ICE Elfa-ICE El'in-ICE El'in'a-ICE El'inbj-Org-ICE El'inbj-Ort-ICE El'inborg-ICE El'inr'os-ICE El'isa-ICE El'isabet-ICE Ellen-ICE Elley-ICE Ellisif-ICE Ell'y-ICE Elsa-ICE Elsabet-ICE Els'y-ICE Embla-ICE Emil'ianna-ICE Emma-ICE Engilbj-Ort-ICE Engilr'a-d-ICE Enja-ICE En'ola-ICE Erl'in-ICE Erna-ICE Esja-ICE Ester-ICE Eva-ICE Eybj-Org-ICE Eyd'is-ICE Eyfr'i-dur-ICE Eygl'o-ICE Eyja-ICE Eyleif-ICE Eyr'os-ICE Eyr'un-ICE Eyv-Or-ICE Ey-Pr'u-dur-ICE Ey-P'ora-ICE 
+	Fannd'is-ICE Fanney-ICE Fannlaug-ICE F'ia-ICE F'ifa-ICE Finnbj-Org-ICE Finnbj-Ork-ICE Finnborg-ICE Finnd'is-ICE Fj'ola-ICE F-Onn-ICE Fr'an-ICE Freyja-ICE Fr'i-da-ICE 
+	Gauthildur-ICE Gr'el-O-d-ICE Geirbj-Org-ICE Geird'is-ICE Geirhildur-ICE Geirlaug-ICE Geir-Pr'u-dur-ICE Ger-da-ICE Ger-dur-ICE Gesthei-dur-ICE Gestn'y-ICE Gestr'un-ICE G'igja-ICE G'isley-ICE Gl'o-ICE Gl'o-d-ICE Gl'od'is-ICE Gl'oey-ICE G'oa-ICE Gr'ima-ICE Gr'imey-ICE Gr'imhei-dur-ICE Gr'imhildur-ICE Gr'oa-ICE Gu-dbj-Org-ICE Gu-dbj-Ort-ICE Gu-dd'is-ICE Gu-dfinna-ICE Gu-dfr'i-dur-ICE Gu-dlaug-ICE Gu-dmunda-ICE Gu-dn'y-ICE Gu-dr'un-ICE Gu-dr'i-dur-ICE Gullbr'a-ICE Gunnbj-Org-ICE Gunnd'is-ICE Gunnfinna-ICE Gunnlaug-ICE Gunnr'un-ICE Gunnur-ICE Gunnv-Or-ICE Gunnveig-ICE Gunn-P'orunn-ICE Gy-da-ICE Gytta-ICE 
+	Hadd'y-ICE Hafbj-Org-ICE Hafborg-ICE Hafd'is-ICE Hafr'os-ICE Hafr'un-ICE Haf-P'ora-ICE Halla-ICE Hallbera-ICE Hallborg-ICE Halld'is-ICE Halld'ora-ICE Hallfr'i-dur-ICE Hallger-dur-ICE Hallgunnur-ICE Hallr'un-ICE Hallveig-ICE Hallv-Or-ICE Hanna-ICE Harpa-ICE Heba-ICE Hei-da-ICE Hei-dbj-Org-ICE Hei-dbj-Ork-ICE Hei-dbj-Ort-ICE Hei-dbr'a-ICE Hei-dd'is-ICE Hei-dr'os-ICE Hei-dur-ICE Hei-dr'un-ICE Hekla-ICE Helga-ICE Hella-ICE Hera-ICE Herd'is-ICE Herborg-ICE Herbj-Ort-ICE Herfr'i-dur-ICE Herlaug-ICE Herv-Or-ICE Her-Pr'u-dur-ICE Hilda-ICE Hildibj-Org-ICE Hildiger-dur-ICE Hildigunnur-ICE Hildur-ICE Hildisif-ICE Hilma-ICE Hj'almr'os-ICE Hj'almd'is-ICE Hjaltey-ICE Hj-Ord'is-ICE Hj-Orfr'i-dur-ICE Hj-Orleif-ICE Hla-dger-dur-ICE Hl'ed'is-ICE Hl'in-ICE Hl'if-ICE H'olmbj-Org-ICE H'olmd'is-ICE H'olmfr'i-dur-ICE Hrafnborg-ICE Hrafnd'is-ICE Hrafnger-dur-ICE Hrafnhei-dur-ICE Hrafnhildur-ICE Hrafnlaug-ICE Hrafnr'un-ICE Hrafntinna-ICE Hraund'is-ICE Hrefna-ICE Hreind'is-ICE Hr'olfd'is-ICE Hr-Onn-ICE Hrund-ICE Hugd'is-ICE Huglj'uf-ICE Hugr'un-ICE Hulda-ICE Huld'is-ICE Huldr'un-ICE H'und'is-ICE H'unger-dur-ICE H'unbj-Org-ICE Hv-Onn-ICE 
+	I-da-ICE I-dunn-ICE Inga-ICE Ingd'is-ICE Ingey-ICE Inghei-dur-ICE Ingibj-Org-ICE Ingibj-Ort-ICE Ingiborg-ICE Ingifr'i-dur-ICE Ingiger-dur-ICE Ingimunda-ICE Ingiveig-ICE Ingunn-ICE Ingveldur-ICE Irja-ICE Irma-ICE Irpa-ICE 
+	'ir-ICE 'irena-ICE 'iris-ICE 'irunn-ICE 'isabella-ICE 'isad'ora-ICE 'isafold-ICE 'isbj-Org-ICE 'isd'is-ICE 'isey-ICE 'isfold-ICE 'isger-dur-ICE 'ishildur-ICE 'islaug-ICE 'isleif-ICE 'is'ol-ICE 'isold-ICE 'isr'un-ICE 'isveig-ICE 'iva-ICE 
+	J'arnbr'a-ICE J'arnger-dur-ICE Jar-Pr'u-dur-ICE J'od'is-ICE J'ofr'i-dur-ICE J-Okla-ICE J-Okulr'os-ICE J'ona-ICE J'onanna-ICE J'onas'ina-ICE J'onbj-Org-ICE J'onbj-Ort-ICE J'ond'is-ICE J'oney-ICE J'onfr'i-dur-ICE J'onhildur-ICE J'on'ina-ICE J'ora-ICE J'orlaug-ICE J'orunn-ICE J'osef'ina-ICE J'ul'ia-ICE J'ul'ianna-ICE J'un'ia-ICE 
+	Ka-dl'in-ICE Kaja-ICE Kara-ICE Karen-ICE Kar'itas-ICE Karlotta-ICE Kar'ol'ina-ICE Katla-ICE Katr'in-ICE Ketilbj-Org-ICE Ketilfr'i-dur-ICE Ketilr'i-dur-ICE Kirst'in-ICE Kjalv-Or-ICE Klara-ICE Kolbj-Org-ICE Kolbr'a-ICE Kolbr'un-ICE Kold'is-ICE Kolfinna-ICE Kolfreyja-ICE Kolka-ICE Kr'aka-ICE Kr'ia-ICE Kristbj-Org-ICE Kristborg-ICE Kristey-ICE Krist'in-ICE Kristn'y-ICE Kristr'un-ICE Kristr'os-ICE Kristveig-ICE 
+	Laugey-ICE Lauga-ICE Laufey-ICE Laufhei-dur-ICE Laufhildur-ICE Lea-ICE L'if-ICE L'ifd'is-ICE Lilja-ICE Linda-ICE L'iney-ICE L'isa-ICE Lj'osbj-Org-ICE Lj'osbr'a-ICE L'oa-ICE Loftveig-ICE Logey-ICE Lotta-ICE Lov'isa-ICE Lukka-ICE Lynghei-dur-ICE 
+	Magnd'is-ICE Mag-dalena-ICE Magnea-ICE Magney-ICE Magnfr'i-dur-ICE Magnhildur-ICE Ma'is'ol-ICE M'alfr'i-dur-ICE M'alhildur-ICE M'almfr'i-dur-ICE M'aney-ICE Marfr'i-dur-ICE Margr'et-ICE Margunnur-ICE Mar'ia-ICE Mar'iuerla-ICE M'ia-ICE Marsel'ina-ICE Marsibil-ICE Marta-ICE Matthildur-ICE Melr'os-ICE Mist-ICE Mjalld'is-ICE Mjallhv'it-ICE Mj-Oll-ICE M'oei-dur-ICE M'oey-ICE M'ohei-dur-ICE M-Ork-ICE M'yra-ICE 
+	Nanna-ICE Narfey-ICE N'atts'ol-ICE N'ina-ICE N'ott-ICE N'ybj-Org-ICE 
+	Odda-ICE Oddbj-Org-ICE Oddfreyja-ICE Oddfr'i-dur-ICE Oddhildur-ICE Oddlaug-ICE Oddn'y-ICE Oddr'un-ICE Oddveig-ICE Oddv-Or-ICE Ormhei-dur-ICE Ormhildur-ICE Otkatla-ICE 
+	'olaf'ia-ICE 'ol'ina-ICE 'ol-Of-ICE 'osk-ICE 
+	P'ala-ICE P'ald'is-ICE P'alfr'i-dur-ICE P'al'ina-ICE P'alr'un-ICE Perla-ICE 
+	R'osanna-ICE Rannveig-ICE R'a-dhildur-ICE Rafney-ICE Rafnhildur-ICE Ragna-ICE Ragnbj-Org-ICE Ragney-ICE Ragnfr'i-dur-ICE Ragnhei-dur-ICE Ragnhildur-ICE Rakel-ICE R'an-ICE Reynd'is-ICE Reynhei-dur-ICE R'ikey-ICE R-Ogn-ICE R-Okkva-ICE R-Oskva-ICE R'osamunda-ICE R'osbj-Org-ICE R'osborg-ICE R'osey-ICE R'oshildur-ICE R'oslind-ICE R'un-ICE R'und'is-ICE Rut-ICE 
+	Saebj-Org-ICE Silja-ICE Saehildur-ICE Saebj-Ort-ICE Saed'is-ICE Saefr'i-dur-ICE Saelaug-ICE Saemunda-ICE Saes'ol-ICE Saeunn-ICE Saev-Or-ICE Saga-ICE Salbj-Org-ICE Sald'is-ICE Salka-ICE Sandra-ICE Sara-ICE Selma-ICE Sesselja-ICE S'ia-ICE Sif-ICE Sigd'is-ICE Sigfr'i-dur-ICE Sigmunda-ICE Sign'y-ICE Sigr'i-dur-ICE Sigr'un-ICE Sigur'ast-ICE Sigurbj-Org-ICE Sigurd'is-ICE Sigur'osk-ICE Sigurr'os-ICE Sig-P'ora-ICE Silfr'un-ICE Silv'ia-ICE Silv'ia_N'ott-ICE Sirr'y-ICE Sj-Ofn-ICE Skuld-ICE Snaebj-Ort-ICE Snaebj-Org-ICE Snaebr'a-ICE Snaeborg-ICE Snaed'is-ICE Snaefr'i-dur-ICE Snaelaug-ICE Snaer'os-ICE Snaer'un-ICE Snj'ofr'i-dur-ICE Snj'olaug-ICE Sn'ot-ICE Soff'ia-ICE S'ol-ICE S'olbj-Org-ICE S'olbj-Ort-ICE S'olborg-ICE S'olbr'a-ICE S'olr'un-ICE S'old'is-ICE S'oley-ICE S'olhildur-ICE S'olveig-ICE Stefan'ia-ICE Steinger-dur-ICE Steinv-Or-ICE Steinunn-ICE St'igr'un-ICE Stjarna-ICE Styrger-dur-ICE Sunneva-ICE Svala-ICE Svanbj-Org-ICE Svana-ICE Svanborg-ICE Svand'is-ICE Svanfr'i-dur-ICE Svanhei-dur-ICE Svanhildur-ICE Svanhv'it-ICE Svava-ICE Svafa-ICE Sveind'is-ICE Sveinhildur-ICE Sveinlaug-ICE Svan-Pr'u-dur-ICE 
+	Thelma-ICE Tinna-ICE Torfhildur-ICE Torfey-ICE T'ofa-ICE 
+	Ugla-ICE Una-ICE Unnur-ICE Unnd'is-ICE Unnbj-Org-ICE Ur-dur-ICE 
+	'ulfd'is-ICE 'ulfhei-dur-ICE 'ulfhildur-ICE 'ulfr'un-ICE 'urs'ula-ICE 
+	Vald'is-ICE Valey-ICE V'ed'is-ICE Vigd'is-ICE Vilborg-ICE Vild'is-ICE Viktor'ia-ICE Vilger-dur-ICE Vilhelm'ina-ICE Vord'is-ICE 
+	Ylfa-ICE Ylja-ICE Ylva-ICE Yrsa-ICE Yrja-ICE 
+	'Yr-ICE 
+	-Porlaug-ICE -Pj'o-dbj-Org-ICE -Pj'o-dhildur-ICE -P'ora-ICE -P'oranna-ICE -P'orbj-Org-ICE -P'ord'is-ICE -P'orey-ICE -Porfinna-ICE -P'orfr'i-dur-ICE -Porger-dur-ICE -P'orgunnur-ICE -P'orhanna-ICE -P'orhildur-ICE -P'orkatla-ICE -P'orlaug-ICE -P'orunn-ICE -P'orveig-ICE -Pr'a-ICE -Pr'u-dur-ICE -P'ufa-ICE -Pur'i-dur-ICE -P'orv-Or-ICE 
+	aesa-ICE aev-Or-ICE aesger-dur-ICE aegileif-ICE 
+	-Ogmunda-ICE -Olveig-ICE -Ork-ICE -Osp-ICE -Olr'un-ICE
+	}
+	
+	dynasty_of_location_prefix = "dynnp_af"
+	
+	patronym_suffix_male = "dynnpat_suf_sson"
+	patronym_suffix_female = "dynnpat_suf_sdottir"
+	always_use_patronym = yes	
+	
+	# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+	pat_grf_name_chance = 50
+	mat_grf_name_chance = 25
+	father_name_chance = 10
+	
+	# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+	pat_grm_name_chance = 10
+	mat_grm_name_chance = 50
+	mother_name_chance = 25
+
+	
+}
