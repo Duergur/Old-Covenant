@@ -1,4 +1,4 @@
-﻿name_list_icelandic = {
+﻿name_list_icelander = {
 
 	cadet_dynasty_names = {
 		"dynn_StO_rr"
@@ -155,65 +155,65 @@
 	}
 	
 	male_names = {
-	Axel Aron Árni Ari Arnar Arnór Aðalbergur Aðalbjörn Aðalsteinn Alfreð  Almar Alrekur Andri Arnbjörn Arnar Arnaldur Arnfinnur Arngrímur Arnlaugur Arnoddur Arnúlfur Atli Auðun 
-	Ásbjörn Áslákur Ástríkur Ástþór Án
-	Baldur Bjartmar  Bótólfur Björn Bárður Bjarmar Bjarnfreður Bjarki Bjarnhéðinn Bjarnleifur Bjarnsteinn Bjólfur Björgólfur Böðvar Bolli Brandur Breki Brynjar Brynjólfur Bragi
-	Daði Dagur Dalur Davíð Dagfinnur Daníel Dufgús Dufþakur Dýri  
-	Eiríkur Elís Elvar Erlendur Eyjólfur Eysteinn Eyvindur Eyþór Eilífur
-	Falur Frímann Fannar Fenrir Fífill Finnbjörn Finnbogi Finnur Fjalar Fjölnir Flóki Freyr Fylkir Fróði 
-	Gabríel Guðmundur Guðbjörn Galdur Garðar Garpur Gaukur Gauti Geir Gísli Gissur Glúmur Gnúpur Grettir Grímur Gunnar Guttormur Gylfi
-	Hlynur Hilmar Hængur Hafberg Hafgrímur Hafliði Hafsteinn Hafþór Hákon Hálfdán Hallbjörn Hjalti Hrólfur Halldór Hallgeir Hallgrímur Hannes Hans Haraldur Hauksteinn Haukur Hávarður Héðinn Heiðar Heimir Helgi Herjólfur Hermann Hersteinn Hinrik Hjálmtýr Hjálmur Hjálmþór Hjörleifur Hjörtur Hjörvar Hnikar Hólmbert Hólmgeir Hrafn Hrafnbergur Hrafnkell Hreggviður Hreiðar Hringur Hróar Hróaldur Hróbjartur Hrói Hugi Huginn 
-	Indriði Ingibergur Ingibjartur Ingimar Ingimundur Ingmar Ingólfur Ingvaldur Ingvar Ingvi  
-	Ísak Ími Ísidór Ísleifur Ívar 
-	Jón Jóhann Jóhannes Jónas Jósafat Játvarður Jens Jóakim Jóel Jómundur Jónatan Jörundur Jósúa Jarfi Járnsíða Játmundur Jökull Jóngeir Jörfi Júlían 
-	Kolbeinn Kári Karl Ketilbjörn Ketill Kjartan Kjarval Kjalar Klængur Klemens Knútur Knörr Koðrán Kolbjörn Kolfinnur Kolgrímur Kolmar	Kolur Konráð Kormákur Kristberg Kristbjörn Kristfinnur Kristinn Kristján Kristleifur Kristófer Krummi Kveldúlfur 
-	Láki Lárus Laugi Leifur Logi Leó Ljótur Ljúfur Loðmundur Loftur Loki Lúðvík Lúkas 
-	Magnús Magnþór Markús Mattías Mikael "Jón Múli" Margeir Melkólmur Mímir Moli Mörður Mosi Múli Muninn Myrktýr Mýrkjartan  
-	Narfi Natan Náttfari Náttmörður Nátthrafn Níels Nikulás Njáll Njörður Nökkvi Norðmann 
-	Oddi Oddgeir Oddfreyr Oddbjörn Oddbergur Oddleifur Oddsteinn Oddþór Orri Ormur Ottó
-	Ófeigur Ólafur Óðinn Ólíver Ómar Óskar Ósvífur Óttar Órækja
-	Páll Patrekur Pétur 
-	Ráðvarður Reynir Refur Rafn Rafnkell Ragnar Ríkarður Ríkharður Róbert Rögnvaldur Rögnvar Rökkvi Rósinkrans Röskvi Rúdólf Rúnar Ranúr Runólfur Rúrik 
-	Snorri Sturla Stefán Sigurður Sighvatur Símon Svarthöfði Sindri Sæmundur Steinríkur Sæberg Sæbjörn Sæmundur Sævar Sæþór Sigbjartur Sigbjörn Sigfinnur Sigfús Siggeir Sigmar Sigmundur Sigtryggur Sigurbaldur Sigurjón Sigurþór Skarphéðinn Skeggi Skjöldur Skúli Smári Snæbjörn Snæþór Snjólfur Sólberg Sören Starkaður Stígur Sturlaugur Styrbjörn Styrkár Styrmir Sumarliði Svalur Svanur Svanþór Svavar Sveinbjörn Sveinn Sverrir  
-	Tumi Tjörvi Tjörfi Tómas Tristan Tryggvi Torfi Tarfur Teitur Tímon Týr 
-	Unnar Ubbi Unnsteinn 
-	Úlfhéðinn Úlfgrímur Úlfljótur Úlfur Úlrik 
-	Valdimar Végestur Vestgeir  Valtýr Vébjörn Vésteinn Veturliði Viðar Víðir Víglundur Vígmundur Völundur  Valmundur Vigfús Vignir Viktor Völundur Vörður 
-	Ylur Ymir Yngvar Yngvi Yrkill 
-	Ýmir 
-	Þór Þórkell Þorkell Þórður Þangbrandur Þengill Þiðrik Þjálfi Þórarinn Þórberg Þorbergur Þórbergur Þórbjarni Þorbjörn Þórbjörn Þorbrandur Þórður Þorfinnur Þorgarður Þorgautur Þorgeir Þorgestur Þorgils Þorgísl Þorgnýr Þórgrímur Þórhannes Þórhallur Þorlákur Þorleifur Þórleifur Þormóður Þórormur Þorri Þorsteinn Þórsteinn Þorvaldur Þráinn Þrándur Þröstur Þyrnir 
-	Ægir Ævar
+	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
+	'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
+	Baldur-ICE Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnh'e-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi-ICE
+	Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri Drengur 
+	Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn-ICE Eyvindur Ey-P'or Eil'ifur
+	Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr-ICE Fylkir Fr'o-di 
+	Gabr'iel Gu-dmundur Gu-dbj-Orn Galdur Gar-dar Garpur Gaukur Gauti Geir-ICE G'isli Gissur-ICE Gl'umur Gn'upur Grettir-ICE Gr'imur Gunnar-ICE Guttormur Gylfi
+	Hlynur Hilmar Haengur Hafberg Hafgr'imur Hafli-di Hafsteinn Haf-P'or H'akon H'alfd'an Hallbj-Orn Hjalti Hr'olfur Halld'or Hallgeir Hallgr'imur Hannes Hans-ICE Haraldur Hauksteinn Haukur H'avar-dur H'e-dinn Hei-dar Heimir Helgi-ICE Herj'olfur Hermann-ICE Hersteinn Hinrik-ICE Hj'almt'yr Hj'almur Hj'alm-P'or Hj-Orleifur Hj-Ortur Hj-Orvar Hnikar H'olmbert H'olmgeir Hrafn-ICE Hrafnbergur Hrafnkell Hreggvi-dur Hrei-dar Hringur Hr'oar Hr'oaldur Hr'objartur Hr'oi Hugi Huginn 
+	Indri-di Ingibergur Ingibjartur Ingimar-ICE Ingimundur Ingmar Ing'olfur Ingvaldur Ingvar-ICE Ingvi-ICE  
+	'isak 'imi 'isid'or 'isleifur 'ivar 
+	J'on J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens-ICE J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
+	Kolbeinn-ICE K'ari Karl-ICE Ketilbj-Orn Ketill-ICE Kjartan-ICE Kjarval Kjalar Klaengur Klemens Kn'utur Kn-Orr Ko-dr'an Kolbj-Orn Kolfinnur Kolgr'imur Kolmar Kolur Konr'a-d Korm'akur Kristberg Kristbj-Orn Kristfinnur Kristinn Kristj'an Kristleifur Krist'ofer Krummi Kveld'ulfur 
+	L'aki L'arus Laugi-ICE Leifur-ICE Logi-ICE Le'o Lj'otur Lj'ufur Lo-dmundur Loftur-ICE Loki-ICE L'u-dv'ik L'ukas 
+	Magn'us Magn-P'or Mark'us Matt'ias Mikael-ICE J'on_M'uli Margeir-ICE Melk'olmur M'imir Moli M-Or-dur Mosi-ICE M'uli Muninn-ICE Myrkt'yr M'yrkjartan  
+	Narfi-ICE Natan-ICE N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
+	Oddi-ICE Oddgeir-ICE Oddfreyr-ICE Oddbj-Orn Oddbergur-ICE Oddleifur-ICE Oddsteinn-ICE Odd-P'or Orri-ICE Ormur-ICE Ott'o Oddur-ICE
+	'ofeigur 'olafur 'o-dinn 'ol'iver 'omar 'oskar 'osv'ifur 'ottar 'oraekja
+	P'all Patrekur P'etur 
+	R'a-dvar-dur Reynir-ICE Refur-ICE Rafn-ICE Rafnkell Ragnar-ICE R'ikar-dur R'ikhar-dur R'obert R-Ognvaldur R-Ognvar R-Okkvi R'osinkrans R-Oskvi R'ud'olf R'unar Ran'ur Run'olfur R'urik 
+	Snorri-ICE Sturla-ICE Stef'an Sigur-dur Sighvatur-ICE S'imon Svarth-Of-di Sindri-ICE Saemundur Steinr'ikur Saeberg Saebj-Orn Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur-ICE Sigf'us Siggeir-ICE Sigmar-ICE Sigmundur-ICE Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarph'e-dinn Skeggi-ICE Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur-ICE Styrbj-Orn Styrk'ar Styrmir-ICE Sumarli-di Svalur-ICE Svanur-ICE Svan-P'or Svavar-ICE Sveinbj-Orn Sveinn-ICE Sverrir-ICE  
+	Tumi-ICE Tj-Orvi Tj-Orfi T'omas Tristan-ICE Tryggvi-ICE Torfi-ICE Tarfur-ICE Teitur-ICE T'imon T'yr 
+	Unnar-ICE Ubb-ICE Unnsteinn-ICE 
+	'ulfh'e-dinn 'ulfgr'imur 'ulflj'otur 'ulfur 'ulrik 
+	Valdimar-ICE V'egestur Vestgeir-ICE  Valt'yr V'ebj-Orn V'esteinn Veturli-di Vi-dar V'i-dir V'iglundur V'igmundur V-Olundur  Valmundur-ICE Vigf'us Vignir-ICE Viktor-ICE V-Or-dur 
+	Ylur-ICE Ymir-ICE Yngvar-ICE Yngvi-ICE Yrkill-ICE 
+	_'ymir 
+	Th'or Th'orkell Th'or-dur Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-Orn Th'orbj-Orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-Ostur Thyrnir 
+	Aegir Aevar
 	}
 	female_names = {
-	Auður Aðalbjörg Aðaldís Aðalfríður Aðalheiður Aðalveig 	Agla Agnes Alba Alda Aldís Alfa Alma Alva Amalía Amanda Amelía Amilía Andrea Aníta Anna Ardís Arey Arinbjörg Arnbjörg Arnborg Arndís Arney Arnfinna Arnfríður Arnhildur Arnheiður Arnlaug Arnþóra Arnþrúður Auðbjörg Auðbjört Auðdís Auðlín Auðný Auðrún 
-	Ágústa Álfdís Álfey Álfgerður Álfheiður Álfhildur Álfrún Álfsól Árbjörg Árbjört Árdís Árlaug Árna Árndís Árney Árnheiður Árnína Árný Ársæl Ársól Árveig Árþóra Ása Ásbjörg Ásdís Ásfríður Ásgerður Áshildur Áslaug Ásleif Ásrós Ásrún Ásta Ástbjörg Ástdís Ástfríður Ástgerður Ásthildur Ástríður Ástrós Ástrún Ástveig Ástþrúður Ásvör 
-	Baldey Baldrún Bára Bergdís Bergey Bergfríður Berghildur Berglaug Bergljót Berglind Bergrós Bergrún Bergdís Birgitta Birna Birta Bjargey Bjargheiður Bjarghildur Bjarkey Bjarndís Bjarney Bjarnfríður Bjarnheiður Bjarnhildur Bjarnþóra Bjarnþrúður Bjartey Björg Björgheiður Björghildur Björk Björt Boghildur Borg Borghildur Braghildur Braga Bríet Bryndís Brynhildur Brynja 
-	Daðey Dagbjörg Dagbjört Dagfríður Dagheiður Dagmar Dagmey Dagný Dagrún Daldís Dalrós Daney Danfríður Danheiður Danhildur Diljá Dimma Dís Dimmey Dísa Dögg Dóa Dómhildur Drífa Dröfn Dúfa Dúna Dýrborg Dýrfinna Dýrleif 
-	Edda Eiðný Eiðunn Eik Eilíf Einrún Eir Eirný Eirdís Eirún Eivör Eldey Eldbjörg Elfa Elín Elíná Elínbjörg Elínbjört Elínborg Elínrós Elísa Elísabet Ellen Elley Ellisif Ellý Elsa Elsabet Elsý Embla Emilíanna Emma Engilbjört Engilráð Enja Enóla Erlín Erna Esja Ester Eva Eybjörg Eydís Eyfríður Eygló Eyja Eyleif Eyrós Eyrún Eyvör Eyþrúður Eyþóra 
-	Fanndís Fanney Fannlaug Fía Fífa Finnbjörg Finnbjörk Finnborg Finndís Fjóla Fönn Frán Freyja Fríða 
-	Gauthildur Grélöð Geirbjörg Geirdís Geirhildur Geirlaug Geirþrúður Gerða Gerður Gestheiður Gestný Gestrún Gígja Gísley Gló Glóð Glódís Glóey Góa Gríma Grímey Grímheiður Grímhildur Gróa Guðbjörg Guðbjört Guðdís Guðfinna	Guðfríður Guðlaug Guðmunda Guðný Guðrún Guðríður Gullbrá Gunnbjörg Gunndís Gunnfinna Gunnlaug Gunnrún Gunnur Gunnvör Gunnveig Gunnþórunn Gyða Gytta 
-	Haddý Hafbjörg Hafborg Hafdís Hafrós Hafrún Hafþóra Halla Hallbera Hallborg Halldís Halldóra Hallfríður Hallgerður Hallgunnur Hallrún Hallveig Hallvör Hanna Harpa Heba Heiða Heiðbjörg Heiðbjörk Heiðbjört Heiðbrá Heiðdís Heiðrós Heiður Heiðrún Hekla Helga Hella Hera Herdís Herborg Herbjört Herfríður Herlaug Hervör Herþrúður Hilda Hildibjörg Hildigerður Hildigunnur Hildur Hildisif Hilma Hjálmrós Hjálmdís Hjaltey Hjördís Hjörfríður Hjörleif Hlaðgerður Hlédís Hlín Hlíf Hólmbjörg Hólmdís Hólmfríður Hrafnborg Hrafndís Hrafngerður Hrafnheiður Hrafnhildur Hrafnlaug Hrafnrún Hrafntinna Hraundís Hrefna Hreindís Hrólfdís Hrönn Hrund Hugdís Hugljúf Hugrún Hulda Huldís Huldrún Húndís Húngerður Húnbjörg Hvönn 
-	Iða Iðunn Inga Ingdís Ingey Ingheiður Ingibjörg Ingibjört Ingiborg Ingifríður Ingigerður Ingimunda Ingiveig Ingunn Ingveldur Irja Irma Irpa 
-	Ír Írena Íris Írunn Ísabella Ísadóra Ísafold Ísbjörg Ísdís Ísey Ísfold Ísgerður	Íshildur Íslaug Ísleif Ísól Ísold Ísrún Ísveig Íva 
-	Járnbrá Járngerður Jarþrúður Jódís Jófríður Jökla Jökulrós Jóna Jónanna Jónasína Jónbjörg Jónbjört Jóndís Jóney Jónfríður Jónhildur Jónína Jóra Jórlaug Jórunn Jósefína Júlía Júlíanna Júnía 
-	Kaðlín Kaja Kara Karen Karítas Karlotta Karólína Katla Katrín Ketilbjörg Ketilfríður Ketilríður Kirstín Kjalvör Klara Kolbjörg Kolbrá Kolbrún Koldís Kolfinna Kolfreyja Kolka Kráka Kría Kristbjörg Kristborg Kristey Kristín Kristný Kristrún Kristrós Kristveig 
-	Laugey Lauga	Laufey Laufheiður Laufhildur Lea Líf Lífdís Lilja Linda Líney Lísa Ljósbjörg Ljósbrá Lóa Loftveig Logey Lotta Lovísa Lukka Lyngheiður
-	Magndís Magðalena Magnea Magney Magnfríður Magnhildur Maísól Málfríður Málhildur Málmfríður Máney Marfríður Margrét Margunnur María Maríuerla Mía Marselína Marsibil Marta Matthildur Melrós Mist Mjalldís Mjallhvít Mjöll Móeiður Móey Móheiður Mörk Mýra 
-	Nanna Narfey Lauga Náttsól Nína Nótt Nýbjörg 
-	Odda Oddbjörg Oddfreyja Oddfríður Oddhildur Oddlaug Oddný Oddrún Oddveig Oddvör Ormheiður Ormhildur Otkatla
-	Ólafía Ólína Ólöf Ósk 
-	Pála Páldís Pálfríður Pálína Pálrún Perla 
-	Rósanna Rannveig Ráðhildur Rafney Rafnhildur Ragna Ragnbjörg Ragney Ragnfríður Ragnheiður Ragnhildur Rakel Rán Rannveig Reyndís Reynheiður Ríkey Rögn Rökkva Röskva Rósamunda Rósbjörg Rósborg Rósey Róshildur Róslind Rún Rúndís Rut 
-	Sæbjörg Silja Sæhildur Sæbjört Sædís Sæfríður Sæhildur Sælaug Sæmunda Sæsól Sæunn Sævör Saga Salbjörg Saldís Salka Sandra Sara Selma Sesselja Sía Sif Sigdís Sigfríður Sigmunda Signý Sigríður Sigrún Sigurást Sigurbjörg Sigurdís Sigurósk Sigurrós Sigþóra Silfrún Silvía "Silvía Nótt" Sirrý Sjöfn Skuld Snæbjört Snæbjörg Snæbrá Snæborg Snædís Snæfríður Snælaug Snærós Snærún Snjófríður Snjólaug Snót Soffía Sól Sólbjörg Sólbjört Sólborg Sólbrá Sólrún Sóldís Sóley Sólhildur Sólveig Stefanía Steingerður Steinvör Steinunn Stígrún Stjarna Styrgerður Sunneva Svala Svanbjörg Svana Svanborg Svandís Svanfríður Svanheiður Svanhildur Svanhvít Svava Svafa Sveindís Sveinhildur Sveinlaug Svanþrúður 
-	Thelma Tinna Torfhildur Torfey Tófa 
-	Ugla Una Unnur Unndís Unnbjörg Urður
-	Úlfdís Úlfheiður Úlfhildur Úlfrún Úrsúla
-	Valdís Valey Védís Vigdís Vilborg Vildís Viktoría Vilgerður Vilhelmína Vordís 
-	Ylfa Ylja Ylva Yrsa Yrja 
-	Ýr
-	Þorlaug Þjóðbjörg Þjóðhildur Þóra Þóranna Þórbjörg Þórdís Þórey Þorfinna Þórfríður Þorgerður Þórgunnur Þórhanna Þórhildur Þórkatla Þórlaug Þórunn Þórveig Þrá Þórvör Þrúður Þúfa Þuríður Þórvör 
-	Æsa Ævör Æsgerður Ægileif 
-	Ögmunda Ölveig Örk Ösp Ölrún
+	Au-dur-ICE A-dalbj-Org-ICE A-dald'is-ICE A-dalfr'i-dur-ICE A-dalhei-dur-ICE A-dalveig-ICE Agla-ICE Agnes-ICE Alba-ICE Alda-ICE Ald'is-ICE Alfa-ICE Alma-ICE Alva-ICE Amal'ia-ICE Amanda-ICE Amel'ia-ICE Amil'ia-ICE Andrea-ICE An'ita-ICE Anna-ICE Ard'is-ICE Arey-ICE Arinbj-Org-ICE Arnbj-Org-ICE Arnborg-ICE Arnd'is-ICE Arney-ICE Arnfinna-ICE Arnfr'i-dur-ICE Arnhildur-ICE Arnhei-dur-ICE Arnlaug-ICE Arn-P'ora-ICE Arn-Pr'u-dur-ICE Au-dbj-Org-ICE Au-dbj-Ort-ICE Au-dd'is-ICE Au-dl'in-ICE Au-dn'y-ICE Au-dr'un-ICE 
+	'ag'usta-ICE 'alfd'is-ICE 'alfey-ICE 'alfger-dur-ICE 'alfhei-dur-ICE 'alfhildur-ICE 'alfr'un-ICE 'alfs'ol-ICE 'arbj-Org-ICE 'arbj-Ort-ICE 'ard'is-ICE 'arlaug-ICE 'arna-ICE 'arnd'is-ICE 'arney-ICE 'arnhei-dur-ICE 'arn'ina-ICE 'arn'y-ICE 'arsael-ICE 'ars'ol-ICE 'arveig-ICE 'ar-P'ora-ICE 'asa-ICE 'asbj-Org-ICE 'asd'is-ICE 'asfr'i-dur-ICE 'asger-dur-ICE 'ashildur-ICE 'aslaug-ICE 'asleif-ICE 'asr'os-ICE 'asr'un-ICE 'asta-ICE 'astbj-Org-ICE 'astd'is-ICE 'astfr'i-dur-ICE 'astger-dur-ICE 'asthildur-ICE 'astr'i-dur-ICE 'astr'os-ICE 'astr'un-ICE 'astveig-ICE 'ast-Pr'u-dur-ICE 'asv-Or-ICE 
+	Baldey-ICE Baldr'un-ICE B'ara-ICE Bergd'is-ICE Bergey-ICE Bergfr'i-dur-ICE Berghildur-ICE Berglaug-ICE Berglj'ot-ICE Berglind-ICE Bergr'os-ICE Bergr'un-ICE Birgitta-ICE Birna-ICE Birta-ICE Bjargey-ICE Bjarghei-dur-ICE Bjarghildur-ICE Bjarkey-ICE Bjarnd'is-ICE Bjarney-ICE Bjarnfr'i-dur-ICE Bjarnhei-dur-ICE Bjarnhildur-ICE Bjarn-P'ora-ICE Bjarn-Pr'u-dur-ICE Bjartey-ICE Bj-Org-ICE Bj-Orghei-dur-ICE Bj-Orghildur-ICE Bj-Ork-ICE Bj-Ort-ICE Boghildur-ICE Borg-ICE Borghildur-ICE Braghildur-ICE Braga-ICE Br'iet-ICE Brynd'is-ICE Brynhildur-ICE Brynja-ICE 
+	Da-dey-ICE Dagbj-Org-ICE Dagbj-Ort-ICE Dagfr'i-dur-ICE Daghei-dur-ICE Dagmar-ICE Dagmey-ICE Dagn'y-ICE Dagr'un-ICE Dald'is-ICE Dalr'os-ICE Daney-ICE Danfr'i-dur-ICE Danhei-dur-ICE Danhildur-ICE Dilj'a-ICE Dimma-ICE D'is-ICE Dimmey-ICE D'isa-ICE D-Ogg-ICE D'oa-ICE D'omhildur-ICE Dr'ifa-ICE Dr-Ofn-ICE D'ufa-ICE D'una-ICE D'yrborg-ICE D'yrfinna-ICE D'yrleif-ICE 
+	Edda-ICE Ei-dn'y-ICE Ei-dunn-ICE Eik-ICE Eil'if-ICE Einr'un-ICE Eir-ICE Eirn'y-ICE Eird'is-ICE Eir'un-ICE Eiv-Or-ICE Eldey-ICE Eldbj-Org-ICE Elfa-ICE El'in-ICE El'in'a-ICE El'inbj-Org-ICE El'inbj-Ort-ICE El'inborg-ICE El'inr'os-ICE El'isa-ICE El'isabet-ICE Ellen-ICE Elley-ICE Ellisif-ICE Ell'y-ICE Elsa-ICE Elsabet-ICE Els'y-ICE Embla-ICE Emil'ianna-ICE Emma-ICE Engilbj-Ort-ICE Engilr'a-d-ICE Enja-ICE En'ola-ICE Erl'in-ICE Erna-ICE Esja-ICE Ester-ICE Eva-ICE Eybj-Org-ICE Eyd'is-ICE Eyfr'i-dur-ICE Eygl'o-ICE Eyja-ICE Eyleif-ICE Eyr'os-ICE Eyr'un-ICE Eyv-Or-ICE Ey-Pr'u-dur-ICE Ey-P'ora-ICE 
+	Fannd'is-ICE Fanney-ICE Fannlaug-ICE F'ia-ICE F'ifa-ICE Finnbj-Org-ICE Finnbj-Ork-ICE Finnborg-ICE Finnd'is-ICE Fj'ola-ICE F-Onn-ICE Fr'an-ICE Freyja-ICE Fr'i-da-ICE 
+	Gauthildur-ICE Gr'el-O-d-ICE Geirbj-Org-ICE Geird'is-ICE Geirhildur-ICE Geirlaug-ICE Geir-Pr'u-dur-ICE Ger-da-ICE Ger-dur-ICE Gesthei-dur-ICE Gestn'y-ICE Gestr'un-ICE G'igja-ICE G'isley-ICE Gl'o-ICE Gl'o-d-ICE Gl'od'is-ICE Gl'oey-ICE G'oa-ICE Gr'ima-ICE Gr'imey-ICE Gr'imhei-dur-ICE Gr'imhildur-ICE Gr'oa-ICE Gu-dbj-Org-ICE Gu-dbj-Ort-ICE Gu-dd'is-ICE Gu-dfinna-ICE Gu-dfr'i-dur-ICE Gu-dlaug-ICE Gu-dmunda-ICE Gu-dn'y-ICE Gu-dr'un-ICE Gu-dr'i-dur-ICE Gullbr'a-ICE Gunnbj-Org-ICE Gunnd'is-ICE Gunnfinna-ICE Gunnlaug-ICE Gunnr'un-ICE Gunnur-ICE Gunnv-Or-ICE Gunnveig-ICE Gunn-P'orunn-ICE Gy-da-ICE Gytta-ICE 
+	Hadd'y-ICE Hafbj-Org-ICE Hafborg-ICE Hafd'is-ICE Hafr'os-ICE Hafr'un-ICE Haf-P'ora-ICE Halla-ICE Hallbera-ICE Hallborg-ICE Halld'is-ICE Halld'ora-ICE Hallfr'i-dur-ICE Hallger-dur-ICE Hallgunnur-ICE Hallr'un-ICE Hallveig-ICE Hallv-Or-ICE Hanna-ICE Harpa-ICE Heba-ICE Hei-da-ICE Hei-dbj-Org-ICE Hei-dbj-Ork-ICE Hei-dbj-Ort-ICE Hei-dbr'a-ICE Hei-dd'is-ICE Hei-dr'os-ICE Hei-dur-ICE Hei-dr'un-ICE Hekla-ICE Helga-ICE Hella-ICE Hera-ICE Herd'is-ICE Herborg-ICE Herbj-Ort-ICE Herfr'i-dur-ICE Herlaug-ICE Herv-Or-ICE Her-Pr'u-dur-ICE Hilda-ICE Hildibj-Org-ICE Hildiger-dur-ICE Hildigunnur-ICE Hildur-ICE Hildisif-ICE Hilma-ICE Hj'almr'os-ICE Hj'almd'is-ICE Hjaltey-ICE Hj-Ord'is-ICE Hj-Orfr'i-dur-ICE Hj-Orleif-ICE Hla-dger-dur-ICE Hl'ed'is-ICE Hl'in-ICE Hl'if-ICE H'olmbj-Org-ICE H'olmd'is-ICE H'olmfr'i-dur-ICE Hrafnborg-ICE Hrafnd'is-ICE Hrafnger-dur-ICE Hrafnhei-dur-ICE Hrafnhildur-ICE Hrafnlaug-ICE Hrafnr'un-ICE Hrafntinna-ICE Hraund'is-ICE Hrefna-ICE Hreind'is-ICE Hr'olfd'is-ICE Hr-Onn-ICE Hrund-ICE Hugd'is-ICE Huglj'uf-ICE Hugr'un-ICE Hulda-ICE Huld'is-ICE Huldr'un-ICE H'und'is-ICE H'unger-dur-ICE H'unbj-Org-ICE Hv-Onn-ICE 
+	I-da-ICE I-dunn-ICE Inga-ICE Ingd'is-ICE Ingey-ICE Inghei-dur-ICE Ingibj-Org-ICE Ingibj-Ort-ICE Ingiborg-ICE Ingifr'i-dur-ICE Ingiger-dur-ICE Ingimunda-ICE Ingiveig-ICE Ingunn-ICE Ingveldur-ICE Irja-ICE Irma-ICE Irpa-ICE 
+	'ir-ICE 'irena-ICE 'iris-ICE 'irunn-ICE 'isabella-ICE 'isad'ora-ICE 'isafold-ICE 'isbj-Org-ICE 'isd'is-ICE 'isey-ICE 'isfold-ICE 'isger-dur-ICE 'ishildur-ICE 'islaug-ICE 'isleif-ICE 'is'ol-ICE 'isold-ICE 'isr'un-ICE 'isveig-ICE 'iva-ICE 
+	J'arnbr'a-ICE J'arnger-dur-ICE Jar-Pr'u-dur-ICE J'od'is-ICE J'ofr'i-dur-ICE J-Okla-ICE J-Okulr'os-ICE J'ona-ICE J'onanna-ICE J'onas'ina-ICE J'onbj-Org-ICE J'onbj-Ort-ICE J'ond'is-ICE J'oney-ICE J'onfr'i-dur-ICE J'onhildur-ICE J'on'ina-ICE J'ora-ICE J'orlaug-ICE J'orunn-ICE J'osef'ina-ICE J'ul'ia-ICE J'ul'ianna-ICE J'un'ia-ICE 
+	Ka-dl'in-ICE Kaja-ICE Kara-ICE Karen-ICE Kar'itas-ICE Karlotta-ICE Kar'ol'ina-ICE Katla-ICE Katr'in-ICE Ketilbj-Org-ICE Ketilfr'i-dur-ICE Ketilr'i-dur-ICE Kirst'in-ICE Kjalv-Or-ICE Klara-ICE Kolbj-Org-ICE Kolbr'a-ICE Kolbr'un-ICE Kold'is-ICE Kolfinna-ICE Kolfreyja-ICE Kolka-ICE Kr'aka-ICE Kr'ia-ICE Kristbj-Org-ICE Kristborg-ICE Kristey-ICE Krist'in-ICE Kristn'y-ICE Kristr'un-ICE Kristr'os-ICE Kristveig-ICE 
+	Laugey-ICE Lauga-ICE Laufey-ICE Laufhei-dur-ICE Laufhildur-ICE Lea-ICE L'if-ICE L'ifd'is-ICE Lilja-ICE Linda-ICE L'iney-ICE L'isa-ICE Lj'osbj-Org-ICE Lj'osbr'a-ICE L'oa-ICE Loftveig-ICE Logey-ICE Lotta-ICE Lov'isa-ICE Lukka-ICE Lynghei-dur-ICE 
+	Magnd'is-ICE Mag-dalena-ICE Magnea-ICE Magney-ICE Magnfr'i-dur-ICE Magnhildur-ICE Ma'is'ol-ICE M'alfr'i-dur-ICE M'alhildur-ICE M'almfr'i-dur-ICE M'aney-ICE Marfr'i-dur-ICE Margr'et-ICE Margunnur-ICE Mar'ia-ICE Mar'iuerla-ICE M'ia-ICE Marsel'ina-ICE Marsibil-ICE Marta-ICE Matthildur-ICE Melr'os-ICE Mist-ICE Mjalld'is-ICE Mjallhv'it-ICE Mj-Oll-ICE M'oei-dur-ICE M'oey-ICE M'ohei-dur-ICE M-Ork-ICE M'yra-ICE 
+	Nanna-ICE Narfey-ICE N'atts'ol-ICE N'ina-ICE N'ott-ICE N'ybj-Org-ICE 
+	Odda-ICE Oddbj-Org-ICE Oddfreyja-ICE Oddfr'i-dur-ICE Oddhildur-ICE Oddlaug-ICE Oddn'y-ICE Oddr'un-ICE Oddveig-ICE Oddv-Or-ICE Ormhei-dur-ICE Ormhildur-ICE Otkatla-ICE 
+	'olaf'ia-ICE 'ol'ina-ICE 'ol-Of-ICE 'osk-ICE 
+	P'ala-ICE P'ald'is-ICE P'alfr'i-dur-ICE P'al'ina-ICE P'alr'un-ICE Perla-ICE 
+	R'osanna-ICE Rannveig-ICE R'a-dhildur-ICE Rafney-ICE Rafnhildur-ICE Ragna-ICE Ragnbj-Org-ICE Ragney-ICE Ragnfr'i-dur-ICE Ragnhei-dur-ICE Ragnhildur-ICE Rakel-ICE R'an-ICE Reynd'is-ICE Reynhei-dur-ICE R'ikey-ICE R-Ogn-ICE R-Okkva-ICE R-Oskva-ICE R'osamunda-ICE R'osbj-Org-ICE R'osborg-ICE R'osey-ICE R'oshildur-ICE R'oslind-ICE R'un-ICE R'und'is-ICE Rut-ICE 
+	Saebj-Org-ICE Silja-ICE Saehildur-ICE Saebj-Ort-ICE Saed'is-ICE Saefr'i-dur-ICE Saelaug-ICE Saemunda-ICE Saes'ol-ICE Saeunn-ICE Saev-Or-ICE Saga-ICE Salbj-Org-ICE Sald'is-ICE Salka-ICE Sandra-ICE Sara-ICE Selma-ICE Sesselja-ICE S'ia-ICE Sif-ICE Sigd'is-ICE Sigfr'i-dur-ICE Sigmunda-ICE Sign'y-ICE Sigr'i-dur-ICE Sigr'un-ICE Sigur'ast-ICE Sigurbj-Org-ICE Sigurd'is-ICE Sigur'osk-ICE Sigurr'os-ICE Sig-P'ora-ICE Silfr'un-ICE Silv'ia-ICE Silv'ia_N'ott-ICE Sirr'y-ICE Sj-Ofn-ICE Skuld-ICE Snaebj-Ort-ICE Snaebj-Org-ICE Snaebr'a-ICE Snaeborg-ICE Snaed'is-ICE Snaefr'i-dur-ICE Snaelaug-ICE Snaer'os-ICE Snaer'un-ICE Snj'ofr'i-dur-ICE Snj'olaug-ICE Sn'ot-ICE Soff'ia-ICE S'ol-ICE S'olbj-Org-ICE S'olbj-Ort-ICE S'olborg-ICE S'olbr'a-ICE S'olr'un-ICE S'old'is-ICE S'oley-ICE S'olhildur-ICE S'olveig-ICE Stefan'ia-ICE Steinger-dur-ICE Steinv-Or-ICE Steinunn-ICE St'igr'un-ICE Stjarna-ICE Styrger-dur-ICE Sunneva-ICE Svala-ICE Svanbj-Org-ICE Svana-ICE Svanborg-ICE Svand'is-ICE Svanfr'i-dur-ICE Svanhei-dur-ICE Svanhildur-ICE Svanhv'it-ICE Svava-ICE Svafa-ICE Sveind'is-ICE Sveinhildur-ICE Sveinlaug-ICE Svan-Pr'u-dur-ICE 
+	Thelma-ICE Tinna-ICE Torfhildur-ICE Torfey-ICE T'ofa-ICE 
+	Ugla-ICE Una-ICE Unnur-ICE Unnd'is-ICE Unnbj-Org-ICE Ur-dur-ICE 
+	'ulfd'is-ICE 'ulfhei-dur-ICE 'ulfhildur-ICE 'ulfr'un-ICE 'urs'ula-ICE 
+	Vald'is-ICE Valey-ICE V'ed'is-ICE Vigd'is-ICE Vilborg-ICE Vild'is-ICE Viktor'ia-ICE Vilger-dur-ICE Vilhelm'ina-ICE Vord'is-ICE 
+	Ylfa-ICE Ylja-ICE Ylva-ICE Yrsa-ICE Yrja-ICE 
+	'Yr-ICE 
+	-Porlaug-ICE -Pj'o-dbj-Org-ICE -Pj'o-dhildur-ICE -P'ora-ICE -P'oranna-ICE -P'orbj-Org-ICE -P'ord'is-ICE -P'orey-ICE -Porfinna-ICE -P'orfr'i-dur-ICE -Porger-dur-ICE -P'orgunnur-ICE -P'orhanna-ICE -P'orhildur-ICE -P'orkatla-ICE -P'orlaug-ICE -P'orunn-ICE -P'orveig-ICE -Pr'a-ICE -Pr'u-dur-ICE -P'ufa-ICE -Pur'i-dur-ICE -P'orv-Or-ICE 
+	aesa-ICE aev-Or-ICE aesger-dur-ICE aegileif-ICE 
+	-Ogmunda-ICE -Olveig-ICE -Ork-ICE -Osp-ICE -Olr'un-ICE
 	}
 	
 	dynasty_of_location_prefix = "dynnp_af"
