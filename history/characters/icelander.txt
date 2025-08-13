@@ -130,6 +130,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 	trait = forgiving
     trait = humble
     trait = content
+	trait = charming
     disallow_random_traits = yes
     father = 1703992859
 	mother = 2703992859
@@ -154,6 +155,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 	trait = poet
     trait = strong
     trait = vengeful
+	trait = rowdy
     trait = ambitious
     disallow_random_traits = yes
     father = 1703992859
@@ -650,7 +652,7 @@ kolbeinn_3_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adv
 
 ###############################################################################################################################################
 pall_reykholt = { #
-	name = "P'all_S-olvason-ICE"
+	name = "P'all_S-olvason-ICE" #Páll Sölvasson
     
 	
 	martial = 4
@@ -668,7 +670,7 @@ pall_reykholt = { #
     1178.10.1 = {
         employer = 202024
 		give_council_position = councillor_court_chaplain
-        set_relation_rival = { target = character:1703992859 reason = rival_historical }
+        #set_relation_rival = { target = character:1703992859 reason = rival_historical } #er gerður rival annarstaðar
         add_spouse = torbjorg_reykholt
 	}
 	1229.1.1 = {
