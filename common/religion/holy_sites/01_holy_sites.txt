@@ -1,5 +1,5 @@
 ﻿skalholt = {
-	county = c_sudurland
+	county = c_arnessysla
     barony = b_stokkseyri
 
 	character_modifier = {
@@ -9,8 +9,8 @@
 	}
 }
 holar = {
-	county = c_nordrland
-    barony = b_vopnafjordur
+	county = c_skagafjordur
+    barony = b_vidimyri
 
 	character_modifier = {
     flag = visoki_conversion_resistance_bonus

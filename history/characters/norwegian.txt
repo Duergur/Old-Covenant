@@ -1161,13 +1161,13 @@
 }
 
 202011 = {
-	name = "Gissur"
+	name = "Gissur-ICE"
 	dynasty = 101891
 	martial = 6
 	diplomacy = 8
 	intrigue = 5
 	stewardship = 5
-	religion = "catholic"
+	religion = "insular_norse"
 	culture = "icelander"
 	trait = deceitful
 	trait = education_diplomacy_2
