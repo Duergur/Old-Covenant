@@ -155,9 +155,9 @@
 	}
 	
 	male_names = {
-	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
+	Axel-ICE Aron-ICE 'arni Ari-ICE Arnar-ICE Arn'or-ICE A-dalbergur A-dalbj-Orn A-dalsteinn Alfre-d  Almar Alrekur Andri-ICE Arnbj-Orn Arnar Arnaldur Arnfinnur Arngr'imur Arnlaugur Arnoddur Arn'ulfur Atli Au-dun 
 	'asbj-Orn 'asl'akur 'astr'ikur 'ast-P'or 'an
-	Baldur-ICE Bjartmar  B'ot'olfur Bj-Orn B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnh'e-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi-ICE
+	Baldur-ICE Bjartmar  B'ot'olfur Bj-orn-ICE B'ar-dur Bjarmar Bjarnfre-dur Bjarki Bjarnh'e-dinn Bjarnleifur Bjarnsteinn Bj'olfur Bj-Org'olfur B-O-dvar Bolli Brandur Breki Brynjar Brynj'olfur Bragi-ICE
 	Da-di Dagur Dalur Dav'i-d Dagfinnur Dan'iel Dufg'us Duf-Pakur D'yri Drengur 
 	Eir'ikur El'is Elvar Erlendur Eyj'olfur Eysteinn-ICE Eyvindur Ey-P'or Eil'ifur
 	Falur Fr'imann Fannar Fenrir F'ifill Finnbj-Orn Finnbogi Finnur Fjalar Fj-Olnir Fl'oki Freyr-ICE Fylkir Fr'o-di 
@@ -165,23 +165,23 @@
 	Hlynur Hilmar Haengur Hafberg Hafgr'imur Hafli-di Hafsteinn Haf-P'or H'akon H'alfd'an Hallbj-Orn Hjalti Hr'olfur Halld'or Hallgeir Hallgr'imur Hannes Hans-ICE Haraldur Hauksteinn Haukur H'avar-dur H'e-dinn Hei-dar Heimir Helgi-ICE Herj'olfur Hermann-ICE Hersteinn Hinrik-ICE Hj'almt'yr Hj'almur Hj'alm-P'or Hj-Orleifur Hj-Ortur Hj-Orvar Hnikar H'olmbert H'olmgeir Hrafn-ICE Hrafnbergur Hrafnkell Hreggvi-dur Hrei-dar Hringur Hr'oar Hr'oaldur Hr'objartur Hr'oi Hugi Huginn 
 	Indri-di Ingibergur Ingibjartur Ingimar-ICE Ingimundur Ingmar Ing'olfur Ingvaldur Ingvar-ICE Ingvi-ICE  
 	'isak 'imi 'isid'or 'isleifur 'ivar 
-	J'on J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens-ICE J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
+	J'on-ICE J'ohann J'ohannes J'onas J'osafat J'atvar-dur Jens-ICE J'oakim J'oel J'omundur J'onatan J-Orundur J'os'ua Jarfi J'arns'i-da J'atmundur J-Okull J'ongeir J-Orfi J'ul'ian 
 	Kolbeinn-ICE K'ari Karl-ICE Ketilbj-Orn Ketill-ICE Kjartan-ICE Kjarval Kjalar Klaengur Klemens Kn'utur Kn-Orr Ko-dr'an Kolbj-Orn Kolfinnur Kolgr'imur Kolmar Kolur Konr'a-d Korm'akur Kristberg Kristbj-Orn Kristfinnur Kristinn Kristj'an Kristleifur Krist'ofer Krummi Kveld'ulfur 
 	L'aki L'arus Laugi-ICE Leifur-ICE Logi-ICE Le'o Lj'otur Lj'ufur Lo-dmundur Loftur-ICE Loki-ICE L'u-dv'ik L'ukas 
-	Magn'us Magn-P'or Mark'us Matt'ias Mikael-ICE J'on_M'uli Margeir-ICE Melk'olmur M'imir Moli M-Or-dur Mosi-ICE M'uli Muninn-ICE Myrkt'yr M'yrkjartan  
+	Magn'us-ICE Magn-P'or Mark'us Matt'ias Mikael-ICE J'on_M'uli Margeir-ICE Melk'olmur M'imir Moli M-Or-dur Mosi-ICE M'uli Muninn-ICE Myrkt'yr M'yrkjartan  
 	Narfi-ICE Natan-ICE N'attfari N'attm-Or-dur N'atthrafn N'iels Nikul'as Nj'all Nj-Or-dur N-Okkvi Nor-dmann 
 	Oddi-ICE Oddgeir-ICE Oddfreyr-ICE Oddbj-Orn Oddbergur-ICE Oddleifur-ICE Oddsteinn-ICE Odd-P'or Orri-ICE Ormur-ICE Ott'o Oddur-ICE
 	'ofeigur 'olafur 'o-dinn 'ol'iver 'omar 'oskar 'osv'ifur 'ottar 'oraekja
 	P'all Patrekur P'etur 
 	R'a-dvar-dur Reynir-ICE Refur-ICE Rafn-ICE Rafnkell Ragnar-ICE R'ikar-dur R'ikhar-dur R'obert R-Ognvaldur R-Ognvar R-Okkvi R'osinkrans R-Oskvi R'ud'olf R'unar Ran'ur Run'olfur R'urik 
-	Snorri-ICE Sturla-ICE Stef'an Sigur-dur Sighvatur-ICE S'imon Svarth-Of-di Sindri-ICE Saemundur Steinr'ikur Saeberg Saebj-Orn Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur-ICE Sigf'us Siggeir-ICE Sigmar-ICE Sigmundur-ICE Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarph'e-dinn Skeggi-ICE Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur-ICE Styrbj-Orn Styrk'ar Styrmir-ICE Sumarli-di Svalur-ICE Svanur-ICE Svan-P'or Svavar-ICE Sveinbj-Orn Sveinn-ICE Sverrir-ICE  
+	Snorri-ICE Sturla-ICE Stef'an Sigur-dur-ICE Sighvatur-ICE S'imon-ICE Svarth-Of-di-ICE Sindri-ICE Saemundur Steinr'ikur Saeberg Saebj-Orn Saevar Sae-P'or Sigbjartur Sigbj-Orn Sigfinnur-ICE Sigf'us Siggeir-ICE Sigmar-ICE Sigmundur-ICE Sigtryggur Sigurbaldur Sigurj'on Sigur-P'or Skarph'e-dinn Skeggi-ICE Skj-Oldur Sk'uli Sm'ari Snaebj-Orn Snae-P'or Snj'olfur S'olberg S-Oren Starka-dur St'igur Sturlaugur-ICE Styrbj-Orn Styrk'ar Styrmir-ICE Sumarli-di Svalur-ICE Svanur-ICE Svan-P'or Svavar-ICE Sveinbj-Orn Sveinn-ICE Sverrir-ICE  
 	Tumi-ICE Tj-Orvi Tj-Orfi T'omas Tristan-ICE Tryggvi-ICE Torfi-ICE Tarfur-ICE Teitur-ICE T'imon T'yr 
 	Unnar-ICE Ubb-ICE Unnsteinn-ICE 
 	'ulfh'e-dinn 'ulfgr'imur 'ulflj'otur 'ulfur 'ulrik 
 	Valdimar-ICE V'egestur Vestgeir-ICE  Valt'yr V'ebj-Orn V'esteinn Veturli-di Vi-dar V'i-dir V'iglundur V'igmundur V-Olundur  Valmundur-ICE Vigf'us Vignir-ICE Viktor-ICE V-Or-dur 
 	Ylur-ICE Ymir-ICE Yngvar-ICE Yngvi-ICE Yrkill-ICE 
 	_'ymir 
-	Th'or Th'orkell Th'or-dur Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-Orn Th'orbj-Orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-Ostur Thyrnir 
+	Th'or Th'orkell Th'or-dur-ICE Thangbrandur Thengill Thi-drik Thj'alfi Th'orarinn Th'orberg Th'orbergur Thorbergur Th'orbjarni Thorbj-Orn Th'orbj-Orn Thorbrandur Thorfinnur Thorgar-dur Thorgautur Thorgeir Thorgestur Thorgils-ICE Thorg'isli Thorgn'yr Th'orgr'imur Th'orhannes Th'orhallur Thorl'akur Thorleifur Th'orleifur Thorm'o-dur Th'orormur Thorri Thorsteinn Th'orsteinn Thorvaldur-ICE Thr'ainn Thr'andur Thr-Ostur Thyrnir 
 	Aegir Aevar
 	}
 	female_names = {

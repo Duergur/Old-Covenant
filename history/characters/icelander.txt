@@ -1,6 +1,6 @@
 ﻿#
 sturla_concubine_sturlungr = { # Guðfinna Sveinsdóttir, frilla Hvamm-Sturla
-	name = "Guðfinna"
+	name = "Gu-dfinna-ICE"
 	#dynasty = 
     female = yes
 	martial = 10
@@ -20,7 +20,7 @@ sturla_concubine_sturlungr = { # Guðfinna Sveinsdóttir, frilla Hvamm-Sturla
 	}
 }
 sturla_concubine_2_sturlungr = { # Álof, frilla Hvamm-Sturla
-	name = "Álof"
+	name = "'alof-ICE"
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -40,7 +40,7 @@ sturla_concubine_2_sturlungr = { # Álof, frilla Hvamm-Sturla
 }
 
 bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
-	name = "Björn"
+	name = "Bj-orn-ICE"
 	dynasty = sturluson
     
 	martial = 10
@@ -63,7 +63,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 }
 #
 1703992859 = {
-	name = "Sturla"
+	name = "Sturla-ICE"
 	dynasty = sturluson
     
 	martial = 17
@@ -94,7 +94,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 }
 
 2703992859 = {
-	name = "Guðný Böðvarsdóttir"
+	name = "Gu-dn'y_B-o-dvarsd'ottir-ICE"
 	dynasty = skallagrimsson
     female = yes
 	martial = 4
@@ -117,7 +117,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 }
 
 3703992859 = { #Þórður, fyrsti sonur Guðnýar
-	name = "Þórður"
+	name = "Th'or-dur-ICE"
 	dynasty = sturluson
     
 	martial = 5
@@ -141,7 +141,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 	}
 }
 4703992859 = { #Sighvatur, annar sonur Guðnýar
-	name = "Sighvatur"
+	name = "Sighvatur-ICE"
 	dynasty = sturluson
     
 	martial = 18
@@ -166,7 +166,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 	}
 }
 5703992859 = { #Snorri, þriðji sonur Guðnýar
-	name = "Snorri"
+	name = "Snorri-ICE"
 	dynasty = sturluson
 	martial = 12
 	diplomacy = 10
@@ -204,7 +204,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
    
 
 ormur_wife_svinfelling = { # Helga Árnadóttir, kona Ormur Jónsson
-	name = "Helga"
+	name = "Helga-ICE"
 	
     female = yes
 	martial = 10
@@ -224,7 +224,7 @@ ormur_wife_svinfelling = { # Helga Árnadóttir, kona Ormur Jónsson
 	}
 }
 sigmundur_wife_svinfelling = { # Arnbjörg Oddsdóttir, kona Sigmundur Ormsson
-	name = "Arnbjörg"
+	name = "Arnbj-Org-ICE"
 	
     female = yes
 	martial = 10
@@ -247,7 +247,7 @@ sigmundur_wife_svinfelling = { # Arnbjörg Oddsdóttir, kona Sigmundur Ormsson
 ###################3 konur Svínfellinga
 
 svinfelling_1 = { #Ormur Jónsson, langa afi Orm Jónssonar Svínfelling, prestur í Vopnafirði
-	name = "Ormur Jónsson"
+	name = "Ormur_J'onsson-ICE"
 	dynasty = svinfelling
     
 	martial = 10
@@ -275,7 +275,7 @@ svinfelling_1 = { #Ormur Jónsson, langa afi Orm Jónssonar Svínfelling, prestu
 	}
 }
 svinfelling_2 = { #Sigmundur Ormsson, sonur Orms Jónsonar, stjórnar Austrland
-	name = "Sigmundur"
+	name = "Sigmundur-ICE"
 	dynasty = svinfelling
     
 	martial = 10
@@ -298,7 +298,7 @@ svinfelling_2 = { #Sigmundur Ormsson, sonur Orms Jónsonar, stjórnar Austrland
 	}
 }
 jon_svinfelling = { #sonur Sigmundar Ormsson, verður líklega Svinfellinga adventurerinn
-	name = "Jón"
+	name = "J'on-ICE"
 	dynasty = svinfelling
     
 	martial = 10
@@ -318,7 +318,7 @@ jon_svinfelling = { #sonur Sigmundar Ormsson, verður líklega Svinfellinga adve
 	}
 }
 asdis_svinfelling = { #dóttir Sigmundar Ormsson
-	name = "Ásdís"
+	name = "'asd'is-ICE"
 	dynasty = svinfelling
     female = yes
 	martial = 10
@@ -338,7 +338,7 @@ asdis_svinfelling = { #dóttir Sigmundar Ormsson
 	}
 }
 svinfelling_3 = { #Sigurður Ormsson, stjórnar Höfn
-	name = "Sigurður"
+	name = "Sigur-dur-ICE"
 	dynasty = svinfelling
     
 	martial = 10
@@ -361,7 +361,7 @@ svinfelling_3 = { #Sigurður Ormsson, stjórnar Höfn
 ###########################################################################################################################################
 
 asbirning_1 = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Arnórsson, Arnór Kolbeinsson 2
-	name = "Ásbjörn"
+	name = "'asbj-Orn"
 	dynasty = asbirning
     
 	martial = 10
@@ -386,7 +386,7 @@ asbirning_1 = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Arnórss
 	}
 }
 arnor_1_asbirning = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Arnórsson, Arnór Kolbeinsson 2
-	name = "Arnór"
+	name = "Arn'or-ICE"
 	dynasty = asbirning
     
 	martial = 10
@@ -409,7 +409,7 @@ arnor_1_asbirning = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Ar
 	}
 }
 kolbeinn_asbirning = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn Arnórsson, Arnór Kolbeinsson 2, Kolbeinn 2, 
-	name = "Kolbeinn"
+	name = "Kolbeinn-ICE"
 	dynasty = asbirning
     
 	martial = 10
@@ -433,7 +433,7 @@ kolbeinn_asbirning = { #Ásbjörn Arnórsson, Arnór Ásbjarnarson 1, Kolbeinn A
 }
 
 arnor_2_asbirning = { #
-	name = "Arnór"
+	name = "Arn'or-ICE"
 	dynasty = asbirning
     
 	martial = 10
@@ -456,7 +456,7 @@ arnor_2_asbirning = { #
 	}
 }
 kolbeinn_2_asbirning = { #
-	name = "Kolbeinn Kaldaljós"
+	name = "Kolbeinn-Kaldalj'os-ICE"
 	dynasty = asbirning
     
 	martial = 10
@@ -476,7 +476,7 @@ kolbeinn_2_asbirning = { #
 	}
 }
 halldora_asbirning = { #
-	name = "Halldóra"
+	name = "Halld'ora-ICE"
 	dynasty = asbirning
     female = yes
 	martial = 10
@@ -502,7 +502,7 @@ halldora_asbirning = { #
 #Arnór Kolbeinsson 
 
 asbjorn_wife_asbirning = { # Ingunn Þorsteinsdóttir, kona Ásbjörns, ættföður Ásbirninga
-	name = "Ingunn"
+	name = "Ingunn-ICE"
 	
     female = yes
 	martial = 10
@@ -522,7 +522,7 @@ asbjorn_wife_asbirning = { # Ingunn Þorsteinsdóttir, kona Ásbjörns, ættfö�
 	}
 }
 arnor_1_wife_asbirning = { # Guðrún Daðadóttir, kona Arnórs Ásbjarnasonar
-	name = "Guðrún"
+	name = "Gu-dr'un-ICE"
 	
     female = yes
 	martial = 10
@@ -542,7 +542,7 @@ arnor_1_wife_asbirning = { # Guðrún Daðadóttir, kona Arnórs Ásbjarnasonar
 	}
 }
 kolbeinn_1_wife_asbirning = { # Herdís Þorkelsdóttir, kona Kolbeins Arnórssonar
-	name = "Herdís"
+	name = "Herd'is-ICE"
 	
     female = yes
 	martial = 10
@@ -562,7 +562,7 @@ kolbeinn_1_wife_asbirning = { # Herdís Þorkelsdóttir, kona Kolbeins Arnórsso
 	}
 }
 arnor_2_wife_asbirning = { # Guðrún Brandsdóttir
-	name = "Guðrún"
+	name = "Gu-dr'un-ICE"
 	
     female = yes
 	martial = 10
@@ -582,7 +582,7 @@ arnor_2_wife_asbirning = { # Guðrún Brandsdóttir
 	}
 }
 tumi_wife_asbirning = { # Þuríður Gissurardóttir
-	name = "Þuríður"
+	name = "-Pur'i-dur-ICE"
 	
     female = yes
 	martial = 10
@@ -604,7 +604,7 @@ tumi_wife_asbirning = { # Þuríður Gissurardóttir
 
 ######### Asbirning Adventurer
 tumi_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adventurer
-	name = "Tumi"
+	name = "Tumi-ICE"
 	dynasty = asbirning
     
 	martial = 10
@@ -628,7 +628,7 @@ tumi_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adventure
 	}
 }
 kolbeinn_3_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adventurer
-	name = "Kolbeinn"
+	name = "Kolbeinn-ICE"
 	dynasty = asbirning
     
 	martial = 10
@@ -650,7 +650,7 @@ kolbeinn_3_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adv
 
 ###############################################################################################################################################
 pall_reykholt = { #
-	name = "Páll Sölvason"
+	name = "P'all_S-olvason-ICE"
     
 	
 	martial = 4
@@ -676,7 +676,7 @@ pall_reykholt = { #
 	}
 }
 torbjorg_reykholt = { # wife of Pall Solvason, attacked Sturla with a knife
-	name = "Þórbjörg Bjarnardóttir"
+	name = "-P'orbj-org_Bjarnard'ottir-ICE"
      #Reykholt
     female = yes
 	martial = 14
@@ -700,7 +700,7 @@ torbjorg_reykholt = { # wife of Pall Solvason, attacked Sturla with a knife
 	}
 }
 magnus_reykholt = { # son of Pall Solvason
-	name = "Magnús"
+	name = "Magn'us-ICE"
      #Reykholt
 
 	martial = 4
