@@ -1392,7 +1392,7 @@
 	}
 }
 
-202024 = { #icelander
+202024 = { #icelander Jón Loftson
 	name = "JO_n"
 	# AKA: Jon
 	dynasty = 101892

@@ -63,7 +63,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 }
 #
 1703992859 = {
-	name = "Sturla-ICE"
+	name = "Sturla-ICE" #Snorri Sturlusson
 	dynasty = sturluson
     
 	martial = 17
@@ -94,7 +94,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 }
 
 2703992859 = {
-	name = "Gu-dn'y_B-o-dvarsd'ottir-ICE"
+	name = "Gu-dn'y_B-o-dvarsd'ottir-ICE" #Guðný Böðvarsdóttir
 	dynasty = skallagrimsson
     female = yes
 	martial = 4
