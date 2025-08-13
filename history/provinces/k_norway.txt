@@ -449,7 +449,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -460,7 +460,7 @@
 	religion = norse_pagan
 	holding = none
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 		holding = church_holding
 	}
 	930.1.1 = {
@@ -473,7 +473,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -491,7 +491,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -509,7 +509,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -521,7 +521,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -541,7 +541,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -559,7 +559,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -571,7 +571,7 @@
 	culture = norse
 	religion = norse_pagan
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -582,7 +582,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 		holding = church_holding
 	}
 	930.1.1 = {
@@ -595,7 +595,7 @@
 	religion = norse_pagan
 	holding = tribal_holding
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 	}
 	930.1.1 = {
 		culture = icelander
@@ -619,7 +619,7 @@
 		religion = norse_pagan
 	}
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 		holding = castle_holding
 	}
 	1066.1.1 = { culture = norwegian }
@@ -635,7 +635,7 @@
 		religion = norse_pagan
 	}
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 		holding = castle_holding
 	}
 	1066.1.1 = {
@@ -653,7 +653,7 @@
 		religion = norse_pagan
 	}
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse
 		holding = castle_holding
 	}
 	1066.1.1 = { culture = norwegian }
