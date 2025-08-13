@@ -1,0 +1,18 @@
+﻿skalholt = {
+	county = c_sudurland
+    barony = b_stokkseyri
+
+	character_modifier = {
+		name = holy_site_armagh_effect_name
+		monthly_piety_gain_mult = 0.05
+		learning_per_piety_level = 1
+	}
+}
+holar = {
+	county = c_nordrland
+    barony = b_vopnafjordur
+
+	character_modifier = {
+    flag = visoki_conversion_resistance_bonus
+	}
+}
