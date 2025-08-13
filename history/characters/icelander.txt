@@ -1,7 +1,7 @@
 ﻿#
 sturla_concubine_sturlungr = { # Guðfinna Sveinsdóttir, frilla Hvamm-Sturla
 	name = "Guðfinna"
-	dynasty = random
+	#dynasty = 
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -21,7 +21,6 @@ sturla_concubine_sturlungr = { # Guðfinna Sveinsdóttir, frilla Hvamm-Sturla
 }
 sturla_concubine_2_sturlungr = { # Álof, frilla Hvamm-Sturla
 	name = "Álof"
-	dynasty = random
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -206,7 +205,7 @@ bjorn_sturlungr = { # Björn Sturluson, sonur Guðfinnu
 
 ormur_wife_svinfelling = { # Helga Árnadóttir, kona Ormur Jónsson
 	name = "Helga"
-	dynasty = random
+	
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -226,7 +225,7 @@ ormur_wife_svinfelling = { # Helga Árnadóttir, kona Ormur Jónsson
 }
 sigmundur_wife_svinfelling = { # Arnbjörg Oddsdóttir, kona Sigmundur Ormsson
 	name = "Arnbjörg"
-	dynasty = random
+	
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -504,7 +503,7 @@ halldora_asbirning = { #
 
 asbjorn_wife_asbirning = { # Ingunn Þorsteinsdóttir, kona Ásbjörns, ættföður Ásbirninga
 	name = "Ingunn"
-	dynasty = random
+	
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -524,7 +523,7 @@ asbjorn_wife_asbirning = { # Ingunn Þorsteinsdóttir, kona Ásbjörns, ættfö�
 }
 arnor_1_wife_asbirning = { # Guðrún Daðadóttir, kona Arnórs Ásbjarnasonar
 	name = "Guðrún"
-	dynasty = random
+	
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -544,7 +543,7 @@ arnor_1_wife_asbirning = { # Guðrún Daðadóttir, kona Arnórs Ásbjarnasonar
 }
 kolbeinn_1_wife_asbirning = { # Herdís Þorkelsdóttir, kona Kolbeins Arnórssonar
 	name = "Herdís"
-	dynasty = random
+	
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -564,7 +563,7 @@ kolbeinn_1_wife_asbirning = { # Herdís Þorkelsdóttir, kona Kolbeins Arnórsso
 }
 arnor_2_wife_asbirning = { # Guðrún Brandsdóttir
 	name = "Guðrún"
-	dynasty = random
+	
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -584,7 +583,7 @@ arnor_2_wife_asbirning = { # Guðrún Brandsdóttir
 }
 tumi_wife_asbirning = { # Þuríður Gissurardóttir
 	name = "Þuríður"
-	dynasty = random
+	
     female = yes
 	martial = 10
 	diplomacy = 10
@@ -652,7 +651,7 @@ kolbeinn_3_asbirning = { # bastarður, bróðir Arnórs 2, verður Asbirning adv
 ###############################################################################################################################################
 pall_reykholt = { #
 	name = "Páll Sölvason"
-    dynasty = random
+    
 	
 	martial = 4
 	diplomacy = 10
@@ -678,7 +677,7 @@ pall_reykholt = { #
 }
 torbjorg_reykholt = { # wife of Pall Solvason, attacked Sturla with a knife
 	name = "Þórbjörg Bjarnardóttir"
-    dynasty = random #Reykholt
+     #Reykholt
     female = yes
 	martial = 14
 	diplomacy = 2
@@ -702,7 +701,7 @@ torbjorg_reykholt = { # wife of Pall Solvason, attacked Sturla with a knife
 }
 magnus_reykholt = { # son of Pall Solvason
 	name = "Magnús"
-    dynasty = random #Reykholt
+     #Reykholt
 
 	martial = 4
 	diplomacy = 8
