@@ -1,0 +1,169 @@
+#k_icelannd
+
+
+
+##d_iceland ################################### MOD allt duchy of Iceland er modded, 
+###c_vestisland #Reykholt
+9668 = { #Reykholt
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+2 = {	#REYKJAVIK #Bessastaðir
+	culture = norse
+	religion = norse_pagan
+	holding = none
+	1000.1.1 = {
+		religion = insular_norse
+		holding = church_holding
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+###c_stadarstadur
+9666 = {	#Staðarstaður
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+8771 = {	#OLAFSVIK
+	holding = none
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+###c_vestfirdir
+1 = {	#VESTFIRDIR
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+9662 = {	#Vatnfirdir
+	holding = tribal_holding
+}
+9663 = {	#myrum
+	holding = tribal_holding
+}
+###c_nordrland
+5 = {	#HUSAVIK #Mun gera að Grund
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+###c_skagafjordur
+9667 = {	#Flugumyri, nú kallað Víðimýri
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+9664 = {	 #Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
+	holding = none
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
+
+
+###c_austisland
+4 = {	#REYDARFJALL
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+8773 = {	#VOPNAFJORDUR #Hof, biskupstaður, Hofverjar voru hér t.d. 
+	holding = none
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
+###c_sudurland
+9669 = {	# oddastaðir
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+###c_svinfell
+8772 = {	#HOFN Svínfell
+	holding = tribal_holding
+	culture = norse
+	religion = norse_pagan
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+8774 = {	#Klaustr var oddastaðir
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+		holding = church_holding
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+###c_arnessysla
+9665 = {	#Haukadalur
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+3 = {	#Skálholt
+	holding = none
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
