@@ -18078,43 +18078,14 @@ e_scandinavia = {
 
 			color = { 255 245 245 }
 
-			capital = c_vestisland # Reykjavik
+			capital = c_vestfirdir # Reykjavik
 
 			cultural_names = {
 				name_list_norse = cn_island
 				name_list_norwegian = cn_island
 			}
 
-			c_vestisland = {
-				color = { 255 245 245 }
-
-
-				b_reykholt = {
-					province = 9668
-
-					color = { 255 245 245 }
-				}
-				b_reykjavik = {
-					province = 2
-
-					color = { 255 245 245 }
-				}
-				b_arnes2 = {
-					province = 9679
-
-					color = { 220 220 220 }
-				}
-				b_arnes3 = {
-					province = 9680
-
-					color = { 220 220 220 }
-				}
-				b_kjos = {
-					province = 9670
-
-					color = { 255 245 245 }
-				}
-			}
+			
 			c_dalasysla = {
 				color = { 255 245 245 }
 
@@ -18179,6 +18150,9 @@ e_scandinavia = {
 			}
 		}	
 		d_nordlendingafjordungur = {
+			color = { 50 50 50 }
+
+			capital = c_nordrland # Akureyri
 
 			c_nordrland = {
 				color = { 240 230 230 }
@@ -18225,7 +18199,9 @@ e_scandinavia = {
 			}
 		}
 		d_austfirdingafjordungur = {
-	
+		color = { 185 245 222 }
+
+			capital = c_svinfell # Svínfell
 			c_austisland = {
 				color = { 250 215 215 }
 				b_reydarfjall = {	#=Seydisfjordur
@@ -18254,12 +18230,45 @@ e_scandinavia = {
 			}
 		}	
 		d_sunnlendingafjordungur = {
+			color = { 85 20 99 }
+
+			capital = c_arnessysla # Haukdalir
 			c_sudurland = {
 				color = { 220 220 220 }
 				b_oddastadir = {
 					province = 9669
 
 					color = { 220 220 220 }
+				}
+			}
+			c_vestisland = {
+				color = { 255 245 245 }
+
+
+				b_reykholt = {
+					province = 9668
+
+					color = { 255 245 245 }
+				}
+				b_reykjavik = {
+					province = 2
+
+					color = { 255 245 245 }
+				}
+				b_arnes2 = {
+					province = 9679
+
+					color = { 220 220 220 }
+				}
+				b_arnes3 = {
+					province = 9680
+
+					color = { 220 220 220 }
+				}
+				b_kjos = {
+					province = 9670
+
+					color = { 255 245 245 }
 				}
 			}
 			c_arnessysla = {
