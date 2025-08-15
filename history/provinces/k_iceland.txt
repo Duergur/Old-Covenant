@@ -3,7 +3,7 @@
 
 
 ##k_iceland ################################### MOD allt duchy of Iceland er modded, 
-###d_vestfirdingafjordungur #vestfirdir
+###d_iceland #vestfirdingafjordungur #vestfirdir
 ###c_vestisland #Reykholt
 9668 = { #Reykholt
 	culture = norse

@@ -18074,7 +18074,7 @@ e_scandinavia = {
 				add = @correct_culture_primary_score
 			}
 		}
-		d_vestfirdingafjordungur = {
+		d_iceland = {
 
 			color = { 255 245 245 }
 
