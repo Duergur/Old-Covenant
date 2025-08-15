@@ -18074,7 +18074,8 @@ e_scandinavia = {
 				add = @correct_culture_primary_score
 			}
 		}
-		d_iceland = {
+		d_vestfirdingafjordungur = {
+
 			color = { 255 245 245 }
 
 			capital = c_vestisland # Reykjavik
@@ -18134,6 +18135,9 @@ e_scandinavia = {
 					color = { 255 245 245 }
 				}
 			}
+		}	
+		d_nordlendingafjordungur = {
+
 			c_nordrland = {
 				color = { 240 230 230 }
 
@@ -18162,6 +18166,9 @@ e_scandinavia = {
 					color = { 240 230 230 }
 				}
 			}
+		}	
+		d_austfirdingafjordungur = {
+	
 			c_austisland = {
 				color = { 250 215 215 }
 				b_reydarfjall = {	#=Seydisfjordur
@@ -18173,14 +18180,6 @@ e_scandinavia = {
 					province = 8773
 
 					color = { 240 230 230 }
-				}
-			}
-			c_sudurland = {
-				color = { 220 220 220 }
-				b_oddastadir = {
-					province = 9669
-
-					color = { 220 220 220 }
 				}
 			}
 			c_svinfell = {
@@ -18196,6 +18195,17 @@ e_scandinavia = {
 					color = { 220 220 220 }
 				}
 			}
+		}	
+		d_sunnlendingafjordungur = {
+			c_sudurland = {
+				color = { 220 220 220 }
+				b_oddastadir = {
+					province = 9669
+
+					color = { 220 220 220 }
+				}
+			}
+
 			c_arnessysla = {
 				color = { 220 220 220 }
 
@@ -18211,7 +18221,7 @@ e_scandinavia = {
 				}	
 			}
 		}
-	}
+	}	
 	k_finland = {
 		color = { 180 110 0 }
 
