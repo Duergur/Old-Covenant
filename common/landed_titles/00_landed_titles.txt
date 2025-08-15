@@ -17878,144 +17878,6 @@ e_scandinavia = {
 			}
 		}
 
-		d_iceland = {
-			color = { 255 245 245 }
-
-			capital = c_vestisland # Reykjavik
-
-			cultural_names = {
-				name_list_norse = cn_island
-				name_list_norwegian = cn_island
-			}
-
-			c_vestisland = {
-				color = { 255 245 245 }
-
-
-				b_reykholt = {
-					province = 9668
-
-					color = { 255 245 245 }
-				}
-				b_reykjavik = {
-					province = 2
-
-					color = { 255 245 245 }
-				}
-			}
-			c_stadarstadur = {
-				color = { 255 245 245 }
-
-				b_stadarstadur = {
-					province = 9666
-
-					color = { 255 245 245 }
-				}
-				b_olafsvik = {
-					province = 8771
-
-					color = { 255 245 245 }
-				}
-
-			}
-
-			c_vestfirdir = {
-				color = { 255 245 245 }
-				
-				b_vestfirdir = {	#=Isalfjordur
-					province = 1
-
-					color = { 255 245 245 }
-				}
-				b_vatnfirdir = {
-					province = 9662
-
-					color = { 255 245 245 }
-				}
-				b_myreyri = {
-					province = 9663
-
-					color = { 255 245 245 }
-				}
-			}
-			c_nordrland = {
-				color = { 240 230 230 }
-
-				b_husavik = {
-					province = 5
-
-					color = { 240 230 230 }
-
-					#cultural_names =  {
-					#	name_list_norse = cn_husavik
-					#}
-				}
-			}
-			c_skagafjordur = {
-				color = { 240 230 230 }
-
-
-				b_flugumyri = {
-					province = 9667
-
-					color = { 240 230 230 }
-				}
-				b_vidimyri = {
-					province = 9664
-
-					color = { 240 230 230 }
-				}
-			}
-			c_austisland = {
-				color = { 250 215 215 }
-				b_reydarfjall = {	#=Seydisfjordur
-					province = 4
-
-					color = { 250 215 215 }
-				}
-				b_vopnafjordur = {
-					province = 8773
-
-					color = { 240 230 230 }
-				}
-			}
-			c_sudurland = {
-				color = { 220 220 220 }
-				b_oddastadir = {
-					province = 9669
-
-					color = { 220 220 220 }
-				}
-			}
-			c_svinfell = {
-				color = { 220 220 220 }
-				b_hofn = {
-					province = 8772
-
-					color = { 250 215 215 }
-				}
-				b_klaustur = {
-					province = 8774
-
-					color = { 220 220 220 }
-				}
-			}
-			c_arnessysla = {
-				color = { 220 220 220 }
-
-				b_haukadalur = {
-					province = 9665
-
-					color = { 220 220 220 }
-				}
-				b_stokkseyri = {
-					province = 3
-
-					color = { 220 220 220 }
-				}	
-			}
-		}
-
 		d_northern_isles = {
 			color = { 195 75 75 }
 
@@ -18195,6 +18057,161 @@ e_scandinavia = {
 		}
 	}
 
+	k_iceland = {
+		color = { 0 15 130 }
+
+		capital = c_arnessysla
+
+		cultural_names = {
+			name_list_norse = cn_noregr
+		}
+
+		ai_primary_priority = {
+			if = {
+				limit = {
+					culture = culture:icelander
+				}
+				add = @correct_culture_primary_score
+			}
+		}
+		d_iceland = {
+			color = { 255 245 245 }
+
+			capital = c_vestisland # Reykjavik
+
+			cultural_names = {
+				name_list_norse = cn_island
+				name_list_norwegian = cn_island
+			}
+
+			c_vestisland = {
+				color = { 255 245 245 }
+
+
+				b_reykholt = {
+					province = 9668
+
+					color = { 255 245 245 }
+				}
+				b_reykjavik = {
+					province = 2
+
+					color = { 255 245 245 }
+				}
+			}
+			c_stadarstadur = {
+				color = { 255 245 245 }
+
+				b_stadarstadur = {
+					province = 9666
+
+					color = { 255 245 245 }
+				}
+				b_olafsvik = {
+					province = 8771
+
+					color = { 255 245 245 }
+				}
+
+			}
+
+			c_vestfirdir = {
+				color = { 255 245 245 }
+				
+				b_vestfirdir = {	#=Isalfjordur
+					province = 1
+
+					color = { 255 245 245 }
+				}
+				b_vatnfirdir = {
+					province = 9662
+
+					color = { 255 245 245 }
+				}
+				b_myreyri = {
+					province = 9663
+
+					color = { 255 245 245 }
+				}
+			}
+			c_nordrland = {
+				color = { 240 230 230 }
+
+				b_husavik = {
+					province = 5
+
+					color = { 240 230 230 }
+
+					#cultural_names =  {
+					#	name_list_norse = cn_husavik
+					#}
+				}
+			}
+			c_skagafjordur = {
+				color = { 240 230 230 }
+
+
+				b_flugumyri = {
+					province = 9667
+
+					color = { 240 230 230 }
+				}
+				b_vidimyri = {
+					province = 9664
+
+					color = { 240 230 230 }
+				}
+			}
+			c_austisland = {
+				color = { 250 215 215 }
+				b_reydarfjall = {	#=Seydisfjordur
+					province = 4
+
+					color = { 250 215 215 }
+				}
+				b_vopnafjordur = {
+					province = 8773
+
+					color = { 240 230 230 }
+				}
+			}
+			c_sudurland = {
+				color = { 220 220 220 }
+				b_oddastadir = {
+					province = 9669
+
+					color = { 220 220 220 }
+				}
+			}
+			c_svinfell = {
+				color = { 220 220 220 }
+				b_hofn = {
+					province = 8772
+
+					color = { 250 215 215 }
+				}
+				b_klaustur = {
+					province = 8774
+
+					color = { 220 220 220 }
+				}
+			}
+			c_arnessysla = {
+				color = { 220 220 220 }
+
+				b_haukadalur = {
+					province = 9665
+
+					color = { 220 220 220 }
+				}
+				b_stokkseyri = {
+					province = 3
+
+					color = { 220 220 220 }
+				}	
+			}
+		}
+	}
 	k_finland = {
 		color = { 180 110 0 }
 
