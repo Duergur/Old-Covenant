@@ -18074,7 +18074,7 @@ e_scandinavia = {
 				add = @correct_culture_primary_score
 			}
 		}
-		d_iceland = {
+		d_iceland = {		#Vestfjordungur
 
 			color = { 255 245 245 }
 
@@ -18099,10 +18099,30 @@ e_scandinavia = {
 
 					color = { 255 245 245 }
 				}
+				b_arnes2 = {
+					province = 9679
+
+					color = { 220 220 220 }
+				}
+				b_arnes3 = {
+					province = 9680
+
+					color = { 220 220 220 }
+				}
+				b_kjos = {
+					province = 9670
+
+					color = { 255 245 245 }
+				}
 			}
-			c_stadarstadur = {
+			c_dalasysla = {
 				color = { 255 245 245 }
 
+				b_dalasysla = {	#=Hvammur
+					province = 9672
+
+					color = { 255 245 245 }
+				}
 				b_stadarstadur = {
 					province = 9666
 
@@ -18113,9 +18133,26 @@ e_scandinavia = {
 
 					color = { 255 245 245 }
 				}
+				b_myrasysla = {
+					province = 9671
 
+					color = { 255 245 245 }
+				}
 			}
+			c_hunavatnsysla = {
+				color = { 255 245 245 }
 
+				b_vest_hunavatn = {
+					province = 9674
+
+					color = { 255 245 245 }
+				}
+				b_aust_hunavatn = {
+					province = 9675
+
+					color = { 255 245 245 }
+				}
+			}
 			c_vestfirdir = {
 				color = { 255 245 245 }
 				
@@ -18131,6 +18168,11 @@ e_scandinavia = {
 				}
 				b_myreyri = {
 					province = 9663
+
+					color = { 255 245 245 }
+				}
+				b_strandasysla = {
+					province = 9673
 
 					color = { 255 245 245 }
 				}
@@ -18166,7 +18208,22 @@ e_scandinavia = {
 					color = { 240 230 230 }
 				}
 			}
-		}	
+			c_thingeyjarsysla = {
+				color = { 240 230 230 }
+
+
+				b_nordur_thingeyarsysla = {
+					province = 9676
+
+					color = { 240 230 230 }
+				}
+				b_sudur_thingeyarsysla = {
+					province = 9677
+
+					color = { 240 230 230 }
+				}
+			}
+		}
 		d_austfirdingafjordungur = {
 	
 			c_austisland = {
@@ -18205,7 +18262,6 @@ e_scandinavia = {
 					color = { 220 220 220 }
 				}
 			}
-
 			c_arnessysla = {
 				color = { 220 220 220 }
 
@@ -18213,13 +18269,22 @@ e_scandinavia = {
 					province = 9665
 
 					color = { 220 220 220 }
-				}
+				}	
+			}
+			c_skalholt = {
+				color = { 220 220 220 }
+
 				b_stokkseyri = {
 					province = 3
 
 					color = { 220 220 220 }
+				}
+				b_selfoss = {
+					province = 9678
+
+					color = { 220 220 220 }
 				}	
-			}
+			}	
 		}
 	}	
 	k_finland = {
