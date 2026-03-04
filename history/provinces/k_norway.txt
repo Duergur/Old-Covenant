@@ -1,4 +1,4 @@
-#k_norway
+﻿#k_norway
 ##d_viken ###################################
 ###c_vingulmork
 234 = {	#OSLOSYSLAR	- Oslo
@@ -442,6 +442,8 @@
 	holding = none
 }
 
+#Iceland was here Covenant Mod 
+
 ##d_northern_isles ###################################
 ###c_orkney
 8 = {	#KIRKWALL
@@ -459,7 +461,7 @@
 	1066.1.1 = { culture = norwegian }
 }
 
-###c_faereyar
+###c_faereyar #Covenant Mod edited religion
 6 = {	#TORSHAVN
 	culture = pictish
 	religion = catholic
@@ -469,11 +471,11 @@
 		religion = norse_pagan
 	}
 	1000.1.1 = {
-		religion = insular_norse
+		religion = insular_norse 
 		holding = castle_holding
 	}
 	1066.1.1 = {
-		culture = norse
+		culture = norwegian
 	}
 }
 
