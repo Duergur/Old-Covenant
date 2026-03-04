@@ -9,10 +9,12 @@
 #	provinces = { }, takes province id numbers declared in /history/provinces
 
 island_region_iceland = {
-	duchies = {	d_iceland
+	duchies = {	
+	d_iceland 
 	d_austfirdingafjordungur
 	d_sunnlendingafjordungur
-	d_nordlendingafjordungur }
+	d_nordlendingafjordungur
+	}
 }
 
 island_region_faereyar = {
@@ -125,4 +127,12 @@ island_region_gutland = {
 
 island_region_bornholm = {
 	counties = { c_bornholm }
+}
+
+island_region_zanzibar = {
+	counties = { c_zanzibar }
+}
+
+island_region_pemba = {
+	counties = { c_pemba }
 }
