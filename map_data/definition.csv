@@ -13277,11 +13277,11 @@
 13267;136;88;106;;x;
 13268;159;111;3;;x;
 13269;107;147;212;;x;
-#13270;43;32;232;;x; #1 9663;155;4;4;;x; # Myrum b_myreyri c_vestfirdir Iceland Covenant Mod starts here 
-#13271;44;32;236;;x; #1 9662 Ísafjörður - b_vatnfirdir c_vestfirdir
-#13272;45;32;240;;x; #1 9673;135;51;164;;x; #Strandasýsla b_strandafirdir c_vestfirdir
+13270;43;32;232;;x; #1 9663;155;4;4;;x; # Myrum b_myreyri c_vestfirdir Iceland Covenant Mod starts here 
+13271;44;32;236;;x; #1 9662 Ísafjörður - b_vatnfirdir c_vestfirdir
+13272;45;32;240;;x; #2 9666;51;30;33;;x; #Staðarstaður b_stadarstadur c_dalasysla 
 #13273;46;32;244;;x; #2 9672;93;48;36;;x; #Dalasysla b_dalasysla c_dalasysla
-#13274;47;32;248;;x; #2 9666;51;30;33;;x; #Staðarstaður b_stadarstadur c_dalasysla 
+#13274;47;32;248;;x; #1 9673;135;51;164;;x; #Strandasýsla b_strandafirdir c_vestfirdir
 #13275;48;32;232;;x; #2 9671;51;45;163;;x; #Mýrasýsla b_myrasysla c_dalasysla
 #13276;49;32;236;;x; #3-7 9674;177;54;37;;x; #vestur hunavatnssysla b_vest_hunavatn c_hunavatnsysla
 #13277;50;32;240;;x; #3-7 9675;9;57;165;;x; #austur hunavatnssysla b_aust_hunavatn c_hunavatnsysla
