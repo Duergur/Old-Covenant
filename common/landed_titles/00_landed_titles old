@@ -18172,12 +18172,12 @@ e_scandinavia = {
 
 
 				b_flugumyri = {
-					province = 9667
+					province = 13287
 
 					color = { 240 230 230 }
 				}
 				b_vidimyri = {
-					province = 9664
+					province = 13288
 
 					color = { 240 230 230 }
 				}
@@ -18187,12 +18187,12 @@ e_scandinavia = {
 
 
 				b_nordur_thingeyarsysla = {
-					province = 9676
+					province = 13286
 
 					color = { 240 230 230 }
 				}
 				b_sudur_thingeyarsysla = {
-					province = 9677
+					province = 13285
 
 					color = { 240 230 230 }
 				}
@@ -18246,7 +18246,7 @@ e_scandinavia = {
 
 
 				b_reykholt = {
-					province = 9668
+					province = 13283
 
 					color = { 255 245 245 }
 				}
@@ -18266,7 +18266,7 @@ e_scandinavia = {
 					color = { 220 220 220 }
 				}
 				b_kjos = {
-					province = 9670
+					province = 13284
 
 					color = { 255 245 245 }
 				}

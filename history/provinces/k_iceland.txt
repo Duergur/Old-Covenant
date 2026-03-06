@@ -5,7 +5,7 @@
 ##k_iceland ################################### MOD allt duchy of Iceland er modded, 
 ###d_iceland #vestfirdingafjordungur #vestfirdir
 ###c_vestisland #Reykholt
-9668 = { #Reykholt
+13283 = { #Reykholt
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -29,7 +29,7 @@
 	}
 }
 
-9670 = { #c_kjos
+13284 = { #c_kjos
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -84,7 +84,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9676 = { #c_sudur_thingeyarsysla
+13286 = { #c_sudur_thingeyarsysla
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -96,7 +96,7 @@ culture = norse
 	}
 }
 ##
-9677 = { #c_nordur_thingeyarsysla
+13285 = { #c_nordur_thingeyarsysla
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -190,7 +190,7 @@ culture = norse
 	}
 }
 ###c_skagafjordur
-9667 = {	#Flugumyri, nú kallað Víðimýri
+13287 = {	#Flugumyri, nú kallað Víðimýri
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -201,7 +201,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9664 = {	 #Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
+13288 = {	 #Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður
 	holding = none
 	1000.1.1 = {
 		holding = church_holding
