@@ -10,10 +10,7 @@
 
 island_region_iceland = {
 	duchies = {	
-	d_iceland 
-	d_austfirdingafjordungur
-	d_sunnlendingafjordungur
-	d_nordlendingafjordungur
+	d_iceland
 	}
 }
 

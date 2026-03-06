@@ -1,6 +1,6 @@
 ﻿skalholt = {
 	county = c_arnessysla
-    barony = b_stokkseyri
+    barony = b_haukadalur
 
 	character_modifier = {
 		monthly_piety_gain_mult = 0.05

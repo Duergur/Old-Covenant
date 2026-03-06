@@ -18407,6 +18407,15 @@ e_scandinavia = {
 			color = { 85 20 99 }
 
 			capital = c_arnessysla # Haukdalir
+			c_arnessysla = {
+				color = { 220 220 220 }
+
+				b_haukadalur = {
+					province = 13280
+
+					color = { 220 220 220 }
+				}	
+			}
 			c_sudurland = {
 				color = { 220 220 220 }
 				b_oddastadir = {
@@ -18444,15 +18453,6 @@ e_scandinavia = {
 
 					color = { 255 245 245 }
 				}
-			}
-			c_arnessysla = {
-				color = { 220 220 220 }
-
-				b_haukadalur = {
-					province = 13280
-
-					color = { 220 220 220 }
-				}	
 			}
 			c_skalholt = {
 				color = { 220 220 220 }
