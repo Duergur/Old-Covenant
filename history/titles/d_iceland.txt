@@ -274,7 +274,7 @@ c_vestfirdir = {
 	holder = 1703992859 #Hvamm-Sturla
 	}
 }
-c_stadarstadur = {
+c_dalasysla = {
 	867.1.1 = {
 		holder = 180257
 	}
