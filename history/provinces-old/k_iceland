@@ -141,7 +141,7 @@ culture = norse
 	}
 }
 ###c_stadarstadur
-9666 = {	#Staðarstaður
+13272 = {	#Staðarstaður
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -171,10 +171,10 @@ culture = norse
 		culture = icelander
 	}
 }
-9662 = {	#Vatnfirdir
+13271 = {	#Vatnfirdir
 	holding = tribal_holding
 }
-9663 = {	#myrum
+13270 = {	#myrum
 	holding = tribal_holding
 }
 ###c_nordrland

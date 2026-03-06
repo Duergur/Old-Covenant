@@ -18090,12 +18090,12 @@ e_scandinavia = {
 				color = { 255 245 245 }
 
 				b_dalasysla = {	#=Hvammur
-					province = 9672
+					province = 13273
 
 					color = { 255 245 245 }
 				}
 				b_stadarstadur = {
-					province = 9666
+					province = 13272
 
 					color = { 255 245 245 }
 				}
@@ -18133,12 +18133,12 @@ e_scandinavia = {
 					color = { 255 245 245 }
 				}
 				b_vatnfirdir = {
-					province = 9662
+					province = 13271
 
 					color = { 255 245 245 }
 				}
 				b_myreyri = {
-					province = 9663
+					province = 13270
 
 					color = { 255 245 245 }
 				}
