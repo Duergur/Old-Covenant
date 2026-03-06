@@ -1,4 +1,4 @@
-version="1"
+﻿version="1"
 tags={
 	"Culture"
 	"Events"
@@ -8,5 +8,5 @@ tags={
 	"Character Interactions"
 }
 name="Old Covenant"
-supported_version="1.13.1.2"
+supported_version="1.18.3.1"
 remote_file_id="3348168881"
