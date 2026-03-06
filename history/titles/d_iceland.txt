@@ -337,25 +337,20 @@ c_arnessysla = {
 	1150.1.1 = {
 		holder = 202011
 	}
-
-}	
-
+}
 # Baronies
-
 #Vesturland
 #b_vestfirdir = {
 #	1150.1.1 = {
 #	holder = 1703992859 #Hvamm-Sturla
 #	}
 #}
-
 #Nordurland
 #b_vopnafjordur = { #kirkja
 #	1178.10.1 = {
 #	holder = svinfelling_1 #Ormur Jónsson, faðir Svínfellinga, verður prestur 1179, nota Court Chaplain on action dæmi til að landa hann hér 
 #	}
 #}
-
 #Sudurland
 #b_stokkseyri = {
 #	1150.1.1 = {
@@ -368,4 +363,3 @@ c_arnessysla = {
 #	holder = svinfelling_3 Sigurður, pabbi hans er prestur í Vopnafirði. Hann eignast engin börn og verður munkur árið 1202.
 #	}
 #}
-

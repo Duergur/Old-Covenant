@@ -13289,11 +13289,11 @@
 13279;52;32;248;;x; #4B 9678;135;66;39;;x; #b_selfoss c_skalholt
 13280;53;32;23;;x; #4A 9665;9;27;160;;x; #Haukdalur-c_arnessysla b_haukadalur
 13281;54;32;236;;x; #5 9680;9;72;40;;x; #b_arnes3 c_vestisland kannski færa yfir í c_arnessysla
-13282;55;132;240;;x; #5 9679;177;69;167;;x; #b_arnes2 c_vestisland
+13282;54;132;240;;x; #5 9679;177;69;167;;x; #b_arnes2 c_vestisland
 13283;200;5;5;;x; #5 9668;135;36;34;;x; #Reykholt b_reykholt c_vestisland
 13284;57;32;248;;x; #5 9670;177;39;162;;x; #Kjós b_kjos c_vestisland
 13285;58;32;232;;x; #6 9677;93;63;166;;x; #sÞingeyjarsýsla b_sudur_thingeyarsysla c_thingeyjarsysla
-13286;159;32;236;;x; #6 9676;51;60;38;;x; #nÞingeyjarsýsla b_nordur_thingeyarsysla c_thingeyjarsysl
+13286;159;32;232;;x; #6 9676;51;60;38;;x; #nÞingeyjarsýsla b_nordur_thingeyarsysla c_thingeyjarsysl
 13287;60;32;240;;x; #3 9667;93;33;161;;x; #Flugumyri Asbirning b_vidimyri c_skagafjordur breyta þessu i c_holar
 13288;60;132;240;;x; #3 9664;177;24;32;;x; #Asbirning Vidimyri b_flugumyri c_skagafjordur (breyta þessu í vidimiry og breyta hinu í holar)
 #13288;61;32;244;;x; #wrong sequence watch out
