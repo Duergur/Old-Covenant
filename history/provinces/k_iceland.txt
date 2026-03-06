@@ -40,7 +40,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9671 = { #c_myrarsysla
+13275 = { #c_myrarsysla
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -51,7 +51,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9673 = { #c_strandasysla
+13274 = { #c_strandasysla
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -62,7 +62,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9674 = { #c_strandasysla
+13276 = { #c_strandasysla
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -73,7 +73,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9675 = { #c_strandasysla
+13277 = { #c_strandasysla
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -107,7 +107,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9678 = { #c_selfoss
+13279 = { #c_selfoss
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -118,7 +118,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9679 = { #c_arnes2
+13282 = { #c_arnes2
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -129,7 +129,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9680 = { #c_arnes3
+13281 = { #c_arnes3
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -228,7 +228,7 @@ culture = norse
 	}
 }
 ###c_sudurland
-9669 = {	# oddastaðir
+13278 = {	# oddastaðir
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding
@@ -265,7 +265,7 @@ culture = norse
 }
 ###d_sunnlendingafjordungur
 ###c_arnessysla
-9665 = {	#Haukadalur
+13280 = {	#Haukadalur
 	culture = norse
 	religion = norse_pagan
 	holding = tribal_holding

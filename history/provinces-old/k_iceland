@@ -129,7 +129,7 @@ culture = norse
 		culture = icelander
 	}
 }
-9680 = { #c_arnes3
+13281 = { #c_arnes3
 culture = norse
 	religion = norse_pagan
 	holding = tribal_holding

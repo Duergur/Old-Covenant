@@ -18105,7 +18105,7 @@ e_scandinavia = {
 					color = { 255 245 245 }
 				}
 				b_myrasysla = {
-					province = 9671
+					province = 13275
 
 					color = { 255 245 245 }
 				}
@@ -18114,12 +18114,12 @@ e_scandinavia = {
 				color = { 255 245 245 }
 
 				b_vest_hunavatn = {
-					province = 9674
+					province = 13276
 
 					color = { 255 245 245 }
 				}
 				b_aust_hunavatn = {
-					province = 9675
+					province = 13277
 
 					color = { 255 245 245 }
 				}
@@ -18143,7 +18143,7 @@ e_scandinavia = {
 					color = { 255 245 245 }
 				}
 				b_strandasysla = {
-					province = 9673
+					province = 13274
 
 					color = { 255 245 245 }
 				}
@@ -18236,7 +18236,7 @@ e_scandinavia = {
 			c_sudurland = {
 				color = { 220 220 220 }
 				b_oddastadir = {
-					province = 9669
+					province = 13278
 
 					color = { 220 220 220 }
 				}
@@ -18256,12 +18256,12 @@ e_scandinavia = {
 					color = { 255 245 245 }
 				}
 				b_arnes2 = {
-					province = 9679
+					province = 13282
 
 					color = { 220 220 220 }
 				}
 				b_arnes3 = {
-					province = 9680
+					province = 13281
 
 					color = { 220 220 220 }
 				}
@@ -18275,7 +18275,7 @@ e_scandinavia = {
 				color = { 220 220 220 }
 
 				b_haukadalur = {
-					province = 9665
+					province = 13280
 
 					color = { 220 220 220 }
 				}	
@@ -18289,7 +18289,7 @@ e_scandinavia = {
 					color = { 220 220 220 }
 				}
 				b_selfoss = {
-					province = 9678
+					province = 13279
 
 					color = { 220 220 220 }
 				}	
