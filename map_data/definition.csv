@@ -13277,8 +13277,8 @@
 13267;136;88;106;;x;
 13268;159;111;3;;x;
 13269;107;147;212;;x;
-13270;62;32;248;;x;
-13271;63;32;232;;x;
+13270;43;32;232;;x; #1 9663;155;4;4;;x;  Myrum b_myreyri c_vestfirdir Iceland Covenant Mod starts here
+13271;44;32;236;;x; #1 9662 Ísafjörður - b_vatnfirdir c_vestfirdir
 13272;144;144;144;;x; #2 9666;51;30;33;;x; #Staðarstaður b_stadarstadur c_dalasysla 
 13273;146;32;44;;x; #2 9672;93;48;36;;x; Dalasysla b_dalasysla c_dalasysla hvammur
 13274;47;132;48;;x; #1 9673;135;51;164;;x; Strandasýsla b_strandafirdir c_vestfirdir
@@ -13296,8 +13296,8 @@
 13286;159;32;232;;x; #6 9676;51;60;38;;x; nÞingeyjarsýsla b_nordur_thingeyarsysla c_thingeyjarsysl
 13287;60;32;240;;x; #3 9667;93;33;161;;x; Flugumyri Asbirning b_vidimyri c_skagafjordur breyta þessu i c_holar
 13288;60;132;240;;x; #3 9664;177;24;32;;x; Asbirning Vidimyri b_flugumyri c_skagafjordur (breyta þessu í vidimiry og breyta hinu í holar)
-13289;43;32;232;;x; #1 9663;155;4;4;;x;  Myrum b_myreyri c_vestfirdir Iceland Covenant Mod starts here
-13290;44;32;236;;x; #1 9662 Ísafjörður - b_vatnfirdir c_vestfirdir
+#13289;62;32;248;;x;
+#13290;63;32;232;;x;
 #13291;64;32;236;;x;
 #13292;65;32;240;;x;
 #13293;66;32;244;;x;
