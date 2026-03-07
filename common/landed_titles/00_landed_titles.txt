@@ -18261,31 +18261,31 @@ e_scandinavia = {
 
 			
 			c_dalasysla = {
-				color = { 255 245 245 }
+				color = { 204 255 255 }
 
 				b_dalasysla = {	#=Hvammur
 					province = 13273
 
-					color = { 255 245 245 }
+					color = { 204 255 255 }
 				}
 				b_stadarstadur = {
 					province = 13272
 
-					color = { 255 245 245 }
+					color = { 153 255 255 }
 				}
 				b_olafsvik = {
 					province = 8771
 
-					color = { 255 245 245 }
+					color = { 102 255 255 }
 				}
 				b_myrasysla = {
 					province = 13275
 
-					color = { 255 245 245 }
+					color = { 51 255 255 }
 				}
 			}
 			c_hunavatnsysla = {
-				color = { 255 245 245 }
+				color = { 153 255 255 }
 
 				b_vest_hunavatn = {
 					province = 13276
@@ -18299,7 +18299,7 @@ e_scandinavia = {
 				}
 			}
 			c_vestfirdir = {
-				color = { 255 245 245 }
+				color = { 102 255 255 }
 				
 				b_vestfirdir = {	#=Isalfjordur
 					province = 1
@@ -18404,11 +18404,11 @@ e_scandinavia = {
 			}
 		}	
 		d_sunnlendingafjordungur = {
-			color = { 85 20 99 }
+			color = { 255 1 1 }
 
 			capital = c_arnessysla # Haukdalir
 			c_arnessysla = {
-				color = { 220 220 220 }
+				color = { 255 51 51 }
 
 				b_haukadalur = {
 					province = 13280
@@ -18417,15 +18417,15 @@ e_scandinavia = {
 				}	
 			}
 			c_sudurland = {
-				color = { 220 220 220 }
+				color = { 220 20 20 }
 				b_oddastadir = {
 					province = 13278
 
-					color = { 220 220 220 }
+					color = { 220 20 20 }
 				}
 			}
 			c_vestisland = {
-				color = { 255 245 245 }
+				color = { 255 1 1 }
 
 
 				b_reykholt = {
@@ -18455,7 +18455,7 @@ e_scandinavia = {
 				}
 			}
 			c_skalholt = {
-				color = { 220 220 220 }
+				color = { 255 101 101 }
 
 				b_stokkseyri = {
 					province = 3

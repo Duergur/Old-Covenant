@@ -5,10 +5,23 @@ king_male_iceland = {
 	special = holder
 	gender = male
 	tier = kingdom
-	priority = 47
+	priority = 501
 	name_lists = { name_list_icelander }
 	flavourization_rules = {
 		spouse_takes_title = no
+		only_independent = yes
+	}
+}
+king_male_iceland2 = {
+	type = character
+	special = holder
+	gender = male
+	tier = kingdom
+	priority = 500
+	name_lists = { name_list_icelander }
+	flavourization_rules = {
+		spouse_takes_title = no
+		top_liege = no
 	}
 }
 king_female_korean = {
@@ -38,7 +51,74 @@ spouse_king_female_korean = {
 	priority = 46
 	name_lists = { name_list_korean }
 }
-
+count_godi_iceland = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 28
+	governments = { tribal_government }
+	name_lists = { name_list_icelander }
+	
+	flavourization_rules = {
+		
+		spouse_takes_title = yes
+	}
+}
+count_godi_iceland = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 501
+	governments = { tribal_government }
+	name_lists = { name_list_icelander }
+	
+	flavourization_rules = {
+		
+		spouse_takes_title = yes
+	}
+}
+count_godi2_iceland = {
+	type = character
+	gender = male
+	special = holder
+	tier = county
+	priority = 500
+	governments = { tribal_government }
+	name_lists = { name_list_icelander }
+	
+	flavourization_rules = {
+		top_liege = no
+		spouse_takes_title = yes
+	}
+}
+duke_logman_iceland = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 501
+	governments = { tribal_government }
+	name_lists = { name_list_icelander }
+	flavourization_rules = {
+		
+		spouse_takes_title = no
+	}
+}
+duke_logman2_iceland = {
+	type = character
+	gender = male
+	special = holder
+	tier = duchy
+	priority = 500
+	governments = { tribal_government }
+	name_lists = { name_list_icelander }
+	flavourization_rules = {
+		top_liege = no
+		spouse_takes_title = no
+	}
+}
 kingdom_common_iceland = {
 	type = title
 	tier = kingdom
@@ -263,21 +343,6 @@ county_administrative_korean = {
 		top_liege = yes
 	}
 }
-
-count_godi_iceland = {
-	type = character
-	gender = male
-	special = holder
-	tier = county
-	priority = 28
-	governments = { tribal_government }
-	name_lists = { name_list_icelander }
-	
-	flavourization_rules = {
-		
-		spouse_takes_title = yes
-	}
-}
 count_feudal_female_korean = {
 	type = character
 	gender = female
@@ -300,20 +365,6 @@ county_feudal_korean = {
 	heritages = { heritage_korean }
 	flavourization_rules = {
 		top_liege = no
-	}
-}
-
-duke_logman_iceland = {
-	type = character
-	gender = male
-	special = holder
-	tier = duchy
-	priority = 50
-	governments = { tribal_government }
-	name_lists = { name_list_icelander }
-	flavourization_rules = {
-		
-		spouse_takes_title = no
 	}
 }
 duke_administrative_female_korean = {
