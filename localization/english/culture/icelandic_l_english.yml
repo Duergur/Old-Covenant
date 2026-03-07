@@ -1,6 +1,6 @@
 ﻿l_english:
 #Icelandic Culture
-icelander:0 "Icelander"
+icelander:0 "Icelandic"
 icelander_prefix:0 "icelandic"
 icelander_collective_noun:1 "Icelanders"
 #Bookmarks
@@ -9,7 +9,7 @@ bm_1178_sturla_desc: "hér skal koma texti"
 bookmark_sturla_snorri: "Hvamm-Sturla Þórðarson"
 bookmark_sturla_snorri_desc: "Hvamm-Sturla Þórðarson bjó í Hvammi í Dölum. Hann var fæddur árið 1115 og dó 23. júlí 1183. Foreldrar hans voru Vigdís Svertingsdóttir og Þórður Gilsson goði á Staðarfell í Dölum. Sturla var goði eins og faðir hans. Hann var stórbokki og lét aldrei sinn hlut fyrir nokkrum manni. Hann stóð í illdeilum við Pál Sölvason prest í Reykholti og gekkst höfðinginn Jón Loftsson í Odda fyrir sáttum þeirra með því að bjóða Sturlu að fóstra yngsta son hans, Snorra."
 bookmark_sturla_gudny: "Guðný Böðvarsdóttir"
-bookmark_sturla_gudny_desc: "Guðný var nett kona"
+bookmark_sturla_gudny_desc: "Guðný Böðvarsdóttir (c. 1142 – 1221) was an Icelandic matriarch in the Sturlungar clan. Her three sons, Þórðr, Sighvatr, and Snorri Sturluson, were important chieftains in the Age of the Sturlungs and its violent feuds. She managed the farms at Hvammue, Stað, Eyri, and Reykholt, she appears as a character in Sturlunga saga"
 
 #Clans of Sturlungaöld
 dynn_Svinfelling: "Svínfellingar"
@@ -19,8 +19,13 @@ dynn_Asbirning: "Ásbirningar"
 d_laamp_sturlungar: "Sturlungar"
 d_laamp_asbirning: "Ásbirningar"
 d_laamp_svinfelling: "Svínfellingar"
-
+#Flavour
+king_male_iceland: "Lögsögumaður"
+kingdom_common_iceland: "Commonwealth"
+count_godi_iceland: "Goði"
+duke_logman_iceland: "Lögmaður"
 #New Counties in Iceland
+k_iceland: "Iceland"
 b_myreyri: "Mýrdalur"
 b_vatnfirdir: "Ísafjörður"
 c_vestfirdir: "Vestfirðir"
@@ -36,5 +41,10 @@ c_skagafjordur: "Skagafjörður"
 c_thingeyjarsysla: "Þingeyjarsýsla"
 c_dalasysla: "Dalasýsla"
 b_dalasysla: "Hvammur"
-b_myrarsysla: "Mýrarsýsla"
+B_myrasysla: "Mýrasýsla"
 c_hunavatnsysla: "Húnavatnsýsla"
+c_skalholt: "Skálholt"
+b_selfoss: "Selfoss"
+d_austfirdingafjordungur: "Austfirðingafjórðungur"
+d_sunnlendingafjordungur: "Sunnlendingafjórðungur"
+d_nordlendingafjordungur: "Norðlendingafjórðungur"

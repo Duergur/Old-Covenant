@@ -344,7 +344,6 @@ c_skalholt = {
 	}
 	1066.1.1 = {
 		liege = "d_iceland"
-		succession_laws = { scandinavian_elective_succession_law }
 	}
 	1066.1.1 = {
 		holder = 20579 #ekki rétt manneskja
@@ -359,7 +358,6 @@ c_thingeyjarsysla = {
 	}
 	1066.1.1 = {
 		liege = "d_iceland"
-		succession_laws = { scandinavian_elective_succession_law }
 	}
 	1066.1.1 = {
 		holder = 20579 #ekki rétt manneskja

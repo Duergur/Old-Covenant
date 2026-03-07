@@ -5,7 +5,7 @@ dynn_Haukadalur: "Haukdælir"
 dynn_Oddi: "Oddverjar"
 
 #New Counties
-b_vestfirdir: "Hvammur"
+b_vestfirdir: "Eyri"
 b_reydarfjall: "Valþjófsstaður"
 b_hofn: "Svínafell"
 b_vopnafjordur: "Hof"
@@ -18,3 +18,4 @@ c_svinfell: "Svínfell"
 c_sudurland: "Rangárþing"
 c_austisland: "Austfirðir"
 c_vestisland: "Reykholt"
+d_iceland: "Vestfirðingafjórðungur"
