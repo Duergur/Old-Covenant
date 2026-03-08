@@ -22,11 +22,15 @@ d_laamp_svinfelling: "Svínfellingar"
 #Flavour
 king_male_iceland: "Lögsögumaður"
 king_male_iceland2: "Jarl"
-kingdom_common_iceland: "Commonwealth"
 count_godi_iceland: "Goði"
 count_godi2_iceland: "Sýslumaður"
 duke_logman_iceland: "Stórgoði"
 duke_logman2_iceland: "Lögmaður" 
+  #Titles
+kingdom_common_iceland: "Commonwealth"
+duchy_commonwealth_iceland: "Farthing"
+county_commonwealth_iceland: "Goðorð"
+county_commonwealth_iceland2: "Sýsla"
 #New Counties in Iceland
 k_iceland: "Iceland"
 b_myreyri: "Mýrdalur"
