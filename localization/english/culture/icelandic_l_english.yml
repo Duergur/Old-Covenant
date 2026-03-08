@@ -26,11 +26,13 @@ count_godi_iceland: "Goði"
 count_godi2_iceland: "Sýslumaður"
 duke_logman_iceland: "Stórgoði"
 duke_logman2_iceland: "Lögmaður" 
+baron_male_iceland: "Bóndi"
   #Titles
 kingdom_common_iceland: "Commonwealth"
 duchy_commonwealth_iceland: "Farthing"
 county_commonwealth_iceland: "Goðorð"
 county_commonwealth_iceland2: "Sýsla"
+barony_commonwealth_iceland: "Hreppur"
 #New Counties in Iceland
 k_iceland: "Iceland"
 b_myreyri: "Mýrdalur"

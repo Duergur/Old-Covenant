@@ -29,6 +29,27 @@ county_commonwealth_iceland2 = {
 	top_liege = no
 	}
 }
+barony_commonwealth_iceland = {
+	type = title
+	tier = barony
+	priority = 502
+	governments = { tribal_government feudal_government }
+	name_lists = { name_list_icelander }
+	flavourization_rules = {
+	only_independent = yes
+	}
+}
+baron_male_iceland = {
+	type = character
+	special = holder
+	gender = male
+	tier = barony
+	priority = 501
+	name_lists = { name_list_icelander }
+	flavourization_rules = {
+		spouse_takes_title = no
+	}
+}
 king_male_iceland = {
 	type = character
 	special = holder
