@@ -1,0 +1,120 @@
+####d_sunnlendingafjordungur
+#Kjalarnes-Arnes-Rangar þing
+###c_arnessysla-Árnesþing
+13280 = {	#Haukadalur
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13279 = { #b_selfoss Flóaman
+culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13281 = { #c_arnes3 Ölfus
+culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+###Kjalnesþing
+13283 = { #Reykholt
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+2 = {	#REYKJAVIK #Bessastaðir
+	culture = norse
+	religion = norse_pagan
+	holding = none
+	1000.1.1 = {
+		religion = insular_norse
+		holding = church_holding
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13282 = { #c_arnes2 Lunda
+culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+#Rangárþing-c_sudurland
+13278 = {	# oddastaðir
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13274 = {	# Dalverjar
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13290 = {	# Hlíðverjar
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+#Skálholt
+3 = {	#Skálholt
+	holding = none
+	culture = norse
+	religion = norse_pagan
+	1000.1.1 = {
+		holding = church_holding
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+
+

@@ -2,7 +2,7 @@
 1;42;3;128;VESTFIRDIR;x;
 2;84;6;1;REYKJAVIK;x;
 3;126;9;129;STOKKSEYRI;x;
-4;168;12;2;REYDARFJALL;x;
+4;168;12;2;REYDARFJALL;x; #Hrafn Kiðafell
 5;0;15;130;HUSAVIK;x;
 6;168;45;177;TORSHAVN;x;
 7;84;21;131;SCALLOWAY;x;
@@ -8778,10 +8778,10 @@
 8768;134;105;84;Ski;x;			#NORWAY
 8769;176;108;212;Stange;x;		#NORWAY
 8770;8;111;85;Uddevalla;x;		#NORWAY
-8771;50;114;213;Olafsvik;x;			#ICELAND
+8771;50;114;213;Olafsvik;x;			#ICELAND borg a myrum
 8772;92;117;86;Hofn;x;				#ICELAND
-8773;134;120;214;Vopnafjordur;x;	#ICELAND
-8774;176;123;87;Klaustur;x;			#ICELAND
+8773;134;120;214;Vopnafjordur;x;	#ICELAND #Hofverjar
+8774;176;123;87;Klaustur;x;			#ICELAND #Leið
 8775;8;126;215;Urquhart;x;		#SCOTLAND
 8776;50;129;88;Glenelg;x;		#SCOTLAND
 8777;92;132;216;Tain;x;			#SCOTLAND
@@ -13306,8 +13306,8 @@
 13296;140;70;21;;x; #Vaðlaþing-Þver
 13297;50;109;196;;x; #Hegranesþing-Sæm
 13298;33;72;130;;x; #Hegranesþing-Hof
-#13299;72;32;248;;x;
-#13300;73;33;232;;x;
+13299;110;98;176;;x; #Krakalækjaþing Krossvík 
+13300;155;138;247;;x; #Krakalækjaþing Njarðvík
 #13301;74;33;236;;x;
 #13302;75;33;240;;x;
 #13303;76;33;244;;x;

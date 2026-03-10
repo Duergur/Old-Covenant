@@ -1,0 +1,67 @@
+#d_iceland
+# Þorskafjarðar Þverár Þórsnes þing
+#Þorskafjarðarþing-c_vestfirdir
+1 = {	#VESTFIRDIR
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13271 = {	#Vatnfirdir
+	holding = tribal_holding
+}
+13270 = {	#myrum
+	holding = tribal_holding
+}
+#Þverárþing-c_dalasysla
+13284 = { #c_kjos Stafahylt
+culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+8771 = {	#OLAFSVIK Borg á Mýrum
+	holding = none
+	1066.1.1 = {
+		holding = church_holding
+	}
+}
+13289 = {	#Gilbekk
+	holding = none
+}
+#Þórsnesþing
+13273 = {	#Hvammur b_dalasysla
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13272 = {	#Staðarstaður
+	holding = tribal_holding
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
+13275 = { #b_myrarsysla
+culture = norse
+	holding = tribal_holding
+}
+
+
+
+
