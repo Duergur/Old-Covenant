@@ -13295,17 +13295,17 @@
 13285;73;14;105;;x; #Þingeyjarþing-Öxar sÞingeyjarsýsla b_sudur_thingeyarsysla c_thingeyjarsysla
 13286;159;32;232;;x; #Þingeyjarþing-Reykdælingar nÞingeyjarsýsla b_nordur_thingeyarsysla c_thingeyjarsysl
 13287;60;32;240;;x; #3 9667;93;33;161;;x; Flugumyri Asbirning b_vidimyri c_skagafjordur breyta þessu i c_holar
-13288;60;132;240;;x; #3 9664;177;24;32;;x; Asbirning Vidimyri b_flugumyri c_skagafjordur (breyta þessu í vidimiry og breyta hinu í holar)
+13288;60;132;240;;x; #Hegranesþing-Höfða Asbirning Vidimyri b_flugumyri c_skagafjordur (breyta þessu í vidimiry og breyta hinu í holar)
 13289;80;89;186;;x; #Þverárþing-Gilbekk (bara litað)
 13290;233;218;255;;x; #Rangárþing-Hlíðverjar (bara litað)
 13291;99;70;49;;x; #Skaftafellsþing-FreisSvinfell (bara litað)
 13292;240;17;3;;x; #Kiðafellsþing-Hof2 (bara litað)
 13293;201;14;3;;x; #Kiðafellsþing-Fljótdælingar (bara litað)
 13294;93;19;135;;x; #Þingeyjarþing-ljosvetningar
-#13295;68;32;232;;x;
-#13296;69;32;236;;x;
-#13297;70;32;240;;x;
-#13298;71;32;244;;x;
+13295;232;116;35;;x; #Vaðlaþing-Möðru
+13296;140;70;21;;x; #Vaðlaþing-Þver
+13297;50;109;196;;x; #Hegranesþing-Sæm
+13298;33;72;130;;x; #Hegranesþing-Hof
 #13299;72;32;248;;x;
 #13300;73;33;232;;x;
 #13301;74;33;236;;x;
