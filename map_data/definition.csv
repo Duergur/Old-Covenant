@@ -13277,28 +13277,28 @@
 13267;136;88;106;;x;
 13268;159;111;3;;x;
 13269;107;147;212;;x;
-13270;43;32;232;;x; #1 9663;155;4;4;;x;  Myrum b_myreyri c_vestfirdir Iceland Covenant Mod starts here
-13271;44;32;236;;x; #1 9662 Ísafjörður - b_vatnfirdir c_vestfirdir
-13272;144;144;144;;x; #2 9666;51;30;33;;x; #Staðarstaður b_stadarstadur c_dalasysla 
-13273;146;32;44;;x; #2 9672;93;48;36;;x; Dalasysla b_dalasysla c_dalasysla hvammur
-13274;47;132;48;;x; #1 9673;135;51;164;;x; Strandasýsla b_strandafirdir c_vestfirdir
-13275;48;32;232;;x; #2 9671;51;45;163;;x; Mýrasýsla b_myrasysla c_dalasysla
+13270;83;118;128;;x; #Þorskafjarðarþing-Reyknes  Myrum b_myreyri c_vestfirdir Iceland Covenant Mod starts here
+13271;153;217;234;;x; #Þorskafjarðarþing-Vatnf 9662 Ísafjörður - b_vatnfirdir c_vestfirdir
+13272;47;245;106;;x; #Þórnesþing- #Staðarstaður b_stadarstadur c_dalasysla 
+13273;34;177;76;;x; #Þórnesþing-Hvammur Dalasysla b_dalasysla c_dalasysla hvammur
+13274;172;162;189;;x; #Rangárþing-Dalverjar 
+13275;19;99;43;;x; #Þórnesþing-Hitadalur 9671;51;45;163;;x; Mýrasýsla b_myrasysla c_dalasysla
 13276;240;28;160;;x; #3-7 9674;177;54;37;;x; vestur hunavatnssysla b_vest_hunavatn c_hunavatnsysla
 13277;240;28;60;;x; #3-7 9675;9;57;165;;x; austur hunavatnssysla b_aust_hunavatn c_hunavatnsysla
-13278;219;206;240;;x; #4C 9669;9;42;35;;x; Oddastaðir b_oddastadir c_sudurland
-13279;52;32;248;;x; #4B 9678;135;66;39;;x; b_selfoss c_skalholt
-13280;53;32;23;;x; #4A 9665;9;27;160;;x; Haukdalur-c_arnessysla b_haukadalur
-13281;54;32;236;;x; #5 9680;9;72;40;;x; b_arnes3 c_vestisland kannski færa yfir í c_arnessysla
-13282;54;132;240;;x; #5 9679;177;69;167;;x; b_arnes2 c_vestisland
-13283;200;5;5;;x; #5 9668;135;36;34;;x; Reykholt b_reykholt c_vestisland
-13284;57;32;248;;x; #5 9670;177;39;162;;x; Kjós b_kjos c_vestisland
+13278;219;206;240;;x; #Rangárþing- Oddastaðir b_oddastadir c_sudurland
+13279;199;157;11;;x; #Árnesþing-Flóaman b_selfoss c_skalholt
+13280;255;201;14;;x; #Árnesþing- Haukdalur-c_arnessysla b_haukadalur
+13281;143;113;8;;x; #Árnesþing-Ölfus b_arnes3 c_vestisland kannski færa yfir í c_arnessysla
+13282;250;6;6;;x; #Kjalarnesþing-Lunda  b_arnes2 c_vestisland
+13283;200;5;5;;x; #Kjalarnesþing- Reykholt b_reykholt c_vestisland
+13284;57;32;248;;x; #Þverárþing-stafahylt Kjós b_kjos c_vestisland
 13285;58;32;232;;x; #6 9677;93;63;166;;x; sÞingeyjarsýsla b_sudur_thingeyarsysla c_thingeyjarsysla
 13286;159;32;232;;x; #6 9676;51;60;38;;x; nÞingeyjarsýsla b_nordur_thingeyarsysla c_thingeyjarsysl
 13287;60;32;240;;x; #3 9667;93;33;161;;x; Flugumyri Asbirning b_vidimyri c_skagafjordur breyta þessu i c_holar
 13288;60;132;240;;x; #3 9664;177;24;32;;x; Asbirning Vidimyri b_flugumyri c_skagafjordur (breyta þessu í vidimiry og breyta hinu í holar)
-#13289;62;32;248;;x;
-#13290;63;32;232;;x;
-#13291;64;32;236;;x;
+13289;80;89;186;;x; #Þverárþing-Gilbekk (bara litað)
+13290;233;218;255;;x; #Rangárþing-Hlíðverjar (bara litað)
+13291;99;70;49;;x; #Skaftafellsþing-FreisSvinfell (bara litað)
 #13292;65;32;240;;x;
 #13293;66;32;244;;x;
 #13294;67;32;248;;x;
