@@ -1,0 +1,75 @@
+#d_nordlendingafjordungur
+# Húnavatn Hegranes Vaðla Þingeyjar þing
+#Húnavatn
+13276 = { #b_vest_hunavatn c_hunavatnsysla- Vidim
+culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13277 = { #austur hunavatnssysla b_aust_hunavatn c_hunavatnsysla -Vatns
+culture = norse
+	holding = none
+}
+13287 = {	#Flugumyri, nú kallað Víðimýri - Æverlingar
+	holding = none
+}
+#Hegranes
+13288 = {	 #Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður -Hof
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13297 = {	 #Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður -Hof
+	holding = none
+}
+13298 = {	 #Vidimyri # ekki lengur Vidimyri # Hólar biskupstaður -Hof
+	holding = none
+}
+#Vaðlaþing-c_nordrland
+5 = {	#HUSAVIK #Mun gera að Grund
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13295 = { #Möðlu 
+	holding = none
+}
+13296 = { #Þver 
+	holding = none
+}
+#Þingeyjarþing
+13286 = { #c_sudur_thingeyarsysla ingeyjarþing-Reykdælingar nÞingeyjarsýsla b_nordur_thingeyarsysla c_thingeyjarsysl
+culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13285 = { #Þingeyjarþing-Öxar sÞingeyjarsýsla b_sudur_thingeyarsysla c_thingeyjarsysla
+	holding = none
+} 
+13294 = { #Ljosvetningar
+	holding = none
+}

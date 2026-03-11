@@ -1,4 +1,4 @@
-#k_norway
+﻿#k_norway
 ##d_viken ###################################
 ###c_vingulmork
 234 = {	#OSLOSYSLAR	- Oslo
@@ -442,89 +442,7 @@
 	holding = none
 }
 
-##d_iceland ###################################
-###c_vestisland
-2 = {	#REYKJAVIK
-	culture = norse
-	religion = norse_pagan
-	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelander
-	}
-}
-1 = {	#VESTFIRDIR
-	holding = tribal_holding
-}
-8771 = {	#OLAFSVIK
-	holding = none
-	1066.1.1 = {
-		holding = church_holding
-	}
-}
-
-###c_nordrland
-5 = {	#HUSAVIK
-	culture = norse
-	religion = norse_pagan
-	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelander
-	}
-}
-8773 = {	#VOPNAFJORDUR
-	holding = none
-	1066.1.1 = {
-		holding = church_holding
-	}
-}
-
-###c_austisland
-4 = {	#REYDARFJALL
-	culture = norse
-	religion = norse_pagan
-	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelander
-	}
-}
-8772 = {	#HOFN
-	holding = tribal_holding
-	culture = norse
-	religion = norse_pagan
-	1000.1.1 = {
-		religion = catholic
-	}
-	1178.1.1 = {
-		culture = icelander
-	}
-}
-###c_sudurland
-3 = {	#STOKKSEYRI
-	culture = norse
-	religion = norse_pagan
-	holding = tribal_holding
-	1000.1.1 = {
-		religion = catholic
-		holding = church_holding
-	}
-	1178.1.1 = {
-		culture = icelander
-	}
-}
-8774 = {	#KLAUSTUR
-	holding = tribal_holding
-	culture = icelander
-	religion = catholic
-}
+#Iceland was here Covenant Mod 
 
 ##d_northern_isles ###################################
 ###c_orkney
@@ -543,7 +461,7 @@
 	1066.1.1 = { culture = norwegian }
 }
 
-###c_faereyar
+###c_faereyar #Covenant Mod edited religion
 6 = {	#TORSHAVN
 	culture = pictish
 	religion = catholic
@@ -553,7 +471,7 @@
 		religion = norse_pagan
 	}
 	1000.1.1 = {
-		religion = catholic
+		religion = insular_norse 
 		holding = castle_holding
 	}
 	1066.1.1 = {

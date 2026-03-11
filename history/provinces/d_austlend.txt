@@ -1,0 +1,51 @@
+###d_austfirdingafjordungur
+#Krakalækja Kiðafells Skaftafells þing
+#Krakalækjaþing
+8773 = {	# #VOPNAFJORDUR #Hof, biskupstaður, Hofverjar voru hér t.d. #Krossvík
+	holding = none
+	1000.1.1 = {
+		holding = church_holding
+	}
+}
+13299 = {	#Krossvík
+	holding = none
+}
+13300 = { #Njarðvík
+	holding = none
+}
+#Kiðafellsþing
+4 = {	#REYDARFJALL #Hrafnkellsgoðorð 
+	culture = norse
+	religion = norse_pagan
+	holding = tribal_holding
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+13292 = {	#hof2
+	holding = none
+}
+13293 = {	#fljótdælingar
+	holding = none
+}
+#Skaftafellsþing -c_svinfell
+8772 = {	#HOFN Svínfell
+	holding = tribal_holding
+	culture = norse
+	religion = norse_pagan
+	1000.1.1 = {
+		religion = insular_norse
+	}
+	930.1.1 = {
+		culture = icelander
+	}
+}
+8774 = {	#Klaustr var oddastaðir
+holding = none
+}
+13291 = {	#FreisSvinfell
+holding = none
+}

@@ -1,4 +1,0 @@
-﻿house_svinfelling = {
-	name = "dynn_Svinfelling"
-	dynasty = svinfelling
-}

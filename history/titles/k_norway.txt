@@ -2132,6 +2132,8 @@ d_northern_isles = {
 	}
 
 }
+
+
 c_orkney = {
 	760.1.1 = {
 		liege = "d_moray"
@@ -2182,6 +2184,7 @@ c_orkney = {
 		holder = 450820
 	}
 }
+
 
 c_faereyar = {
 	760.1.1 = {
