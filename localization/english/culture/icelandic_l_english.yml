@@ -35,25 +35,94 @@ county_commonwealth_iceland2: "Sýsla"
 barony_commonwealth_iceland: "Hreppur"
 #New Counties in Iceland
 k_iceland: "Iceland"
+#Vestlend (d_iceland) xx
+#Þorskadalsþing
+#c_vestfirdir: "Þorskadalsþing"
+c_vestfirdir: "Þorskadalsþing"
 b_myreyri: "Mýrdalur"
 b_vatnfirdir: "Ísafjörður"
-c_vestfirdir: "Vestfirðir"
-b_vidimyri: "Hólar"
-b_haukadalur: "Haukadalur"
-b_stadarstadur: "Staðarstaður"
-b_oddastadir: "Oddastaðir"
-c_arnessysla: "Árnes"
-c_stadarstadur: "Staðarstaður"
-b_reykholt: "Reykholt"
-b_flugumyri: "Víðimýri"
-c_skagafjordur: "Skagafjörður"
-c_thingeyjarsysla: "Þingeyjarsýsla"
-c_dalasysla: "Dalasýsla"
+#b_vestfirdir: ""
+#Þórnesþing
+c_tornesting: "Þórnesþing"
 b_dalasysla: "Hvammur"
 B_myrasysla: "Mýrasýsla"
-c_hunavatnsysla: "Húnavatnsýsla"
-c_skalholt: "Skálholt"
-b_selfoss: "Selfoss"
+b_stadarstadur: "Staðarstaður"
+#Austlend xx
 d_austfirdingafjordungur: "Austfirðingafjórðungur"
+#Krakalækjarþing
+c_krakalaek: "Krakalækjarþing"
+#b_vopnafjordur
+b_krossvik: "Krossvíkurgoð"
+b_njardvik: "Njarðvíkurgoð"
+#Kiðafellsþing c_austisland
+#c_austisland: "Kiðafellsþing"
+b_fljotdal: "Fljótdælingagoð"
+#b_reydar
+b_hof2: "Hofverjar2"
+
+#Skaftafellsþing
+c_svinfell: "Skaftafellsþing"
+b_svinfell: "Freisgoð"
+#b_klaustur
+#b_hofn
+
+#Vaðlaþing
+#c_nordrland: "Vaðlaþing" #"Eyjafjörður"
+#b_husavik
+b_esphiholl: "Þvergoðr"
+#b_akureyri: "Möðrugoð"
+
+#Sunnlend xx
 d_sunnlendingafjordungur: "Sunnlendingafjórðungur"
+#c_vestisland 
+#b_reykjavik
+b_arnes2: "Lundi"
+b_reykholt: "Reykholt"
+#Skálholt
+c_skalholt: "Skálholt"
+#Árnesþing
+c_arnessysla: "Árnesþing"
+b_haukadalur: "Haukadalur"
+b_selfoss: "Flóamangoð"
+b_arnes3: "Ölfusgoð"
+#Rangárþing
+#c_sudurland
+b_strandasysla: "Dalverjagoðorð"
+b_oddastadir: "Oddastaðir"
+b_hlidver: "Hlíðverjagoðorð"
+#Þverárþing
+c_dalasysla: "Þverárþing"
+b_kjos: "Kjós"
+#b_Olafsvik Borg á Mýrum er í replace
+
+#Nordlend xx
 d_nordlendingafjordungur: "Norðlendingafjórðungur"
+c_hunavatnsysla: "Húnavatnsþing"
+b_flugumyri: "Æverlingar"
+b_vest_hunavatn: "Vatnsfjarðargoð"
+b_aust_hunavatn: "Vidim"
+#Þingeyjarþing
+c_thingeyjarsysla: "Þingeyjarþing"
+b_ljosvetning: "Ljósavatn"
+b_sudur_thingeyarsysla: "Öxargoð"
+b_nordur_thingeyarsysla: "Reykdælgoð"
+#Hegranesþing
+c_skagafjordur: "Hegranesþing"
+b_vidimyri: "Höfðaþórðargoð"
+b_saemund: "Sæmundargoð"
+b_hofthor: "Hofþórsgoð"
+
+
+#c_stadarstadur: "Staðarstaður" ekki lengur til/ þornesþing
+
+
+
+
+
+
+
+
+
+
+
+
